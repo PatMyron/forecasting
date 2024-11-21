@@ -1,0 +1,2172 @@
+[
+	{
+		"id": "ladKYWmxkog5G8RHtKeC",
+		"creatorId": "4juQfJkFnwX9nws3dFOpz4gc1mi2",
+		"creatorUsername": "jacksonpolack",
+		"creatorName": "jackson polack",
+		"createdTime": 1683592303272,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5rlJX8nmgp_EsouBw_JhV5gKCkwTXaqGTDpv9y=s96-c",
+		"closeTime": 1684102040277,
+		"question": "Will the Astral Codex Ten post \"Constitutional AI: RLHF On Steroids\" get >100 likes?",
+		"slug": "will-the-astral-codex-ten-post-cons-bf778233b93b",
+		"url": "https://manifold.markets/jacksonpolack/will-the-astral-codex-ten-post-cons-bf778233b93b",
+		"pool": {
+			"NO": 1101.9181806827776,
+			"YES": 68.89490802249023
+		},
+		"probability": 0.9904476540605698,
+		"p": 0.8663592897885269,
+		"totalLiquidity": 130,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2907.3427300287403,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1684102040277,
+		"resolutionProbability": 0.99,
+		"uniqueBettorCount": 5,
+		"lastUpdatedTime": 1684099970282,
+		"lastBetTime": 1684099970145,
+		"lastCommentTime": 1684087979788,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F-AnVWoT_H7.png?alt=media&token=30bbd5ed-151b-4051-b4f3-01e8f3da68d4",
+		"textDescription": "https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids"
+	},
+	{
+		"id": "qQzrjRPMC4PUavz9RikO",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1667393661084,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1667460687181,
+		"question": "Will Kash Patel receive immunity from prosecution to secure his testimony against Donald Trump in a criminal case?",
+		"slug": "will-kash-patel-receive-immunity-fr",
+		"url": "https://manifold.markets/BTE/will-kash-patel-receive-immunity-fr",
+		"pool": {
+			"NO": 1005,
+			"YES": 9.950248756218912
+		},
+		"probability": 0.9901963187176784,
+		"p": 0.49999999999999883,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 905,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1667460687181,
+		"resolutionProbability": 0.5,
+		"uniqueBettorCount": 1,
+		"lastUpdatedTime": 1667460663161,
+		"lastBetTime": 1667460663019,
+		"lastCommentTime": 1667393687971,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "There are ",
+							"type": "text"
+						},
+						{
+							"text": "rumors the DoJ is considering granting",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.theguardian.com/us-news/2022/nov/02/kash-patel-immunity-deal-trump-documents-doj",
+										"class": "z-10 break-anywhere hover:underline hover:decoration-indigo-400 hover:decoration-2",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " Trump loyalist and confidant Kash Patel immunity from prosecution to secure his testimony against Trump in the Mara-a-Lago documents investigation. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if it happens by the end of 2023.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F71HJ0BXThQ.png?alt=media&token=975ccbdb-de11-4066-b32e-89e7a7ded6ec",
+		"groupSlugs": [
+			"law-order",
+			"magaland"
+		],
+		"textDescription": "There are rumors the DoJ is considering granting Trump loyalist and confidant Kash Patel immunity from prosecution to secure his testimony against Trump in the Mara-a-Lago documents investigation. \n\nResolves YES if it happens by the end of 2023."
+	},
+	{
+		"id": "iemIxOG4kQJxuFUDj13l",
+		"creatorId": "jbgplxty4kUKIa1MmgZk22byJq03",
+		"creatorUsername": "Undox",
+		"creatorName": "Undox",
+		"createdTime": 1655418984311,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FMartin%2Fgiphy.gif?alt=media&token=422ef610-553f-47e3-bf6f-c0c5cc16c70a",
+		"closeTime": 1655514488441,
+		"question": "(Round 2) Will any single trader be able to make M$100 buy buying and selling in this market?",
+		"slug": "round-2-will-any-single-trader-be-a",
+		"url": "https://manifold.markets/Undox/round-2-will-any-single-trader-be-a",
+		"pool": {
+			"NO": 1951.3284283838268,
+			"YES": 17.551978508739467
+		},
+		"probability": 0.9954440077024005,
+		"p": 0.6627663577013511,
+		"totalLiquidity": 458.86329155129414,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 19523.927331227547,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1655514488441,
+		"resolutionProbability": 0.9954440077024005,
+		"uniqueBettorCount": 17,
+		"lastUpdatedTime": 1655519231099,
+		"lastBetTime": 1655511901208,
+		"lastCommentTime": 1655519230199,
+		"marketTier": "play",
+		"description": "Copy of https://manifold.markets/Undox/will-any-single-trader-be-able-to-m, because it seemed to be fun.\n\nThe profit is calculated as\n\nΣ(money collected by selling bets) - Σ(money spent on bets)\n\nAny \"holdings\" of YES/NO do not count towards this. This means the profit reported in on the page is ignored, as this is unrealized profit.\n\nWill use the values on the page, which are rounded, to do the calculation. So under the hood you may have made 99.9 profit, but if it says 100 when I add it up on the site it is 100.",
+		"textDescription": "Copy of https://manifold.markets/Undox/will-any-single-trader-be-able-to-m, because it seemed to be fun.\n\nThe profit is calculated as\n\nΣ(money collected by selling bets) - Σ(money spent on bets)\n\nAny \"holdings\" of YES/NO do not count towards this. This means the profit reported in on the page is ignored, as this is unrealized profit.\n\nWill use the values on the page, which are rounded, to do the calculation. So under the hood you may have made 99.9 profit, but if it says 100 when I add it up on the site it is 100."
+	},
+	{
+		"id": "Ef8jLI2gRRFNLra7PmHe",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1658624109326,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1658968215824,
+		"question": "Will the US Senate pass the Chips Act before the summer recess?",
+		"slug": "will-the-us-senate-pass-the-chips-a",
+		"url": "https://manifold.markets/BTE/will-the-us-senate-pass-the-chips-a",
+		"pool": {
+			"NO": 1249.6986039904352,
+			"YES": 8.001929399671894
+		},
+		"probability": 0.9936376512633713,
+		"p": 0.5000000000000047,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1302.7689632817471,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1658968215824,
+		"resolutionProbability": 0.7334863478563183,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1658968201070,
+		"lastBetTime": 1658968199703,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves yes if the Chips Act is passed by the US Senate before they adjourn for the August recess. [The bill](",
+							"type": "text"
+						},
+						{
+							"text": "https://finance.yahoo.com/news/heres-what-in-the-semiconductor-bill-as-the-senate-nears-a-crucial-vote-162706068.html",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://finance.yahoo.com/news/heres-what-in-the-semiconductor-bill-as-the-senate-nears-a-crucial-vote-162706068.html",
+										"class": "no-underline !text-indigo-700 z-10 break-words hover:underline hover:decoration-indigo-400 hover:decoration-2",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") passed out of committee last week and now must overcome the 60 vote threshold for cloture to get a final floor vote. This will likely play out in the next 10-15 days. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-politics",
+			"politics-default"
+		],
+		"textDescription": "Resolves yes if the Chips Act is passed by the US Senate before they adjourn for the August recess. [The bill](https://finance.yahoo.com/news/heres-what-in-the-semiconductor-bill-as-the-senate-nears-a-crucial-vote-162706068.html) passed out of committee last week and now must overcome the 60 vote threshold for cloture to get a final floor vote. This will likely play out in the next 10-15 days. "
+	},
+	{
+		"id": "DQLEKESVArViws4MVZ3x",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1675872203848,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1679466202354,
+		"question": "Will there be another earthquake in 2023 that tops 7 on the Richter Scale?",
+		"slug": "will-there-be-another-earthquake-in",
+		"url": "https://manifold.markets/BTE/will-there-be-another-earthquake-in",
+		"pool": {
+			"NO": 1026.244162730781,
+			"YES": 323.1530471432144
+		},
+		"probability": 0.9821150425994977,
+		"p": 0.9453297193891408,
+		"totalLiquidity": 390,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2673.913013681933,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1679466202354,
+		"resolutionProbability": 0.98,
+		"uniqueBettorCount": 19,
+		"lastUpdatedTime": 1679466116811,
+		"lastBetTime": 1678816865084,
+		"lastCommentTime": 1679466109926,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Turkey quake was 7.8. Only about a dozen recorded earthquakes were more powerful. Each .1 increase is a doubling of intensity. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2Fp81-YL0Xo1.png?alt=media&token=c068eb38-c3bf-4cb8-a25e-43f69c2742fc",
+		"groupSlugs": [
+			"natural-disasters"
+		],
+		"textDescription": "The Turkey quake was 7.8. Only about a dozen recorded earthquakes were more powerful. Each .1 increase is a doubling of intensity. "
+	},
+	{
+		"id": "rWB13QxLIxpWQuO4rQzu",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1660973230324,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672537124841,
+		"question": "Will Xi Jinping take a photo with the Saudi King while they touch the glowing orb?",
+		"slug": "will-xi-jinping-take-a-photo-with-t",
+		"url": "https://manifold.markets/BTE/will-xi-jinping-take-a-photo-with-t",
+		"pool": {
+			"NO": 153.92201405205623,
+			"YES": 681.9379109459245
+		},
+		"probability": 0.04062883057740796,
+		"p": 0.15798369216155017,
+		"totalLiquidity": 534.8755805222454,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 5292.134681384891,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672537124841,
+		"resolutionProbability": 0.04,
+		"uniqueBettorCount": 30,
+		"lastUpdatedTime": 1672483568347,
+		"lastBetTime": 1672483568174,
+		"lastCommentTime": 1670397408520,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Xi Jinping is extended the honor granted to Trump as seen in the picture below. I do not believe Joe Biden was so lucky as to get this photo op. Resolves NO if no evidence such a picture was taken during Xi’s visit to Saudi Arabia in the coming weeks. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2F4QVPFGaZnq.jpeg?alt=media&token=81dcbbf2-d7f9-4cf2-93f6-dbb3f0390798",
+						"title": null
+					}
+				}
+			]
+		},
+		"groupSlugs": [
+			"who-does-xi-think-he-is",
+			"china"
+		],
+		"textDescription": "Resolves YES if Xi Jinping is extended the honor granted to Trump as seen in the picture below. I do not believe Joe Biden was so lucky as to get this photo op. Resolves NO if no evidence such a picture was taken during Xi’s visit to Saudi Arabia in the coming weeks. \n\n[image]"
+	},
+	{
+		"id": "GuYRksdNn0xHvIP5Tp9C",
+		"creatorId": "yykycFLFkqfC48MK7gaPfseTkvl2",
+		"creatorUsername": "DanielFilan",
+		"creatorName": "Daniel Filan",
+		"createdTime": 1645727098806,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FDanielFilan%2FfpQjhngsSN.png?alt=media&token=acfc7197-647a-4617-b6a0-6889d0558a2e",
+		"closeTime": 1656658800000,
+		"question": "Will Russia attack another country by July 1st 2022?",
+		"slug": "will-russia-attack-another-country",
+		"url": "https://manifold.markets/DanielFilan/will-russia-attack-another-country",
+		"pool": {
+			"NO": 98.59676743218611,
+			"YES": 800.6573530640779
+		},
+		"probability": 0.02194774885295832,
+		"p": 0.15413852243693008,
+		"totalLiquidity": 120.60743700808399,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 4185.69015110945,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1658425155721,
+		"resolutionProbability": 0.021947748852958318,
+		"uniqueBettorCount": 53,
+		"lastUpdatedTime": 1658425146683,
+		"lastBetTime": 1656511586815,
+		"lastCommentTime": 1658425142015,
+		"marketTier": "play",
+		"description": "Resolved according to my judgement. Attack means a physical attack involving weapons. Has to be a country Russia is currently not engaged in hostilities in (so continued fighting in Ukraine or CAR don't count). Am open to help operationalizing.\n\nFeb 24, 11:08am: If it were obvious to me that Russia had paid mercenaries to attack another country, and Russia were in control of those mercenaries, I would count that.",
+		"groupSlugs": [
+			"politics-default",
+			"world-default",
+			"ukrainerussia-war"
+		],
+		"textDescription": "Resolved according to my judgement. Attack means a physical attack involving weapons. Has to be a country Russia is currently not engaged in hostilities in (so continued fighting in Ukraine or CAR don't count). Am open to help operationalizing.\n\nFeb 24, 11:08am: If it were obvious to me that Russia had paid mercenaries to attack another country, and Russia were in control of those mercenaries, I would count that."
+	},
+	{
+		"id": "EXrQ5WE3mUTA9cSmaQS0",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1660327078996,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672537836550,
+		"question": "Did the search of Mar-a-Lago uncover a secret grant of clemency for Roger Stone that was not previously reported?",
+		"slug": "did-the-search-of-maralago-uncover",
+		"url": "https://manifold.markets/BTE/did-the-search-of-maralago-uncover",
+		"pool": {
+			"NO": 29.91406876015718,
+			"YES": 895.046603765704
+		},
+		"probability": 0.01754673182297348,
+		"p": 0.34827321158456936,
+		"totalLiquidity": 339.3139509775306,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2860.9865024152027,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672537836550,
+		"resolutionProbability": 0.04,
+		"uniqueBettorCount": 18,
+		"lastUpdatedTime": 1672538637413,
+		"lastBetTime": 1672537793834,
+		"lastCommentTime": 1672538632928,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if the grant of clemency for Roger Stone included in the inventory of items seized from Mar-a-Lago is separate from the grant of clemency/pardon issued in June and December of 2020 respectively. Resolves NO if just copies of the original documents.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"magaland",
+			"law-order"
+		],
+		"textDescription": "Resolves YES if the grant of clemency for Roger Stone included in the inventory of items seized from Mar-a-Lago is separate from the grant of clemency/pardon issued in June and December of 2020 respectively. Resolves NO if just copies of the original documents."
+	},
+	{
+		"id": "jBL0zNfJVnhatXxxCxVb",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1658185991795,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1682884242579,
+		"question": "If Donald Trump is charged with a crime in any jurisdiction will his supporters respond by engaging in political violence?",
+		"slug": "if-donald-trump-is-charged-with-a-c",
+		"url": "https://manifold.markets/BTE/if-donald-trump-is-charged-with-a-c",
+		"pool": {
+			"NO": 23.64204833875352,
+			"YES": 1211.1863845348391
+		},
+		"probability": 0.009567315330841864,
+		"p": 0.3310454461017689,
+		"totalLiquidity": 291.4042542559017,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 9050.295718851869,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1682884242579,
+		"resolutionProbability": 0.01,
+		"uniqueBettorCount": 27,
+		"lastUpdatedTime": 1682883414958,
+		"lastBetTime": 1682868850549,
+		"lastCommentTime": 1682883411510,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves based on the reaction during the month following the date the first (if any) charges against Trump are announced.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date updated to 2024-12-31 11:59 pm",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"magaland",
+			"law-order",
+			"us-politics",
+			"donald-trump"
+		],
+		"textDescription": "Resolves based on the reaction during the month following the date the first (if any) charges against Trump are announced.\n\n\nClose date updated to 2024-12-31 11:59 pm"
+	},
+	{
+		"id": "2RKCYTY08RYJf6jfCzMY",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1661584406381,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672538990809,
+		"question": "Will it be revealed that Kash Patel's home was searched by the FBI before the end of 2022?",
+		"slug": "will-it-be-revealed-that-kash-patel",
+		"url": "https://manifold.markets/BTE/will-it-be-revealed-that-kash-patel",
+		"pool": {
+			"NO": 26.229658027912876,
+			"YES": 2193.604668583559
+		},
+		"probability": 0.006310530333296333,
+		"p": 0.34687719706570236,
+		"totalLiquidity": 160,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 4540.165368985874,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672538990809,
+		"resolutionProbability": 0.11,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1672538986092,
+		"lastBetTime": 1672538985983,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if it is revealed that Kash Patel's home/residence was searched by the FBI before the end of 2022. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"magaland"
+		],
+		"textDescription": "Resolves YES if it is revealed that Kash Patel's home/residence was searched by the FBI before the end of 2022. Resolves NO if not. "
+	},
+	{
+		"id": "MC4FcRg8T4DtosSzdMSZ",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1662520538700,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1666324740000,
+		"question": "Will Xi Jinping name or indicate a successor during the upcoming 20th Party Congress?",
+		"slug": "will-xi-jinping-name-a-successor-af",
+		"url": "https://manifold.markets/BTE/will-xi-jinping-name-a-successor-af",
+		"pool": {
+			"NO": 700.273593275535,
+			"YES": 607.3913488821751
+		},
+		"probability": 0.06668065587660327,
+		"p": 0.05835241628771754,
+		"totalLiquidity": 1064.965068370455,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3380.1765160110454,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1666526716866,
+		"resolutionProbability": 0.06668065587660327,
+		"uniqueBettorCount": 41,
+		"lastUpdatedTime": 1665959199702,
+		"lastBetTime": 1665959199551,
+		"lastCommentTime": 1662670591810,
+		"marketTier": "basic",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Xi Jinping names or signals his chosen successor during the 20th Party Congress, at which he is expected to get appointed to a 3rd term as President. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Sep 6, 11:21pm: It should be noted that Xi himself was named Hu Jintao's successor in 2007.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Oct 11, 2:27pm: ",
+							"type": "text"
+						},
+						{
+							"text": "Will Xi Jinping name or indicate a successor during the upcoming 20th People's Congress?",
+							"type": "text",
+							"marks": [
+								{
+									"type": "strike"
+								}
+							]
+						},
+						{
+							"text": " → Will Xi Jinping name or indicate a successor during the upcoming 20th Party Congress?",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date updated to 2022-10-20 11:59 pm",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"who-does-xi-think-he-is",
+			"ccp-20th-party-congress",
+			"china"
+		],
+		"textDescription": "Resolves YES if Xi Jinping names or signals his chosen successor during the 20th Party Congress, at which he is expected to get appointed to a 3rd term as President. Resolves NO if not. \n\nSep 6, 11:21pm: It should be noted that Xi himself was named Hu Jintao's successor in 2007.\n\nOct 11, 2:27pm: Will Xi Jinping name or indicate a successor during the upcoming 20th People's Congress? → Will Xi Jinping name or indicate a successor during the upcoming 20th Party Congress?\n\n\nClose date updated to 2022-10-20 11:59 pm"
+	},
+	{
+		"id": "cBnBpSKc1eQXRY0O11pe",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1680209308405,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1681984369351,
+		"question": "Will Tsai Ing-wen meet with 10 or more Senators during her trip to the US?",
+		"slug": "will-tsai-ingwen-meet-with-10-or-mo",
+		"url": "https://manifold.markets/BTE/will-tsai-ingwen-meet-with-10-or-mo",
+		"pool": {
+			"NO": 4.319104290807218,
+			"YES": 2037.8875179969355
+		},
+		"probability": 0.004698801709458831,
+		"p": 0.6901633524019658,
+		"totalLiquidity": 310,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3415.9841148146857,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1681984369351,
+		"resolutionProbability": 0,
+		"uniqueBettorCount": 16,
+		"lastUpdatedTime": 1681984339898,
+		"lastBetTime": 1681984339749,
+		"lastCommentTime": 1681916919282,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves if 10 Senators confirm through spokespeople or personally that they met with Taiwanese president Tsai Ing-wen in the US during her visit. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FonznZUr_bF.png?alt=media&token=2a5ee3ec-2566-423a-b60a-ac0686cb08af",
+		"groupSlugs": [
+			"118th-congress"
+		],
+		"textDescription": "Resolves if 10 Senators confirm through spokespeople or personally that they met with Taiwanese president Tsai Ing-wen in the US during her visit. "
+	},
+	{
+		"id": "JT0gO8lLgldtampQmNiK",
+		"creatorId": "wjbOTRRJ7Ee5mjSMMYrtwoWuiCp2",
+		"creatorUsername": "Gigacasting",
+		"creatorName": "Gigacasting",
+		"createdTime": 1667188339755,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FGigacasting%2FFF26D987-E02B-4325-9C77-9AA7458AD2CC.jpeg?alt=media&token=9ebbb742-ca5f-4437-9197-05995b2e6a2b",
+		"closeTime": 1668306713595,
+		"question": "Red Wave: Will the Republicans win at least 53 seats in the Senate?",
+		"slug": "red-wave-will-the-republicans-win-a",
+		"url": "https://manifold.markets/Gigacasting/red-wave-will-the-republicans-win-a",
+		"pool": {
+			"NO": 332.44809357916085,
+			"YES": 13823.476288030117
+		},
+		"probability": 0.007908657567177107,
+		"p": 0.248950541091421,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 20404.41181939822,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1668306713595,
+		"resolutionProbability": 0.007908657567177107,
+		"uniqueBettorCount": 49,
+		"lastUpdatedTime": 1668297377440,
+		"lastBetTime": 1668297377161,
+		"lastCommentTime": 1668044581113,
+		"marketTier": "basic",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FzUL3ci9upg.png?alt=media&token=95dd1915-9398-4c7a-a8f0-cd6aea22cfba",
+		"groupSlugs": [
+			"us-2022-midterms",
+			"please-resolve",
+			"us-politics"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "3Iyyo0RjdotXJNSunveh",
+		"creatorId": "W6RNOlHMb7hLtBpPm7xXtgayimm2",
+		"creatorUsername": "Nils9899",
+		"creatorName": "Nils",
+		"createdTime": 1666774299489,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FNils9899%2Fwx-RIPYQYm.txt?alt=media&token=bbb493b7-ddce-43ae-a31c-8ecae2adf808",
+		"closeTime": 1671490740000,
+		"question": "Will either Brazil or Argentina win the men's Football World Cup in 2022?",
+		"slug": "will-either-brazil-or-argentina-win",
+		"url": "https://manifold.markets/Nils9899/will-either-brazil-or-argentina-win",
+		"pool": {
+			"NO": 10935.672006281884,
+			"YES": 324.7905666611403
+		},
+		"probability": 0.9964563805246065,
+		"p": 0.8930663079297984,
+		"totalLiquidity": 1140,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 77990.29493607026,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1671501193537,
+		"resolutionProbability": 1,
+		"uniqueBettorCount": 58,
+		"lastUpdatedTime": 1671489325881,
+		"lastBetTime": 1671489325717,
+		"lastCommentTime": 1671468541326,
+		"marketTier": "basic",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question resolves to yes, in case either Argentina or Brazil wins the final of the men's Football World Cup in 2022. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Current date of final is 18th December 2022. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2Fn4uYQ7jK3M.png?alt=media&token=77e8c4f5-281f-4bc3-8d7d-98945fb7fbca",
+		"groupSlugs": [
+			"sports-default",
+			"2022-fifa-world-cup",
+			"2022-world-cup-final"
+		],
+		"textDescription": "This question resolves to yes, in case either Argentina or Brazil wins the final of the men's Football World Cup in 2022. \n\nCurrent date of final is 18th December 2022. "
+	},
+	{
+		"id": "goCVOhjIBPkyta075ZYW",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1667345313627,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672540060067,
+		"question": "Will Xi Jinping meet with Rishi Sunak in 2022?",
+		"slug": "will-xi-jinping-meet-with-rishi-sun",
+		"url": "https://manifold.markets/BTE/will-xi-jinping-meet-with-rishi-sun",
+		"pool": {
+			"NO": 55.42556074527482,
+			"YES": 4359.71909071167
+		},
+		"probability": 0.005555629094917697,
+		"p": 0.3052861581999515,
+		"totalLiquidity": 320,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 7236.324575191859,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672540060067,
+		"resolutionProbability": 0.03,
+		"uniqueBettorCount": 15,
+		"lastUpdatedTime": 1672540054615,
+		"lastBetTime": 1672540054510,
+		"lastCommentTime": 1667358066972,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Xi Jinping and Rishi Sunak meet one-on-one in 2022. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FdZcaAEsMz3.png?alt=media&token=94e3072d-79fa-4ec6-b819-b90c45a40ad4",
+		"groupSlugs": [
+			"who-does-xi-think-he-is",
+			"g20",
+			"prime-millennial"
+		],
+		"textDescription": "Resolves YES if Xi Jinping and Rishi Sunak meet one-on-one in 2022. Resolves NO if not. "
+	},
+	{
+		"id": "1WpAmHKr0DXDUIQNggkG",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1664444877588,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1664588019041,
+		"question": "Will the Optimus robot juggle any 3 or more objects during a live demo at Tesla AI Day?",
+		"slug": "will-the-optimus-robot-juggle-any-3",
+		"url": "https://manifold.markets/BTE/will-the-optimus-robot-juggle-any-3",
+		"pool": {
+			"NO": 7.3497183654844775,
+			"YES": 1360.5963525026534
+		},
+		"probability": 0.005372812950747501,
+		"p": 0.5000000000000004,
+		"totalLiquidity": 284.4221330025948,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1959.3475447278056,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1664588019041,
+		"resolutionProbability": 0.062796575210529,
+		"uniqueBettorCount": 23,
+		"lastUpdatedTime": 1710451897778,
+		"lastBetTime": 1664588014078,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"elon-musk-14d9d9498c7e",
+			"tesla-ai-day"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "ENznauAbUl2cRpGHrnZX",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1660736459551,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672539078681,
+		"question": "Will Elon Musk make a deal to purchase Manchester United in 2022?",
+		"slug": "will-elon-musk-make-a-deal-to-purch-ea3a2866f508",
+		"url": "https://manifold.markets/BTE/will-elon-musk-make-a-deal-to-purch-ea3a2866f508",
+		"pool": {
+			"NO": 88.37344464245825,
+			"YES": 2366.4683993773933
+		},
+		"probability": 0.007800404791136611,
+		"p": 0.17390994405057875,
+		"totalLiquidity": 200,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3011.226027024401,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672539078681,
+		"resolutionProbability": 0.02,
+		"uniqueBettorCount": 28,
+		"lastUpdatedTime": 1710451914758,
+		"lastBetTime": 1672539069146,
+		"lastCommentTime": 1660736511977,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Reopening this market since Musk shouldn't be taken at his word. Let the market decide. Resolves YES if Musk enters into a deal to purchase Manchester United. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Aug 17, 7:42am: ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "tiptapTweet",
+					"attrs": {
+						"tweetId": "t1559691922725281800"
+					}
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date updated to 2022-12-31 11:59 pm",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"elon-musk-14d9d9498c7e"
+		],
+		"textDescription": "Reopening this market since Musk shouldn't be taken at his word. Let the market decide. Resolves YES if Musk enters into a deal to purchase Manchester United. Resolves NO if not. \n\nAug 17, 7:42am: \n\n[tweet]\nClose date updated to 2022-12-31 11:59 pm"
+	},
+	{
+		"id": "jEGhkzSZcZrq9NEUrB0D",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1667345421852,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672538258768,
+		"question": "Will Vladimir Putin hold bilateral meetings with Rishi Sunak in 2022?",
+		"slug": "will-vladimir-putin-hold-bilateral",
+		"url": "https://manifold.markets/BTE/will-vladimir-putin-hold-bilateral",
+		"pool": {
+			"NO": 92.52561859589844,
+			"YES": 5248.016634438322
+		},
+		"probability": 0.007598421573492616,
+		"p": 0.3027857340959701,
+		"totalLiquidity": 340,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 6186.203213250457,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672538258768,
+		"resolutionProbability": 0.03,
+		"uniqueBettorCount": 15,
+		"lastUpdatedTime": 1672538251045,
+		"lastBetTime": 1672538250917,
+		"lastCommentTime": 1667345505076,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Vladimir Putin and Rishi Sunak hold bilateral talks in 2022. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FEZV1JN8NuU.png?alt=media&token=a05136a9-d34c-4e31-948f-f5bd8b992ec9",
+		"groupSlugs": [
+			"g20",
+			"prime-millennial",
+			"ukrainerussia-war"
+		],
+		"textDescription": "Resolves YES if Vladimir Putin and Rishi Sunak hold bilateral talks in 2022. Resolves NO if not. "
+	},
+	{
+		"id": "NmynNIuJCZN3H2csmkkr",
+		"creatorId": "YGZdZUSFQyM8j2YzPaBqki8NBz23",
+		"creatorUsername": "jack",
+		"creatorName": "Jack",
+		"createdTime": 1667874689764,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJackC%2Fmetal-jacks-thumbnail.jpg?alt=media&token=89d230f3-05a9-4ad4-9606-5fc6e2c6b096",
+		"closeTime": 1670076316658,
+		"question": "Will North Korea test a Hwasong-17 ICBM before they test a nuclear weapon?",
+		"slug": "will-north-korea-test-a-hwasong17-i",
+		"url": "https://manifold.markets/jack/will-north-korea-test-a-hwasong17-i",
+		"pool": {
+			"NO": 391.833508503692,
+			"YES": 13.626588256057996
+		},
+		"probability": 0.9474096136131507,
+		"p": 0.38518067830389846,
+		"totalLiquidity": 110,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1471.7489865091504,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1670076316658,
+		"resolutionProbability": 0.9474096136131507,
+		"uniqueBettorCount": 6,
+		"lastUpdatedTime": 1670076301287,
+		"lastBetTime": 1669742009213,
+		"lastCommentTime": 1670076298081,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if North Korea test launches a Hwasong-17 ICBM. Resolves NO if North Korea conducts a nuclear weapon test. Resolves N/A if neither happens by end of 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Determination will be based on reliable media reporting and/or the following articles (if backed by reliable sources):",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://en.wikipedia.org/wiki/Hwasong-17",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://en.wikipedia.org/wiki/Hwasong-17",
+														"class": "z-10 break-anywhere hover:underline hover:decoration-indigo-400 hover:decoration-2",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://en.wikipedia.org/wiki/List_of_nuclear_weapons_tests_of_North_Korea",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://en.wikipedia.org/wiki/List_of_nuclear_weapons_tests_of_North_Korea",
+														"class": "z-10 break-anywhere hover:underline hover:decoration-indigo-400 hover:decoration-2",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If most reporting suspects it was a Hwasong-17, I'll count it (similar to how Wikipedia lists suspected test launches).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Inspired by:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://www.foxnews.com/world/north-korea-biding-time-before-conducts-7th-nuclear-test-experts-say",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.foxnews.com/world/north-korea-biding-time-before-conducts-7th-nuclear-test-experts-say",
+										"class": "z-10 break-anywhere hover:underline hover:decoration-indigo-400 hover:decoration-2",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "I think Kim has been holding off on a nuclear test because he wants to rub it into the U.S. and South Korea with a major Hwasong-17 ICBM test before escalating further with a nuclear test,\" Sung-Yoon Lee, a professor at the Fletcher School at Tufts University, told Fox News Digital.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Related:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/jack/will-north-korea-conduct-a-nuclear-422f66ae0107",
+						"height": 0,
+						"frameborder": 0,
+						"allowfullscreen": true
+					}
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F6uAbKZhOf6.png?alt=media&token=aa7c48f6-dfbf-4303-ad66-0e1be8879c22",
+		"groupSlugs": [
+			"north-korea",
+			"nuclear-risk"
+		],
+		"textDescription": "Resolves YES if North Korea test launches a Hwasong-17 ICBM. Resolves NO if North Korea conducts a nuclear weapon test. Resolves N/A if neither happens by end of 2025.\n\nDetermination will be based on reliable media reporting and/or the following articles (if backed by reliable sources):\n\nhttps://en.wikipedia.org/wiki/Hwasong-17\n\nhttps://en.wikipedia.org/wiki/List_of_nuclear_weapons_tests_of_North_Korea\n\nIf most reporting suspects it was a Hwasong-17, I'll count it (similar to how Wikipedia lists suspected test launches).\n\nInspired by:\n\nhttps://www.foxnews.com/world/north-korea-biding-time-before-conducts-7th-nuclear-test-experts-say\n\nI think Kim has been holding off on a nuclear test because he wants to rub it into the U.S. and South Korea with a major Hwasong-17 ICBM test before escalating further with a nuclear test,\" Sung-Yoon Lee, a professor at the Fletcher School at Tufts University, told Fox News Digital.\n\nRelated:\n\n(https://manifold.markets/embed/jack/will-north-korea-conduct-a-nuclear-422f66ae0107)"
+	},
+	{
+		"id": "yU2ZtMDb5FhST12k93bN",
+		"creatorId": "hRbPwezgxnat6GpJQxoFxq1xgUZ2",
+		"creatorUsername": "AmmonLam",
+		"creatorName": "Ammon Lam",
+		"createdTime": 1707183584658,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ALm5wu3tZQ3FxKg9rh6V8N0P2Lax5R_TfROJtQmrapTp=s96-c",
+		"closeTime": 1709133902785,
+		"question": "Will Destiny upload a video on Youtube on Feb 28, 2024? (Eastern Time)",
+		"slug": "will-destiny-upload-a-video-on-yout-ffb6c01e6a3c",
+		"url": "https://manifold.markets/AmmonLam/will-destiny-upload-a-video-on-yout-ffb6c01e6a3c",
+		"pool": {
+			"NO": 15260.012332117254,
+			"YES": 35.38405649487686
+		},
+		"probability": 0.9993457489098313,
+		"p": 0.7798229839899358,
+		"totalLiquidity": 230,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 15040,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1709133902785,
+		"resolutionProbability": 1,
+		"resolverId": "hRbPwezgxnat6GpJQxoFxq1xgUZ2",
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1710218272087,
+		"lastBetTime": 1709133899203,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to Yes if Destiny uploaded a video on his main Youtube channel on Feb 28, 2024 (Eastern Time) ",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Resolves to No otherwise.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "https://www.youtube.com/@destiny/videos",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.youtube.com/@destiny/videos",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " ",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Note: If Destiny uploads a video on a given day and the video is later deleted on the same day, this will resolve as 'Yes' provided that someone posts screenshot evidence of the video in the comment section before the market closes. ",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "If no such evidence is provided before the market closes this resolves No.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/AmmonLam%2F5f8a48c039a6.jpg",
+		"groupSlugs": [
+			"destinygg",
+			"youtube"
+		],
+		"textDescription": "Resolves to Yes if Destiny uploaded a video on his main Youtube channel on Feb 28, 2024 (Eastern Time) \nResolves to No otherwise.\n\nhttps://www.youtube.com/@destiny/videos \n\nNote: If Destiny uploads a video on a given day and the video is later deleted on the same day, this will resolve as 'Yes' provided that someone posts screenshot evidence of the video in the comment section before the market closes. \nIf no such evidence is provided before the market closes this resolves No."
+	},
+	{
+		"id": "SsedscCim7C8Fabw744t",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1667345553134,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672218771935,
+		"question": "Will Narendra Modi hold bilateral meetings with Volodymyr Zelenskyy in 2022?",
+		"slug": "will-narendra-modi-hold-bilateral-m-6dd783819531",
+		"url": "https://manifold.markets/BTE/will-narendra-modi-hold-bilateral-m-6dd783819531",
+		"pool": {
+			"NO": 1405.48593601421,
+			"YES": 11.085084345558855
+		},
+		"probability": 0.9900442072172053,
+		"p": 0.43956124551570963,
+		"totalLiquidity": 180,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 4707.83346969273,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1672218771935,
+		"resolutionProbability": 0.04,
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1672234708855,
+		"lastBetTime": 1672218692684,
+		"lastCommentTime": 1672234686277,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Modi and Zelenskyy hold bilateral talks in 2022. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F10X3UIxgAu.png?alt=media&token=bb011870-4248-4611-93b5-fd3721e58242",
+		"groupSlugs": [
+			"g20",
+			"global-macro"
+		],
+		"textDescription": "Resolves YES if Modi and Zelenskyy hold bilateral talks in 2022. Resolves NO if not. "
+	},
+	{
+		"id": "p3lMHM9uhNrNgI9XfLSC",
+		"creatorId": "7YgzGK9063Owi8uklPSJpgG3rwE2",
+		"creatorUsername": "littlebubulle",
+		"creatorName": "littlebubulle",
+		"createdTime": 1650997390681,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Flittlebubulle%2Fangry_pumpkin.jpg?alt=media&token=9691973e-bdb3-4592-aa1f-7034729c9516",
+		"closeTime": 1672549140000,
+		"question": "Will Russia attack Moldova before the end of 2022?",
+		"slug": "will-russia-attack-moldova-before-t",
+		"url": "https://manifold.markets/littlebubulle/will-russia-attack-moldova-before-t",
+		"pool": {
+			"NO": 36.09282106219406,
+			"YES": 345.91604462815053
+		},
+		"probability": 0.029745451764129446,
+		"p": 0.22709633548637204,
+		"totalLiquidity": 250.86317847188423,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2275.513432207562,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672549543129,
+		"resolutionProbability": 0.03,
+		"uniqueBettorCount": 38,
+		"lastUpdatedTime": 1668408858120,
+		"lastBetTime": 1668408858022,
+		"lastCommentTime": 1651039118591,
+		"marketTier": "play",
+		"description": "This market resolves to YES if Russian troops or mercenaries paid by Russia attack anything in Moldova.\n\nPro-Russia elements from inside Moldova don't count even if they were paid/convinced by Russia.\n\nApr 26, 2:23pm: kind of surprised I didn't find this market on MM. Did I miss one?\n\nApr 27, 9:53am: Transnistria will not count for this market as Russian Troops have been there since 1992. Therefore, it is not a change in the current situation.",
+		"groupSlugs": [
+			"world-default",
+			"wars",
+			"ukrainerussia-war"
+		],
+		"textDescription": "This market resolves to YES if Russian troops or mercenaries paid by Russia attack anything in Moldova.\n\nPro-Russia elements from inside Moldova don't count even if they were paid/convinced by Russia.\n\nApr 26, 2:23pm: kind of surprised I didn't find this market on MM. Did I miss one?\n\nApr 27, 9:53am: Transnistria will not count for this market as Russian Troops have been there since 1992. Therefore, it is not a change in the current situation."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 256077.15094714123,
+		"volume24Hours": 1604.6143178999673,
+		"isResolved": false,
+		"uniqueBettorCount": 781,
+		"lastUpdatedTime": 1719231531705,
+		"lastBetTime": 1719231527179,
+		"lastCommentTime": 1719186971873,
+		"marketTier": "plus",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "dXJ6PhDnCjOLFb94Bh3D",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1660979642256,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672538296576,
+		"question": "Will Xi Jinping meet with Volodymyr Zelenskyy in person during 2022?",
+		"slug": "will-xi-jinping-meet-with-volodymyr",
+		"url": "https://manifold.markets/BTE/will-xi-jinping-meet-with-volodymyr",
+		"pool": {
+			"NO": 67.63684041655267,
+			"YES": 2567.0803940091305
+		},
+		"probability": 0.006724645487273695,
+		"p": 0.20442612842402472,
+		"totalLiquidity": 448.98599900352815,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3381.424402619309,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672538296576,
+		"resolutionProbability": 0.02,
+		"uniqueBettorCount": 32,
+		"lastUpdatedTime": 1672538290984,
+		"lastBetTime": 1672538290878,
+		"lastCommentTime": 1668681189099,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Xi Jinping is attempting to assert himself as the leader not just of China, but of all Chinese everywhere in the world, so it should be no surprise that recent news indicates he plans to travel beyond his country's borders for the first time since the start of the pandemic and in the midst of securing an unprecedented third term no less. Saudi Arabia and the G20 Summit in Indonesia in November are the two major trips Beijing has confirmed he will be making, but there are plenty of opportunities for detours. So far Xi hasn't been able to return calls from the Ukrainian president. (",
+							"type": "text"
+						},
+						{
+							"text": "https://www.newsweek.com/ukraine-china-russia-volodymyr-zelensky-xi-jinping-vladimir-putin-invasion-war-1730735",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.newsweek.com/ukraine-china-russia-volodymyr-zelensky-xi-jinping-vladimir-putin-invasion-war-1730735",
+										"class": "no-underline !text-indigo-700 z-10 break-words hover:underline hover:decoration-indigo-400 hover:decoration-2",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") Will he hedge his bet on Russia made earlier this year following Putin's invasion of Ukraine and make an in-person meeting with Zelenskyy a priority during his diplomatic agenda?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Xi Jinping meets with Volodymyr Zelenskyy in person during 2022 anywhere in the world. Resolves NO if not.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2FBOKgREHtmD.jpg?alt=media&token=16acd5cd-4dbc-414c-8ff7-7ba9ea4bc786",
+						"title": null
+					}
+				}
+			]
+		},
+		"groupSlugs": [
+			"who-does-xi-think-he-is",
+			"global-macro",
+			"g20",
+			"china",
+			"chinese-politics",
+			"ukraine",
+			"mana-seeds-experiment",
+			"ukrainerussia-war"
+		],
+		"textDescription": "Xi Jinping is attempting to assert himself as the leader not just of China, but of all Chinese everywhere in the world, so it should be no surprise that recent news indicates he plans to travel beyond his country's borders for the first time since the start of the pandemic and in the midst of securing an unprecedented third term no less. Saudi Arabia and the G20 Summit in Indonesia in November are the two major trips Beijing has confirmed he will be making, but there are plenty of opportunities for detours. So far Xi hasn't been able to return calls from the Ukrainian president. (https://www.newsweek.com/ukraine-china-russia-volodymyr-zelensky-xi-jinping-vladimir-putin-invasion-war-1730735) Will he hedge his bet on Russia made earlier this year following Putin's invasion of Ukraine and make an in-person meeting with Zelenskyy a priority during his diplomatic agenda?\n\nResolves YES if Xi Jinping meets with Volodymyr Zelenskyy in person during 2022 anywhere in the world. Resolves NO if not.\n\n[image]"
+	},
+	{
+		"id": "6efDQN1o7Atzskkvw0CC",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1664443711983,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1664588079393,
+		"question": "Will Tesla's Optimus robot be controlled during a live demo by a primate using a Neuralink brain implant during Tesla AI Day?",
+		"slug": "will-teslas-optimus-robot-be-contro",
+		"url": "https://manifold.markets/BTE/will-teslas-optimus-robot-be-contro",
+		"pool": {
+			"NO": 5.437590691547257,
+			"YES": 1839.0497864329434
+		},
+		"probability": 0.002948022718390371,
+		"p": 0.5000000000000004,
+		"totalLiquidity": 284.8632643369009,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2136.5330490775204,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1664588079393,
+		"resolutionProbability": 0.028280110586762178,
+		"uniqueBettorCount": 19,
+		"lastUpdatedTime": 1710451897872,
+		"lastBetTime": 1664588073314,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if it happens, no if not.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date updated to 2022-09-30 11:59 pm",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"elon-musk-14d9d9498c7e",
+			"tesla-ai-day"
+		],
+		"textDescription": "Resolves YES if it happens, no if not.\n\n\nClose date updated to 2022-09-30 11:59 pm"
+	},
+	{
+		"id": "4zSuY9xwOOQDhYZZdZAS",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1668334497521,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1668474448793,
+		"question": "Will Mark Rothko's painting 'Untitled' (1968) fetch more than $7mm at auction Nov 14th?",
+		"slug": "will-mark-rothkos-painting-untitled-f4fd26776e32",
+		"url": "https://manifold.markets/BTE/will-mark-rothkos-painting-untitled-f4fd26776e32",
+		"pool": {
+			"NO": 0.04205166150498485,
+			"YES": 949.0975149667693
+		},
+		"probability": 0.00014981851320395795,
+		"p": 0.7717874665882251,
+		"totalLiquidity": 110,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1063.9557284403363,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1668474448793,
+		"resolutionProbability": 0.00014981851320395795,
+		"uniqueBettorCount": 6,
+		"lastUpdatedTime": 1668474446720,
+		"lastBetTime": 1668474308999,
+		"lastCommentTime": 1668474427560,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2F9Dh0VqUk6s.jpeg?alt=media&token=a91b0f61-f668-48c2-96f7-ca30e0c2e7de",
+						"title": null
+					}
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 1
+					},
+					"content": [
+						{
+							"text": "Mark Rothko",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.sothebys.com/en/buy/auction/2022/modern-evening-auction-4/untitled-2",
+										"class": "z-10 break-anywhere hover:underline hover:decoration-indigo-400 hover:decoration-2",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "1903 - 1970",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Untitled",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "dated 68 and stamped Mark Rothko Estate (on the reverse)",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "acrylic on paper laid on panel",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "33 ½ by 25 ¾ in. 85 by 65.5cm.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Executed in 1968.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FQaILFcVuof.png?alt=media&token=3ae14137-bf22-40af-9240-9152d920553b",
+		"groupSlugs": [
+			"art-dealer"
+		],
+		"textDescription": "[image]Mark Rothko\n\n1903 - 1970\n\nUntitled\n\ndated 68 and stamped Mark Rothko Estate (on the reverse)\n\nacrylic on paper laid on panel\n\n33 ½ by 25 ¾ in. 85 by 65.5cm.\n\nExecuted in 1968.\n\n"
+	},
+	{
+		"id": "NogHmINMCQJl3OsjOENK",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1661553833562,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672538175451,
+		"question": "Will 100 million Americans get one of the updated mRNA Covid vaccines by the end of 2022?",
+		"slug": "will-100-million-americans-get-one",
+		"url": "https://manifold.markets/BTE/will-100-million-americans-get-one",
+		"pool": {
+			"NO": 138.5250930372282,
+			"YES": 5894.874385906891
+		},
+		"probability": 0.00427953436304867,
+		"p": 0.15461743845376605,
+		"totalLiquidity": 577.700979073117,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14005.445208259041,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672538175451,
+		"resolutionProbability": 0.01,
+		"uniqueBettorCount": 47,
+		"lastUpdatedTime": 1710206839026,
+		"lastBetTime": 1672538170247,
+		"lastCommentTime": 1670015703966,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Both Pfizer and Moderna submitted updated versions of their mRNA vaccines to the FDA for emergency authorization this week. Previous versions of the mRNA vaccines took approximately 1 month to be approved from the date of final submission. This question resolves YES if combined these two updated vaccines are administered to 100 million Americans by the end of 2022. Resolves NO if not. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"global-macro",
+			"covid-d7a9361d772d"
+		],
+		"textDescription": "Both Pfizer and Moderna submitted updated versions of their mRNA vaccines to the FDA for emergency authorization this week. Previous versions of the mRNA vaccines took approximately 1 month to be approved from the date of final submission. This question resolves YES if combined these two updated vaccines are administered to 100 million Americans by the end of 2022. Resolves NO if not. "
+	},
+	{
+		"id": "skfXvULCY7zaNKhp287W",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1671296575817,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1671814523827,
+		"question": "Will I have 75 followers by the end of 2022?",
+		"slug": "will-i-have-75-followers-by-the-end",
+		"url": "https://manifold.markets/BTE/will-i-have-75-followers-by-the-end",
+		"pool": {
+			"NO": 7965.580617889822,
+			"YES": 289.31480968357636
+		},
+		"probability": 0.9929075807950386,
+		"p": 0.8356540946188447,
+		"totalLiquidity": 610,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 7989.080692132827,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1671814523827,
+		"resolutionProbability": 0.99,
+		"uniqueBettorCount": 31,
+		"lastUpdatedTime": 1671814504262,
+		"lastBetTime": 1671814504158,
+		"lastCommentTime": 1671766406542,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Currently at 65. Resolves YES as soon as it happens as verified with a screenshot of my profile taken by me or anyone else in the comments, otherwise it resolves NO January 1st. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F3-Hwu0SyUf.png?alt=media&token=78190d7d-5031-4307-a0ae-2144c379fc97",
+		"groupSlugs": [
+			"manifold-6748e065087e"
+		],
+		"textDescription": "Currently at 65. Resolves YES as soon as it happens as verified with a screenshot of my profile taken by me or anyone else in the comments, otherwise it resolves NO January 1st. "
+	},
+	{
+		"id": "jFwweVAK2GKMnIYdq4TY",
+		"creatorId": "4JuXgDx47xPagH5mcLDqLzUSN5g2",
+		"creatorUsername": "BTE",
+		"creatorName": "Brian T. Edwards",
+		"createdTime": 1661033055666,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBTE%2FaSsPoXaRJr.png?alt=media&token=bb7d2e7c-7345-43a6-aae9-3fcd8f17498c",
+		"closeTime": 1672536787342,
+		"question": "Will Elon Musk merge Neuralink with a competitor and give up control of the new entity by the end of 2022?",
+		"slug": "will-elon-musk-merge-neuralink-with",
+		"url": "https://manifold.markets/BTE/will-elon-musk-merge-neuralink-with",
+		"pool": {
+			"NO": 105.35302297679888,
+			"YES": 2610.474703748704
+		},
+		"probability": 0.009966261770994989,
+		"p": 0.19963727639623777,
+		"totalLiquidity": 495.4864209549363,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3146.813730416684,
+		"volume24Hours": 0,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1672536787342,
+		"resolutionProbability": 0.01,
+		"uniqueBettorCount": 34,
+		"lastUpdatedTime": 1710451942100,
+		"lastBetTime": 1672528619256,
+		"lastCommentTime": 1661197843817,
+		"marketTier": "play",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Musk makes a deal to give control of Neuralink to a competitor via M&A. Resolves NO if Neuralink takes a substantively different direction under Musk's leadership or does nothing before the end of the year. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"elon-musk-14d9d9498c7e",
+			"mana-seeds-experiment",
+			"ma"
+		],
+		"textDescription": "Resolves YES if Musk makes a deal to give control of Neuralink to a competitor via M&A. Resolves NO if Neuralink takes a substantively different direction under Musk's leadership or does nothing before the end of the year. "
+	}
+]
