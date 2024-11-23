@@ -15,6 +15,6 @@ while response:
 with open('all.json', 'w') as f:
   json.dump(markets, f, indent=0)
 with open('open.json', 'w') as f:
-  json.dump(unclosed, f, indent=1)
+  json.dump(unclosed, f, indent=0)
 with open('soon.json', 'w') as f:
   json.dump(soon, f, indent=1)
