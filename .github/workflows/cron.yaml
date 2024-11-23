@@ -9,13 +9,18 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           pip install -q requests
-          python src/extreme.py | jq . --tab > extreme.json
-          python src/ce.py > ce.txt
-          python src/markets.py
-          python src/users.py
+          cd manifold
+          python extreme.py | jq . --tab > extreme.json
+          python ce.py > ce.txt
+          python markets.py
+          python users.py
           rm all.json
-          sed -i '/[Aa]vatarUrl": "/d' *.json
-          # python src/bet.py
+          sed -i '/[Aa]vatarUrl": "/d' *.json # ~15% size cut
+          # python bet.py
+
+          cd ../metaculus
+          python questions.py
+          find *.json -exec yq -i 'del(.[].question.aggregations.[].history)' {} \; # ~85% size cut
         env:
           API_KEY: ${{ secrets.API_KEY }}
       - uses: peter-evans/create-pull-request@v6
