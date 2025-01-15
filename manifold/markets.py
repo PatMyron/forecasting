@@ -17,4 +17,4 @@ with open('all.json', 'w') as f:
 with open('open.json', 'w') as f:
   json.dump(unclosed, f, indent=0)
 with open('soon.json', 'w') as f:
-  json.dump(soon, f, indent=1)
+  json.dump(soon, f, indent=0)

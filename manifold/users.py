@@ -14,6 +14,6 @@ while response:
 with open('users.json', 'w') as f:
   json.dump(users, f, indent=0)
 with open('whales.json', 'w') as f:
-  json.dump(whales, f, indent=1)
+  json.dump(whales, f, indent=0)
 with open('losers.json', 'w') as f:
-  json.dump(losers, f, indent=1)
+  json.dump(losers, f, indent=0)
