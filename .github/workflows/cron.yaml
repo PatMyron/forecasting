@@ -16,9 +16,8 @@ jobs:
           python ce.py > ce.txt
           python markets.py
           python users.py
-          rm all.json
-          sed -i '/[Aa]vatarUrl": "/d' *.json # ~15% size cut
-          # python bet.py
+          sed -i '/([Uu]rl|daily|[Ww]eek(ly)?|monthly)": /d' *.json # ~30% size cut
+          find . -size +100M -delete # GitHub's file size limit
 
           cd ../metaculus
           python questions.py
