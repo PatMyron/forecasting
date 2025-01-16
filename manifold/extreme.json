@@ -1,0 +1,1213 @@
+[
+	{
+		"id": "qhzUNAQp56",
+		"creatorId": "SIgNn37MAtbNjPTYQJIcoTjqOdi1",
+		"creatorUsername": "ChaosIsALadder",
+		"creatorName": "Chaos Is A Ladder",
+		"createdTime": 1733950800101,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FEdgarBinder%2FeSv9G5X8c4.webp?alt=media&token=fac8fbb4-d415-429a-b329-4a4e846b8850",
+		"closeTime": 1736960888938,
+		"question": "Will Russia have a higher inflation rate than Argentina in December 2024?",
+		"slug": "will-russia-have-a-higher-inflation",
+		"url": "https://manifold.markets/ChaosIsALadder/will-russia-have-a-higher-inflation",
+		"pool": {
+			"NO": 9.56430143746229,
+			"YES": 1045.5546665259956
+		},
+		"probability": 0.009064666381576733,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 965.6731627699849,
+		"volume24Hours": 54.432770580623526,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1736960888938,
+		"resolutionProbability": 0.009064666381576733,
+		"resolverId": "SIgNn37MAtbNjPTYQJIcoTjqOdi1",
+		"uniqueBettorCount": 11,
+		"lastUpdatedTime": 1736960888938,
+		"lastBetTime": 1736959519937,
+		"lastCommentTime": 1736960876842,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This resolves as YES if Russia manages to overtake Argentina's MoM inflation rate in December 2024, based on the numbers provided by:",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "https://tradingeconomics.com/argentina/inflation-rate-mom",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://tradingeconomics.com/argentina/inflation-rate-mom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "https://tradingeconomics.com/russia/inflation-rate-mom",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://tradingeconomics.com/russia/inflation-rate-mom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Argentina reported inflation rates of 2.7% and 2.4% in the last two months, while Russia recorded 0.8% and 1.4% during the same period. Milei is actively curbing inflation in Argentina, while Putin is printing money to cover his war expenses. This could result in a close race.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-11-01 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/ChaosIsALadder/will-russia-have-a-higher-inflation#ma2cx9r4d8d",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): - ",
+											"type": "text"
+										},
+										{
+											"text": "TradingEconomics",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " does not have updated data yet",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Russia",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " new data available on ",
+															"type": "text"
+														},
+														{
+															"text": "January 15",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ", with ",
+															"type": "text"
+														},
+														{
+															"text": "TEForecast",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " predicting ",
+															"type": "text"
+														},
+														{
+															"text": "1.6%",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Argentina",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " new data available on ",
+															"type": "text"
+														},
+														{
+															"text": "January 14",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ", with ",
+															"type": "text"
+														},
+														{
+															"text": "TEForecast",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " predicting ",
+															"type": "text"
+														},
+														{
+															"text": "2.0%",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ChaosIsALadder/6lzhssNqSO.jpg",
+		"groupSlugs": [
+			"inflation",
+			"ukraine",
+			"ukrainerussia-war",
+			"russia",
+			"economics-default"
+		],
+		"textDescription": "This resolves as YES if Russia manages to overtake Argentina's MoM inflation rate in December 2024, based on the numbers provided by:\n\nhttps://tradingeconomics.com/argentina/inflation-rate-mom\nhttps://tradingeconomics.com/russia/inflation-rate-mom\n\nArgentina reported inflation rates of 2.7% and 2.4% in the last two months, while Russia recorded 0.8% and 1.4% during the same period. Milei is actively curbing inflation in Argentina, while Putin is printing money to cover his war expenses. This could result in a close race.\n\nUpdate 2025-11-01 (PST) (AI summary of creator comment): - TradingEconomics does not have updated data yet\n\nRussia new data available on January 15, with TEForecast predicting 1.6%\n\nArgentina new data available on January 14, with TEForecast predicting 2.0%"
+	},
+	{
+		"id": "FMqVhR4c0Z940hcmaQLi",
+		"creatorId": "Polb8maeefXJ8XRGc31awM6v7Br1",
+		"creatorUsername": "RahulShah",
+		"creatorName": "Rahul Shah",
+		"createdTime": 1685342125868,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxbGKWSIA-Aj4OWPPaZfqOlet7K2h9cQcdbrFGbhtA=s96-c",
+		"closeTime": 1737521940000,
+		"question": "Will Joe Biden complete his term as president?",
+		"slug": "will-joe-biden-complete-his-term-as",
+		"url": "https://manifold.markets/RahulShah/will-joe-biden-complete-his-term-as",
+		"pool": {
+			"NO": 5982.514778205743,
+			"YES": 853.2000279544452
+		},
+		"probability": 0.9900605314301723,
+		"p": 0.9342356160782999,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 17104.27730686191,
+		"volume24Hours": 0.3441750617152337,
+		"isResolved": false,
+		"uniqueBettorCount": 90,
+		"lastUpdatedTime": 1736978718850,
+		"lastBetTime": 1736978718850,
+		"marketTier": "plus",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I'm curious to see if he will complete his term [before it ends](",
+							"type": "text"
+						},
+						{
+							"text": "https://countdownuntiljoebidenisoutofoffice.weebly.com/#/",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://countdownuntiljoebidenisoutofoffice.weebly.com/#/",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves no for any reason such as him dying/assassination/impeachment/resignation/US gets overthriwn in a coup/alien invasion/end of world/etc. Resolves yes if he makes it by the time the clock hits 0",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"politics-default",
+			"us-politics"
+		],
+		"textDescription": "I'm curious to see if he will complete his term [before it ends](https://countdownuntiljoebidenisoutofoffice.weebly.com/#/)\n\nResolves no for any reason such as him dying/assassination/impeachment/resignation/US gets overthriwn in a coup/alien invasion/end of world/etc. Resolves yes if he makes it by the time the clock hits 0"
+	},
+	{
+		"id": "n0OcN8Rq0h",
+		"creatorId": "HmOI6imURASZuHYFtMKB987Are52",
+		"creatorUsername": "LukeShadwell",
+		"creatorName": "Luke Shadwell",
+		"createdTime": 1732194690242,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ0eGEjFB6rwtg1vMtflSHOBGcGGOQUIpl6rFy0wbrTC1TE=s96-c",
+		"closeTime": 1740787140000,
+		"question": "Will Rachel Reeves Resign before February 2025?",
+		"slug": "will-rachel-reeves-resign-before-fe",
+		"url": "https://manifold.markets/LukeShadwell/will-rachel-reeves-resign-before-fe",
+		"pool": {
+			"NO": 10.050378152591975,
+			"YES": 994.9874371066189
+		},
+		"probability": 0.009999999999999877,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2211.4359176849143,
+		"volume24Hours": 851.0404024883393,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1736949127858,
+		"lastBetTime": 1736949127858,
+		"lastCommentTime": 1736852828263,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves based on whether Rt Hon Rachel Reeves MP resigns as Chancellor of The Exchequer before February 2025.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/LukeShadwell/L5Igu2lZth.jpg",
+		"groupSlugs": [
+			"politics-default",
+			"uk-politics"
+		],
+		"textDescription": "This market resolves based on whether Rt Hon Rachel Reeves MP resigns as Chancellor of The Exchequer before February 2025."
+	},
+	{
+		"id": "QyNyyLuty9",
+		"creatorId": "oPxjIzlvC5fRbGCaVgkvAiyoXBB2",
+		"creatorUsername": "mattyb",
+		"creatorName": "Matt",
+		"createdTime": 1730952172270,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fmattyb%2Feq8TCTaQW_.jpeg?alt=media&token=b8632c4a-5f41-4148-a6aa-3b42c0d89c03",
+		"closeTime": 1737446340000,
+		"question": "Will all living presidents attend Trump’s inauguration?",
+		"slug": "will-all-living-presidents-attend-t",
+		"url": "https://manifold.markets/mattyb/will-all-living-presidents-attend-t",
+		"pool": {
+			"NO": 5189.7025172438725,
+			"YES": 192.68927201073774
+		},
+		"probability": 0.9642000657783003,
+		"p": 0.5000000000000082,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 87102.8063401927,
+		"volume24Hours": 2742.713656991135,
+		"isResolved": false,
+		"uniqueBettorCount": 296,
+		"lastUpdatedTime": 1736973529828,
+		"lastBetTime": 1736973529828,
+		"lastCommentTime": 1736934419705,
+		"marketTier": "plus",
+		"token": "MANA",
+		"siblingContractId": "SdP6nLOssQ",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if all living presidents (on January 20th, 2025) attend Donald Trump’s inauguration.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Must be in person (presumably at the Capitol).",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "(For the sweepstakes market if Trump's inauguration never happens then this will resolve to No.)",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-politics",
+			"donald-trump",
+			"2024-us-presidential-election",
+			"jimmy-carter",
+			"2024-us-election"
+		],
+		"textDescription": "Resolves YES if all living presidents (on January 20th, 2025) attend Donald Trump’s inauguration.\n\nMust be in person (presumably at the Capitol).\n\n(For the sweepstakes market if Trump's inauguration never happens then this will resolve to No.)"
+	},
+	{
+		"id": "MtaKowPeVwT42ZTyspjy",
+		"creatorId": "vd6a9E1JSsM0YIenBg8FSb7COhi1",
+		"creatorUsername": "IanMuirhead",
+		"creatorName": "Ian Muirhead",
+		"createdTime": 1696832904968,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJf9I1YS1kru5_bBddoWQSQxL77ZPQO5y3JkkHOF72eB2I=s96-c",
+		"closeTime": 1760997540000,
+		"question": "Will Justin Trudeau lead the Liberal Party in the next federal election in Canada?",
+		"slug": "will-justin-trudeau-lead-the-libera",
+		"url": "https://manifold.markets/IanMuirhead/will-justin-trudeau-lead-the-libera",
+		"pool": {
+			"NO": 8.022464904679788,
+			"YES": 4963.01348541581
+		},
+		"probability": 0.004808529080562123,
+		"p": 0.7493180936716849,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14037.33540443653,
+		"volume24Hours": 293.65683621271677,
+		"isResolved": false,
+		"uniqueBettorCount": 66,
+		"lastUpdatedTime": 1736952242641,
+		"lastBetTime": 1736952242641,
+		"lastCommentTime": 1735319759321,
+		"marketTier": "plus",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"canada",
+			"canadian-politics",
+			"elections"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "jnfyhl8444",
+		"creatorId": "fOP9OVWrlXSpFMsoODOhF7qoG3W2",
+		"creatorUsername": "RichardHanania",
+		"creatorName": "Richard Hanania",
+		"createdTime": 1728252318742,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FRichardHanania%2FpVoHZsFLvw.jpg?alt=media&token=2a462f26-82e8-4afc-a8a1-46352d135209",
+		"closeTime": 1737532740000,
+		"question": "Will there be a US presidential inauguration on January 20, 2025?",
+		"slug": "will-there-be-a-us-presidential-ina--cash",
+		"url": "https://manifold.markets/RichardHanania/will-there-be-a-us-presidential-ina--cash",
+		"pool": {
+			"NO": 872.0551027764969,
+			"YES": 78.61313560982643
+		},
+		"probability": 0.9900830006236991,
+		"p": 0.9000000000000049,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2162.0831035507035,
+		"volume24Hours": 114.5400006550229,
+		"isResolved": false,
+		"uniqueBettorCount": 29,
+		"lastUpdatedTime": 1736960930990,
+		"lastBetTime": 1736960930990,
+		"marketTier": "play",
+		"token": "CASH",
+		"siblingContractId": "w3llwteb5n",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"textDescription": ""
+	},
+	{
+		"id": "JR1h0J3EEpfQwLgxRTXl",
+		"creatorId": "GRaWlYn2fNah0bvr6OW28l28nFn1",
+		"creatorUsername": "cash",
+		"creatorName": "cshunter",
+		"createdTime": 1696541993553,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fconnorcash%2F1AwgT_fRqZ.jpg?alt=media&token=a534da3f-a624-4ba5-a8e4-4df3e286b14e",
+		"closeTime": 1737187140000,
+		"question": "Will Taylor Swift make the best selling album in the US in 2024?",
+		"slug": "will-taylor-swift-make-the-best-sel",
+		"url": "https://manifold.markets/cash/will-taylor-swift-make-the-best-sel",
+		"pool": {
+			"NO": 11347.643643507894,
+			"YES": 556.1875713166733
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.8291280347395651,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 11262.584453223266,
+		"volume24Hours": 2509.222860523677,
+		"isResolved": false,
+		"uniqueBettorCount": 26,
+		"lastUpdatedTime": 1736969196353,
+		"lastBetTime": 1736969196353,
+		"lastCommentTime": 1735719114531,
+		"marketTier": "plus",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question resolves by which artist's album is ",
+							"type": "text"
+						},
+						{
+							"text": "listed on Wikipedia",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/List_of_best-selling_albums_by_year_in_the_United_States#2010s",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " as having sold the most in 2024.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Taylor Swift and Adele have dominated album sales in the US since 2009. Both Swift and Adele are engaged in performances until November 2024 - ",
+							"type": "text"
+						},
+						{
+							"text": "Swift with her Eras Tour",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/The_Eras_Tour",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ", and ",
+							"type": "text"
+						},
+						{
+							"text": "Adele with her concert residency",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/Weekends_with_Adele",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " in Las Vegas.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will an album by Taylor Swift make the most sales in the United States in 2024?",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Note: The Wikipedia list includes any albums sold, so for example, an album released in 2023 made by Taylor Swift that becomes the best selling album in 2024 would still count as a YES for this question.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-01-01 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/cash/will-taylor-swift-make-the-best-sel#o8eh5gbh7uj",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): ",
+											"type": "text"
+										},
+										{
+											"text": "Resolution Timing",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "The resolution deadline has been ",
+															"type": "text"
+														},
+														{
+															"text": "extended",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " to provide additional time for Wikipedia to update the sales data.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"entertainment",
+			"culture-default",
+			"entertainment-12ba84d9b720",
+			"music-f213cbf1eab5",
+			"taylor-swift",
+			"music-artists"
+		],
+		"textDescription": "This question resolves by which artist's album is listed on Wikipedia as having sold the most in 2024.\n\nTaylor Swift and Adele have dominated album sales in the US since 2009. Both Swift and Adele are engaged in performances until November 2024 - Swift with her Eras Tour, and Adele with her concert residency in Las Vegas.\n\nWill an album by Taylor Swift make the most sales in the United States in 2024?\n\nNote: The Wikipedia list includes any albums sold, so for example, an album released in 2023 made by Taylor Swift that becomes the best selling album in 2024 would still count as a YES for this question.\n\nUpdate 2025-01-01 (PST) (AI summary of creator comment): Resolution Timing\n\nThe resolution deadline has been extended to provide additional time for Wikipedia to update the sales data."
+	},
+	{
+		"id": "UIystUc9qO",
+		"creatorId": "szxNgcjVVudC6tyOCX5ndlsoQdo2",
+		"creatorUsername": "Destiny3a152",
+		"creatorName": "Destiny",
+		"createdTime": 1736491618371,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocI4QOSS8OiPQJdK_0SApethEdKIdAgzqEyo3ACaMAgQMvvz6w=s96-c",
+		"closeTime": 1736932916660,
+		"question": "Yoon arrested by January 17?",
+		"slug": "yoon-arrested-by-january-17",
+		"url": "https://manifold.markets/Destiny3a152/yoon-arrested-by-january-17",
+		"pool": {
+			"NO": 1003.9924584726908,
+			"YES": 9.96023417866337
+		},
+		"probability": 0.990176825555225,
+		"p": 0.49999999999999495,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2175.192454576927,
+		"volume24Hours": 1481.2956370365903,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1736932916660,
+		"resolutionProbability": 0.990176825555225,
+		"resolverId": "szxNgcjVVudC6tyOCX5ndlsoQdo2",
+		"uniqueBettorCount": 23,
+		"lastUpdatedTime": 1736932916660,
+		"lastBetTime": 1736932903685,
+		"lastCommentTime": 1736907534784,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if President of South Korea Yoon Suk Yeol is arrested between January 9, and January 17, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The primary resolution source for this market will be official information from the arresting government and law enforcement, however a consensus of credible reporting may also be used.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Destiny3a152/LOQ66P9nQP.jpg",
+		"groupSlugs": [
+			"prison-markets"
+		],
+		"textDescription": "This market will resolve to \"Yes\" if President of South Korea Yoon Suk Yeol is arrested between January 9, and January 17, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the arresting government and law enforcement, however a consensus of credible reporting may also be used."
+	},
+	{
+		"id": "P69qqLNyOl",
+		"creatorId": "pkz6d2CSc5bUDqjDa0RIuV5EPJq1",
+		"creatorUsername": "PogoStick",
+		"creatorName": "Pogo Stick",
+		"createdTime": 1735978280820,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLMUA3jlY9PH3HRQfL0ctwMwkdgEzmt97DjoGw_-43xWZqO8w=s96-c",
+		"closeTime": 1736958548283,
+		"question": "Yoon arrested by January 31?",
+		"slug": "yoon-arrested-by-january-31",
+		"url": "https://manifold.markets/PogoStick/yoon-arrested-by-january-31",
+		"pool": {
+			"NO": 1009.6792656646461,
+			"YES": 9.904135243796784
+		},
+		"probability": 0.9902860960319948,
+		"p": 0.5000000000000007,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1564.5498839455847,
+		"volume24Hours": 662.5958981201826,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1736958551205,
+		"resolutionProbability": 0.9902860960319948,
+		"resolverId": "Iua2KQvL6KYcfGLGNI6PVeGkseo1",
+		"uniqueBettorCount": 29,
+		"lastUpdatedTime": 1736958559340,
+		"lastBetTime": 1736932899961,
+		"lastCommentTime": 1736958558379,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if Yoon Suk Yeol is arrested between December 26, 2024, and January 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The primary resolution source for this market will be official information from the arresting government and law enforcement, however a consensus of credible reporting may also be used.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/PogoStick/OR8ER8cCsQ.jpg",
+		"groupSlugs": [
+			"prison-markets"
+		],
+		"textDescription": "This market will resolve to \"Yes\" if Yoon Suk Yeol is arrested between December 26, 2024, and January 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the arresting government and law enforcement, however a consensus of credible reporting may also be used."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 840811.6823657401,
+		"volume24Hours": 3747.2136956529835,
+		"isResolved": false,
+		"uniqueBettorCount": 1053,
+		"lastUpdatedTime": 1736983395736,
+		"lastBetTime": 1736983395736,
+		"lastCommentTime": 1736867996125,
+		"marketTier": "premium",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	}
+]
