@@ -1,7 +1,7 @@
 import json
 import requests
 import time
-url = 'https://manifold.markets/api/v0/markets?limit=1000'
+url = 'https://api.manifold.markets/v0/markets?limit=1000'
 response = requests.get(url).json()
 markets, unclosed, soon = [], [], []
 while response:

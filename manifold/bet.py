@@ -10,4 +10,4 @@ body = {
 headers = {
     "Authorization": f"Key {os.getenv('API_KEY')}"
 }
-print(requests.post('https://manifold.markets/api/v0/bet', json=body, headers=headers).json())
+print(requests.post('https://api.manifold.markets/v0/bet', json=body, headers=headers).json())

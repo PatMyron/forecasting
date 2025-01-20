@@ -1,6 +1,6 @@
 import json
 import requests
-url = 'https://manifold.markets/api/v0/users?limit=1000'
+url = 'https://api.manifold.markets/v0/users?limit=1000'
 response = requests.get(url).json()
 users, whales, losers = [], [], []
 while response:
