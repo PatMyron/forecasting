@@ -1,0 +1,582 @@
+[
+	{
+		"id": "tensyhhn9h",
+		"creatorId": "7HhTMy4xECaVKvl5MmEAfVUkRCS2",
+		"creatorUsername": "KevinBurke",
+		"creatorName": "Kevin Burke",
+		"createdTime": 1726192752684,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FKevinBurke%2FXxsksNH0Uv.jpeg?alt=media&token=e0e8f14c-dbc8-49ca-b943-2649cecf3291",
+		"closeTime": 1740815940000,
+		"question": "Donald Trump Sr and Laura Loomer are in a sexual relationship? Credible evidence before March 31, 2025",
+		"slug": "are-donald-trump-sr-and-laura-loome",
+		"url": "https://manifold.markets/KevinBurke/are-donald-trump-sr-and-laura-loome",
+		"pool": {
+			"NO": 93.80002534719915,
+			"YES": 10660.977929361514
+		},
+		"probability": 0.008721707295326462,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 447231.206834739,
+		"volume24Hours": 10,
+		"isResolved": false,
+		"uniqueBettorCount": 348,
+		"lastUpdatedTime": 1739110370776,
+		"lastBetTime": 1739110370776,
+		"lastCommentTime": 1733289151081,
+		"marketTier": "plus",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if they were involved in any sexual acts with each other, including if additional partners were present, at any point between January 1, 2024 and November 5, 2024. “Sexual acts” covers anything consenting adults do that you’d be embarrassed to explain to a 12 year old. They have to be in the same room, phone sex or dirty texts/DM’s/photos don’t count.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Because the evidence may not come out until after the election, the market will not close with a NO resolution until March 31, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Credible sources include mainstream media reporting, congressional testimony, sworn depositions, divorce filings.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Given the frequency with which Laura Loomer lies for attention if she just says “we had sex” and it can't be corroborated in any other way I’m not sure that’s an automatic YES.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2FjWhoK9rqpL.png?alt=media&token=db293c39-b378-4c7c-b504-fec25f0298ea",
+						"title": null
+					}
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"donald-trump",
+			"magaland",
+			"2024-us-presidential-election"
+		],
+		"textDescription": "Resolves YES if they were involved in any sexual acts with each other, including if additional partners were present, at any point between January 1, 2024 and November 5, 2024. “Sexual acts” covers anything consenting adults do that you’d be embarrassed to explain to a 12 year old. They have to be in the same room, phone sex or dirty texts/DM’s/photos don’t count.\n\nBecause the evidence may not come out until after the election, the market will not close with a NO resolution until March 31, 2025.\n\nCredible sources include mainstream media reporting, congressional testimony, sworn depositions, divorce filings.\n\nGiven the frequency with which Laura Loomer lies for attention if she just says “we had sex” and it can't be corroborated in any other way I’m not sure that’s an automatic YES.\n\n[image]"
+	},
+	{
+		"id": "0UlulyZgC0",
+		"creatorId": "ktHUwkTNM9e2os9Zp1m5p7Oubu42",
+		"creatorUsername": "CactusHunter",
+		"creatorName": "Cactus Hunter",
+		"createdTime": 1737793430758,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJRVud1e2kvJxXJSyszNcPXnGZAUbVzwx6TvC15BrH9S9WRsA=s96-c",
+		"closeTime": 1740891540000,
+		"question": "2025 January hottest on record? (Resolves from GISTemp data)",
+		"slug": "2025-january-hottest-on-record-reso",
+		"url": "https://manifold.markets/CactusHunter/2025-january-hottest-on-record-reso",
+		"pool": {
+			"NO": 1020.7166079627256,
+			"YES": 9.797038592287933
+		},
+		"probability": 0.9904930530274497,
+		"p": 0.49999999999999706,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1098.6246359617805,
+		"volume24Hours": 145.24077666692702,
+		"isResolved": false,
+		"uniqueBettorCount": 13,
+		"lastUpdatedTime": 1739137229746,
+		"lastBetTime": 1739137229746,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if the data for the Global Land-Ocean Temperature Index for January 2025 shows an increase greater than that of any prior January when it is released. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "At the point the data for January 2025 is first released, it will be compared to all previous data points for January, and if 2025 January is higher than all previous data points, this market will resolve to \"Yes\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Note: If 2025 January is tied for highest with another year, it will NOT suffice to resolve this market to \"Yes\" - it must be higher.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The primary resolution source for this market will be the figures found in the table titled \"GLOBAL Land-Ocean Temperature Index in 0.01 degrees Celsius\" under the column \"Jan\" (",
+							"type": "text"
+						},
+						{
+							"text": "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "). If NASA's \"Global Temperature Index\" is rendered permanently unavailable, other information from NASA may be used. If no information for January 2025 is provided by NASA by May 1, 2025, 11:59 PM ET, a consensus of credible sources will be used to resolve this market.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/CactusHunter/l0NpNyq5QL.jpg",
+		"groupSlugs": [
+			"weather",
+			"global-warming",
+			"climate",
+			"climate-change"
+		],
+		"textDescription": "This market will resolve to \"Yes\" if the data for the Global Land-Ocean Temperature Index for January 2025 shows an increase greater than that of any prior January when it is released. Otherwise, this market will resolve to \"No\".\n\nAt the point the data for January 2025 is first released, it will be compared to all previous data points for January, and if 2025 January is higher than all previous data points, this market will resolve to \"Yes\".\n\nNote: If 2025 January is tied for highest with another year, it will NOT suffice to resolve this market to \"Yes\" - it must be higher.\n\nThe primary resolution source for this market will be the figures found in the table titled \"GLOBAL Land-Ocean Temperature Index in 0.01 degrees Celsius\" under the column \"Jan\" (https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt). If NASA's \"Global Temperature Index\" is rendered permanently unavailable, other information from NASA may be used. If no information for January 2025 is provided by NASA by May 1, 2025, 11:59 PM ET, a consensus of credible sources will be used to resolve this market."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 928250.3530906131,
+		"volume24Hours": 980.0513969516242,
+		"isResolved": false,
+		"uniqueBettorCount": 1056,
+		"lastUpdatedTime": 1739139040513,
+		"lastBetTime": 1739139040513,
+		"lastCommentTime": 1738181421475,
+		"marketTier": "premium",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "jBcrpYME36LYt5ZBMZMG",
+		"creatorId": "oPxjIzlvC5fRbGCaVgkvAiyoXBB2",
+		"creatorUsername": "mattyb",
+		"creatorName": "Matt",
+		"createdTime": 1707796427965,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fmattyb%2Feq8TCTaQW_.jpeg?alt=media&token=b8632c4a-5f41-4148-a6aa-3b42c0d89c03",
+		"closeTime": 1739779140000,
+		"question": "Will Taylor Swift attend Super Bowl LIX (2025)?",
+		"slug": "will-taylor-swift-attend-super-bowl",
+		"url": "https://manifold.markets/mattyb/will-taylor-swift-attend-super-bowl",
+		"pool": {
+			"NO": 1128.6374515973123,
+			"YES": 9.688200410417437
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.45940509049612643,
+		"totalLiquidity": 130,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2205.889209294379,
+		"volume24Hours": 0,
+		"isResolved": false,
+		"uniqueBettorCount": 20,
+		"lastUpdatedTime": 1739059029933,
+		"lastBetTime": 1739059029933,
+		"marketTier": "play",
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If there is any report of Taylor Swift being in attendance at ",
+							"type": "text"
+						},
+						{
+							"text": "Super Bowl LIX",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/Super_Bowl_LIX",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " in New Orleans, this will Resolve YES. Otherwise, NO.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If for some reason the NFL cancels the 59th Super Bowl, this will Resolve N/A.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/mattyb%2F842fc0035d4d.jpg",
+		"groupSlugs": [
+			"celebrities",
+			"super-bowl",
+			"taylor-swift",
+			"super-bowl-lix",
+			"football",
+			"entertainment",
+			"nfl",
+			"nfl-playoffs"
+		],
+		"textDescription": "If there is any report of Taylor Swift being in attendance at Super Bowl LIX in New Orleans, this will Resolve YES. Otherwise, NO.\n\nIf for some reason the NFL cancels the 59th Super Bowl, this will Resolve N/A."
+	}
+]
