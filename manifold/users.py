@@ -6,9 +6,9 @@ users, whales, losers = [], [], []
 while response:
   for user in response:
     users.append(user)
-    if user['balance'] > 100000:
+    if user['balance'] > 1000000:
       whales.append(user)
-    if user['profitCached']['allTime'] < -15000:
+    if user.get('profitCached', {}).get('allTime', 0) < -200000: # https://manifold.markets/leaderboards
       losers.append(user)
   response = requests.get(url + '&before=' + response[-1]['id']).json()
 with open('users.json', 'w') as f:
