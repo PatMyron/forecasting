@@ -1,0 +1,910 @@
+[
+	{
+		"id": "lcQpUONApO",
+		"creatorId": "THLrqawDaIYtGqmEGZaM6lcjGXU2",
+		"creatorUsername": "BenWilop",
+		"creatorName": "Ben Wilop",
+		"createdTime": 1731965371515,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJbRkxhKQJf3phC1N4CZ9Hm8B4Bb7u5Uxwjy_En5pjoAxZMvA=s96-c",
+		"closeTime": 1740873540000,
+		"question": "Will the FDP be part of the next German parliament?",
+		"slug": "will-the-fdp-be-part-of-the-next-ge",
+		"url": "https://manifold.markets/BenWilop/will-the-fdp-be-part-of-the-next-ge",
+		"pool": {
+			"NO": 10.050378152592144,
+			"YES": 994.9874371066217
+		},
+		"probability": 0.009999999999999998,
+		"p": 0.49999999999999983,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 22664.155515680668,
+		"volume24Hours": 102.71693953690469,
+		"isResolved": false,
+		"uniqueBettorCount": 32,
+		"lastUpdatedTime": 1740700166873,
+		"lastBetTime": 1740700166873,
+		"lastCommentTime": 1740349377372,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This will resolve yes, if the FDP is part of the next German parliament. The election is currently set for 23th February 2025, but the market will settle to the result of the earliest federal election of the Bundestag after the 19th November (I.e. the date of the election does not influence the result).",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/BenWilop/gPzU8ynIns.jpg",
+		"groupSlugs": [
+			"elections",
+			"elections-world",
+			"german-politics",
+			"europe",
+			"germany"
+		],
+		"textDescription": "This will resolve yes, if the FDP is part of the next German parliament. The election is currently set for 23th February 2025, but the market will settle to the result of the earliest federal election of the Bundestag after the 19th November (I.e. the date of the election does not influence the result)."
+	},
+	{
+		"id": "I6AsdpOSlS",
+		"creatorId": "1tiQgOT554PvqUekWxmF2UAdqoi2",
+		"creatorUsername": "Robincvgr",
+		"creatorName": "Robin",
+		"createdTime": 1740662377372,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FRobincvgr%2F1zMNRUHrLv.png?alt=media&token=824a643d-8c46-4101-a7cc-8fed38323769",
+		"closeTime": 1743656340000,
+		"question": "What will the MSRP of the Nintendo Switch 2 on announcement be in the US?",
+		"slug": "what-will-the-msrp-of-the-nintendo",
+		"url": "https://manifold.markets/Robincvgr/what-will-the-msrp-of-the-nintendo",
+		"totalLiquidity": 275,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 847.1925458143077,
+		"volume24Hours": 847.1925458143077,
+		"isResolved": false,
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1740664665639,
+		"lastBetTime": 1740664665639,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to the United States MSRP of the cheapest model of the Nintendo Switch 2 when any model(s)'s price is first announced. Later price changes will not affect this market.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "There are markets like this, but this one uses the new numeric feature.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If the price is lower or higher than the range, this market will be resolved to the lowest or highest option respectively.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date is provisional.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"nintendo-switch-2",
+			"nintendo",
+			"finance",
+			"video-games",
+			"gaming"
+		],
+		"textDescription": "Resolves to the United States MSRP of the cheapest model of the Nintendo Switch 2 when any model(s)'s price is first announced. Later price changes will not affect this market.\n\nThere are markets like this, but this one uses the new numeric feature.\n\nIf the price is lower or higher than the range, this market will be resolved to the lowest or highest option respectively.\n\nClose date is provisional."
+	},
+	{
+		"id": "Q95nSslnUN",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1740254984477,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 1740891540000,
+		"question": "Will Pope Francis live past the end of February?",
+		"slug": "will-pope-francis-live-past-the-end",
+		"url": "https://manifold.markets/strutheo/will-pope-francis-live-past-the-end",
+		"pool": {
+			"NO": 994.9874371066197,
+			"YES": 10.050378152592202
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.5000000000000047,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 4332.217310197766,
+		"volume24Hours": 756.0729042390967,
+		"isResolved": false,
+		"uniqueBettorCount": 60,
+		"lastUpdatedTime": 1740702567513,
+		"lastBetTime": 1740702567513,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"religion",
+			"death",
+			"death-markets",
+			"longevity"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "ZthSn0dcPn",
+		"creatorId": "cBLCLDDDjIPnfuIdKIE4sXLKgJH3",
+		"creatorUsername": "pa",
+		"creatorName": "PedroA",
+		"createdTime": 1739854747605,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AAcHTtee8W-AS6HtIUteOIjSMBI-pGI8Iq6PnPJYlJs17w=s96-c",
+		"closeTime": 1740691154229,
+		"question": "Will OpenAI release GPT-4.5 before March 1st, 2025?",
+		"slug": "will-openai-release-gpt45-before-ma",
+		"url": "https://manifold.markets/pa/will-openai-release-gpt45-before-ma",
+		"pool": {
+			"NO": 994.9874371066217,
+			"YES": 10.050378152592145
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.5000000000000028,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2653.0791891743806,
+		"volume24Hours": 1264.4458735357912,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1740691154229,
+		"resolutionProbability": 0.9900000000000001,
+		"resolverId": "cBLCLDDDjIPnfuIdKIE4sXLKgJH3",
+		"uniqueBettorCount": 40,
+		"lastUpdatedTime": 1740691154229,
+		"lastBetTime": 1740686713099,
+		"lastCommentTime": 1740689239476,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"chatgpt",
+			"openai",
+			"ai",
+			"technical-ai-timelines",
+			"technology-default"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "tOCgpzgthI",
+		"creatorId": "XNrWcIrA22hpv20fHn4ApoTPsh63",
+		"creatorUsername": "bagelfan",
+		"creatorName": "bagelfan",
+		"createdTime": 1735493410100,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fbagelfan%2FXmcVx_wz_S.gif?alt=media&token=39505e13-f873-4c1e-87f0-95f0b98952d1",
+		"closeTime": 1740805140000,
+		"question": "Will Erling Haaland have at least 20 Premier League goals in the 2024-25 season by the end of February 2025?",
+		"slug": "will-erling-haaland-have-at-least-2-qUluLZdqz0",
+		"url": "https://manifold.markets/bagelfan/will-erling-haaland-have-at-least-2-qUluLZdqz0",
+		"pool": {
+			"NO": 12050.824176690858,
+			"YES": 168.86234228930485
+		},
+		"probability": 0.9901010685985298,
+		"p": 0.5836015170647871,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14193.99970784577,
+		"volume24Hours": 275.4671252697554,
+		"isResolved": false,
+		"uniqueBettorCount": 24,
+		"lastUpdatedTime": 1740680730874,
+		"lastBetTime": 1740680730874,
+		"lastCommentTime": 1740611731195,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Haaland has 20 or more goals (including 20) this season in the Premier League at any point before the end of February 2025. Resolves NO if this hasn't happened and Manchester City have played all of their Premier League matches scheduled before the end of February.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Data Source: ",
+							"type": "text"
+						},
+						{
+							"text": "https://www.premierleague.com/players/65970/Erling-Haaland/stats?co=1&se=719",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.premierleague.com/players/65970/Erling-Haaland/stats?co=1&se=719",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/bagelfan/LC9Adt2nEg.jpg",
+		"groupSlugs": [
+			"soccer",
+			"premier-league-20242025",
+			"premiere-league",
+			"records",
+			"sports-default"
+		],
+		"textDescription": "Resolves YES if Haaland has 20 or more goals (including 20) this season in the Premier League at any point before the end of February 2025. Resolves NO if this hasn't happened and Manchester City have played all of their Premier League matches scheduled before the end of February.\n\nData Source: https://www.premierleague.com/players/65970/Erling-Haaland/stats?co=1&se=719"
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 939664.9151498561,
+		"volume24Hours": 645.8949518790189,
+		"isResolved": false,
+		"uniqueBettorCount": 1057,
+		"lastUpdatedTime": 1740687515089,
+		"lastBetTime": 1740687515089,
+		"lastCommentTime": 1740584688203,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "60pZcnCNEy",
+		"creatorId": "uyFbHRn5q9fq9DFSoHXIAhw7KrD3",
+		"creatorUsername": "notarealuser",
+		"creatorName": "notarealuser",
+		"createdTime": 1732497992733,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fnotarealuser%2FQyg5cVvWlI.jpg?alt=media&token=fb86f6ff-f444-4fda-88ad-29a00de78354",
+		"closeTime": 1767139200000,
+		"question": "SpaceX conducts at least one Starship launch every month in 2025",
+		"slug": "spacex-conducts-at-least-one-starsh",
+		"url": "https://manifold.markets/notarealuser/spacex-conducts-at-least-one-starsh",
+		"pool": {
+			"NO": 75.75542986930031,
+			"YES": 13200.37391016439
+		},
+		"probability": 0.005706138282403033,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 34913.90283423588,
+		"volume24Hours": 7389.803500818978,
+		"isResolved": false,
+		"uniqueBettorCount": 82,
+		"lastUpdatedTime": 1740696044560,
+		"lastBetTime": 1740696044560,
+		"lastCommentTime": 1740647607238,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "SpaceX aims to conduct 25 Starship launches in 2025, requiring consistent monthly launches to achieve this goal.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Market resolves YES if SpaceX conducts at least one Starship launch in each calendar month of 2025 (January through December). Market resolves NO if any month passes without a launch.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/notarealuser/p08nEIOZLg.jpg",
+		"groupSlugs": [
+			"spacex",
+			"rockets",
+			"technology-default",
+			"starship-launch-party",
+			"elon-musk-14d9d9498c7e"
+		],
+		"textDescription": "SpaceX aims to conduct 25 Starship launches in 2025, requiring consistent monthly launches to achieve this goal.\n\nMarket resolves YES if SpaceX conducts at least one Starship launch in each calendar month of 2025 (January through December). Market resolves NO if any month passes without a launch."
+	},
+	{
+		"id": "NlsRy20QsP",
+		"creatorId": "OdBj5DW6PbYtnImvybpyZzfhb133",
+		"creatorUsername": "jim",
+		"creatorName": "jim",
+		"createdTime": 1740629222671,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fjim%2Fs683etIf3B.jpg?alt=media&token=48689783-1735-4612-b9bd-1f9dcd4cd13f",
+		"closeTime": 1740740340000,
+		"question": "Will GPT-4.5 be released on Thursday?",
+		"slug": "will-gpt45-be-released-on-thursday",
+		"url": "https://manifold.markets/jim/will-gpt45-be-released-on-thursday",
+		"pool": {
+			"NO": 10083.608080672397,
+			"YES": 99.17085154437325
+		},
+		"probability": 0.9902609246253385,
+		"p": 0.49999999999999856,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 19027.906038768702,
+		"volume24Hours": 19032.906038768702,
+		"isResolved": false,
+		"uniqueBettorCount": 25,
+		"lastUpdatedTime": 1740692156851,
+		"lastBetTime": 1740692156851,
+		"lastCommentTime": 1740689393330,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2Fy1DoGKE54L.webp?alt=media&token=8eefee86-d8da-4a3a-b9ec-3b82ea544cd2",
+						"title": null
+					}
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"gpt5-speculation",
+			"gpt4-speculation",
+			"technology-default",
+			"openai",
+			"ai"
+		],
+		"textDescription": "[image]"
+	},
+	{
+		"id": "2tc5QCdOtU",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1740524488220,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 1740891540000,
+		"question": "Will Chat gpt 4.5 release before the end of february?",
+		"slug": "will-chat-gpt-45-release-before-the",
+		"url": "https://manifold.markets/strutheo/will-chat-gpt-45-release-before-the",
+		"pool": {
+			"NO": 498.7437106620101,
+			"YES": 20.05037815259203
+		},
+		"probability": 0.9613519533377761,
+		"p": 0.4999999999999918,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14608.9616859637,
+		"volume24Hours": 12969.552816272328,
+		"isResolved": false,
+		"uniqueBettorCount": 53,
+		"lastUpdatedTime": 1740703969495,
+		"lastBetTime": 1740703969495,
+		"lastCommentTime": 1740695429598,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-02-27 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/strutheo/will-chat-gpt-45-release-before-the#xno9riczg7",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): ",
+											"type": "text"
+										},
+										{
+											"text": "Release",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " is defined as the official deployment of ChatGPT 4.5 to the public, meaning that the product is available for use.",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Only an official release qualifies as a resolution event.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Announcements, previews, or early previews do not count.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"gpt5-speculation",
+			"language-models",
+			"gpt4-speculation",
+			"chatbot-arena-leaderboard",
+			"chatgpt"
+		],
+		"textDescription": "Update 2025-02-27 (PST) (AI summary of creator comment): Release is defined as the official deployment of ChatGPT 4.5 to the public, meaning that the product is available for use.\n\nOnly an official release qualifies as a resolution event.\n\nAnnouncements, previews, or early previews do not count."
+	},
+	{
+		"id": "8xHXUNeS8MsQN7BlNF31",
+		"creatorId": "2eLbfaaBmjeKLKMgnpV6TkDmCU83",
+		"creatorUsername": "JoshuaWilkes",
+		"creatorName": "Josh Wilkes",
+		"createdTime": 1714442132112,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJoshuaWilkes%2FXIGVWxU1ja.jpg?alt=media&token=f06848d8-7813-437c-a516-65b151c295c8",
+		"closeTime": 1740758340000,
+		"question": "How many Head Coaches will leave their jobs in the 2024 NFL Season?",
+		"slug": "how-many-head-coaches-will-leave-th",
+		"url": "https://manifold.markets/JoshuaWilkes/how-many-head-coaches-will-leave-th",
+		"totalLiquidity": 120,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 624.8954958865629,
+		"volume24Hours": 9.999999999999964,
+		"isResolved": false,
+		"uniqueBettorCount": 6,
+		"lastUpdatedTime": 1740695288023,
+		"lastBetTime": 1740695288023,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "if less than 2, resolves to 2",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "if more than 10, resolves to 10",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves two weeks after the Super Bowl",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"nfl",
+			"nfl-futures"
+		],
+		"textDescription": "if less than 2, resolves to 2\n\nif more than 10, resolves to 10\n\nResolves two weeks after the Super Bowl"
+	}
+]
