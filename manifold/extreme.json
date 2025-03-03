@@ -1,0 +1,357 @@
+[
+	{
+		"id": "ll50pCnqOp",
+		"creatorId": "GRaWlYn2fNah0bvr6OW28l28nFn1",
+		"creatorUsername": "cash",
+		"creatorName": "cshunter",
+		"createdTime": 1736183476859,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fconnorcash%2F1AwgT_fRqZ.jpg?alt=media&token=a534da3f-a624-4ba5-a8e4-4df3e286b14e",
+		"closeTime": 1743490740000,
+		"question": "Will Justin Trudeau officially step down as Prime Minister of Canada before the end of March?",
+		"slug": "will-justin-trudeau-officially-step-S22gR0nOOn",
+		"url": "https://manifold.markets/cash/will-justin-trudeau-officially-step-S22gR0nOOn",
+		"pool": {
+			"NO": 1331.064426452474,
+			"YES": 7.512784356089924
+		},
+		"probability": 0.9943874852377385,
+		"p": 0.49999999999999917,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1435.29024896885,
+		"volume24Hours": 4.537593796502165,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1740953847369,
+		"lastBetTime": 1740953847369,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Justin Trudeau has announced he will step down as Prime Minister and leader of the Liberal Party before the next election (",
+							"type": "text"
+						},
+						{
+							"text": "CBC",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ").",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "He has asked the Governor General to prorogue parliament until 24 Mar 2025 to allow his party time to select a new leader in a leadership race.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will Justin Trudeau officially step down/resign as Canadian Prime Minister before the end of March?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "See also:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/cash/will-justin-trudeau-officially-step?play=true",
+						"frameBorder": 0
+					}
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/cash/qZs6Cs9266.jpg",
+		"groupSlugs": [
+			"justin-trudeau",
+			"politics-default",
+			"canadian-politics",
+			"canada",
+			"world-default"
+		],
+		"textDescription": "Justin Trudeau has announced he will step down as Prime Minister and leader of the Liberal Party before the next election (CBC).\n\nHe has asked the Governor General to prorogue parliament until 24 Mar 2025 to allow his party time to select a new leader in a leadership race.\n\nWill Justin Trudeau officially step down/resign as Canadian Prime Minister before the end of March?\n\nSee also:\n\n(https://manifold.markets/embed/cash/will-justin-trudeau-officially-step?play=true)"
+	},
+	{
+		"id": "sqqqE6lE58",
+		"creatorId": "vXmzOUWUivcT2abp1Uja18nMJbA3",
+		"creatorUsername": "skibidionthatthing",
+		"creatorName": "hawk tuah",
+		"createdTime": 1739332909003,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Famogwang%2FkHNuyyVhAb.png?alt=media&token=743ce308-43b3-4b36-a6d2-3e4e6d5aa4d1",
+		"closeTime": 1742446740000,
+		"question": "Will Jenny Chu qualify for MOP 2025?",
+		"slug": "will-jenny-chu-qualify-for-mop-2025",
+		"url": "https://manifold.markets/skibidionthatthing/will-jenny-chu-qualify-for-mop-2025",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066198
+		},
+		"probability": 0.009999999999999962,
+		"p": 0.49999999999999983,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1489.3753803649306,
+		"volume24Hours": 175.58772820330603,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1740963778961,
+		"lastBetTime": 1740963778961,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves YES if Jenny Chu is invited to participate in the Math Olympiad Program (MOP) in the year 2025. Otherwise, this market will resolve NO. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Information on Jenny Chu:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Did not qualify for the American Invitational Mathematics Examination in 2024. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Has attended prestigious college mathematics competitions such as HMMT and PUMaC, but has notably not placed on the individual leaderboard for any. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Is eligible for Pink MOP and Pink olympiad cutoffs. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Entered the 2024-25 math competition/AMC season with the intent to qualify for the USA (Junior) Mathematical Olympiad (USA(J)MO) by some means and the Math Olympiad Program (MOP) through this. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Information on MOP (most of this is taken from Wikipedia):",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Mathematical Olympiad Program (abbreviated MOP; formerly called the Mathematical Olympiad Summer Program, abbreviated MOSP) is an intensive summer program held at Carnegie Mellon University. The main purpose of MOP, held since 1974, is to select and train the six members of the U.S. team for the International Mathematical Olympiad (IMO).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Students qualify for the program by scoring highly on the United States of America Mathematical Olympiad (USAMO) or United States of America Junior Mathematical Olympiad (USAJMO).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Before 2012, the top twelve American scorers from all grades formed the \"black\" group. The approximately eighteen next highest American scorers among students from 11th grade and below form the \"blue\" group.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In 2004, the program was expanded to include approximately thirty of the highest-scoring American freshmen and sophomores each year, the \"red\" group; this was later split into two, forming the \"green\" group, which consists of approximately fifteen of the highest-scoring freshmen and sophomores who have qualified through the USAMO, and the \"red\" group, which consists of those who have qualified through the USAJMO. The colorful designations of these groups were adapted from Karate.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In 2008, another group was added. The girls who will be representing the United States at the EGMO will attend MOP to prepare for that contest. This group is colloquially known as Pink MOP.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/skibidionthatthing/2RLRNOn2zN.jpg",
+		"groupSlugs": [
+			"competition-math",
+			"mathematics",
+			"imo"
+		],
+		"textDescription": "This market resolves YES if Jenny Chu is invited to participate in the Math Olympiad Program (MOP) in the year 2025. Otherwise, this market will resolve NO. \n\nInformation on Jenny Chu:\n\nDid not qualify for the American Invitational Mathematics Examination in 2024. \n\nHas attended prestigious college mathematics competitions such as HMMT and PUMaC, but has notably not placed on the individual leaderboard for any. \n\nIs eligible for Pink MOP and Pink olympiad cutoffs. \n\nEntered the 2024-25 math competition/AMC season with the intent to qualify for the USA (Junior) Mathematical Olympiad (USA(J)MO) by some means and the Math Olympiad Program (MOP) through this. \n\nInformation on MOP (most of this is taken from Wikipedia):\n\nThe Mathematical Olympiad Program (abbreviated MOP; formerly called the Mathematical Olympiad Summer Program, abbreviated MOSP) is an intensive summer program held at Carnegie Mellon University. The main purpose of MOP, held since 1974, is to select and train the six members of the U.S. team for the International Mathematical Olympiad (IMO).\n\nStudents qualify for the program by scoring highly on the United States of America Mathematical Olympiad (USAMO) or United States of America Junior Mathematical Olympiad (USAJMO).\n\nBefore 2012, the top twelve American scorers from all grades formed the \"black\" group. The approximately eighteen next highest American scorers among students from 11th grade and below form the \"blue\" group.\n\nIn 2004, the program was expanded to include approximately thirty of the highest-scoring American freshmen and sophomores each year, the \"red\" group; this was later split into two, forming the \"green\" group, which consists of approximately fifteen of the highest-scoring freshmen and sophomores who have qualified through the USAMO, and the \"red\" group, which consists of those who have qualified through the USAJMO. The colorful designations of these groups were adapted from Karate.\n\nIn 2008, another group was added. The girls who will be representing the United States at the EGMO will attend MOP to prepare for that contest. This group is colloquially known as Pink MOP."
+	},
+	{
+		"id": "8yqh0q8tNO",
+		"creatorId": "pQWmFbqryhfxl0DxcnXPScRu9JP2",
+		"creatorUsername": "Darkri",
+		"creatorName": "Rob F",
+		"createdTime": 1735781199659,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FRobertFazekas%2FCFTcSFV5R9.png?alt=media&token=6873fd9b-5b18-46cc-8879-1433ff833c31",
+		"closeTime": 1743479940000,
+		"question": "Will Nintendo release the Switch 2 before the end of March 2025?",
+		"slug": "will-nintendo-release-the-switch-2",
+		"url": "https://manifold.markets/Darkri/will-nintendo-release-the-switch-2",
+		"pool": {
+			"NO": 100.50378152592111,
+			"YES": 9949.874371066202
+		},
+		"probability": 0.009999999999999992,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 12574.126558364695,
+		"volume24Hours": 7041.666297462812,
+		"isResolved": false,
+		"uniqueBettorCount": 26,
+		"lastUpdatedTime": 1740961608425,
+		"lastBetTime": 1740961608425,
+		"lastCommentTime": 1740768330583,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Darkri/nCph6QcRIu.jpg",
+		"groupSlugs": [
+			"gaming",
+			"video-games",
+			"nintendo-switch",
+			"nintendo",
+			"technology-default"
+		],
+		"textDescription": ""
+	}
+]
