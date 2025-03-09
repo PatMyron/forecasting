@@ -1,0 +1,1013 @@
+[
+	{
+		"id": "5N825qphdZ",
+		"creatorId": "EBYxxNZNZwdxYOGmK99JmYU8iEC3",
+		"creatorUsername": "Nitewings",
+		"creatorName": "Nitewings",
+		"createdTime": 1733798166720,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLBj7F2FvFohaVcQqqAsCMjzWJCluN1R1llJAlXcRBeDe3gHA=s96-c",
+		"closeTime": 1765951140000,
+		"question": "Will aliens freely walk around in 2025",
+		"slug": "will-aliens-freely-walk-around-in-2",
+		"url": "https://manifold.markets/Nitewings/will-aliens-freely-walk-around-in-2",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066195
+		},
+		"probability": 0.009999999999999969,
+		"p": 0.4999999999999999,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1289.4888322703641,
+		"volume24Hours": 521.2381346884919,
+		"isResolved": false,
+		"uniqueBettorCount": 8,
+		"lastUpdatedTime": 1741434942419,
+		"lastBetTime": 1741434942419,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "While there is significant scientific interest in the search for extraterrestrial life, current scientific consensus does not support the possibility of aliens freely walking around on Earth in 2025. NASA and other space agencies are focused on detecting potential microbial life or biosignatures on other planets and moons within our solar system, or identifying signs of life on distant exoplanets through telescopic observations.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve as YES if there is widely documented and verified evidence of extraterrestrial beings freely walking among humans on Earth at any point during the calendar year 2025. The evidence must be:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Acknowledged by multiple reputable scientific institutions",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Covered by major international news organizations",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Confirmed by relevant government agencies",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve as NO if:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "No aliens are observed walking freely on Earth during 2025",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Any claimed sightings are debunked or lack credible evidence",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The only evidence consists of unverified photos, videos, or witness testimonies",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The James Webb Space Telescope and other scientific missions may discover evidence of extraterrestrial life in the coming years, but this would likely be in the form of microbial life or biosignatures, not advanced beings capable of visiting Earth",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Claims of alien contact should be evaluated with extreme skepticism, as there is a long history of hoaxes and misidentified phenomena",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Any genuine first contact scenario would likely involve extensive government and military involvement, rather than aliens immediately walking freely among humans",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/DonGuertin/9y5R6ngUlg.jpg",
+		"groupSlugs": [
+			"technology-default",
+			"ufo",
+			"aliens",
+			"science-default",
+			"ai"
+		],
+		"textDescription": "Background\n\nWhile there is significant scientific interest in the search for extraterrestrial life, current scientific consensus does not support the possibility of aliens freely walking around on Earth in 2025. NASA and other space agencies are focused on detecting potential microbial life or biosignatures on other planets and moons within our solar system, or identifying signs of life on distant exoplanets through telescopic observations.\n\nResolution Criteria\n\nThis market will resolve as YES if there is widely documented and verified evidence of extraterrestrial beings freely walking among humans on Earth at any point during the calendar year 2025. The evidence must be:\n\nAcknowledged by multiple reputable scientific institutions\n\nCovered by major international news organizations\n\nConfirmed by relevant government agencies\n\nThe market will resolve as NO if:\n\nNo aliens are observed walking freely on Earth during 2025\n\nAny claimed sightings are debunked or lack credible evidence\n\nThe only evidence consists of unverified photos, videos, or witness testimonies\n\nConsiderations\n\nThe James Webb Space Telescope and other scientific missions may discover evidence of extraterrestrial life in the coming years, but this would likely be in the form of microbial life or biosignatures, not advanced beings capable of visiting Earth\n\nClaims of alien contact should be evaluated with extreme skepticism, as there is a long history of hoaxes and misidentified phenomena\n\nAny genuine first contact scenario would likely involve extensive government and military involvement, rather than aliens immediately walking freely among humans"
+	},
+	{
+		"id": "zpyphEnlqu",
+		"creatorId": "szxNgcjVVudC6tyOCX5ndlsoQdo2",
+		"creatorUsername": "Destiny3a152",
+		"creatorName": "Destiny",
+		"createdTime": 1741124373469,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocI4QOSS8OiPQJdK_0SApethEdKIdAgzqEyo3ACaMAgQMvvz6w=s96-c",
+		"closeTime": 1741496340000,
+		"question": "Will FBI send Pam Bondi the full Epstein files by Friday?",
+		"slug": "will-fbi-send-pam-bondi-the-full-ep",
+		"url": "https://manifold.markets/Destiny3a152/will-fbi-send-pam-bondi-the-full-ep",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066192
+		},
+		"probability": 0.009999999999999993,
+		"p": 0.5000000000000004,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1036.3571377832602,
+		"volume24Hours": 855.3571377832602,
+		"isResolved": false,
+		"uniqueBettorCount": 8,
+		"lastUpdatedTime": 1741465129577,
+		"lastBetTime": 1741465129577,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if the FBI provides Pam Bondi with the full, unredacted Jeffrey Epstein case files by March 7, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The primary resolution source for this market will be official information from Pam Bondi and the FBI, however a consensus of credible reporting will also be used.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"trumps-second-term",
+			"us-politics",
+			"law-order",
+			"crime",
+			"prison-markets"
+		],
+		"textDescription": "This market will resolve to \"Yes\" if the FBI provides Pam Bondi with the full, unredacted Jeffrey Epstein case files by March 7, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from Pam Bondi and the FBI, however a consensus of credible reporting will also be used."
+	},
+	{
+		"id": "AK1sqGkoSNcPaX3PNmMI",
+		"creatorId": "n3zzATIKccTzFxyifz7vSGNKjHD3",
+		"creatorUsername": "UniversalFC",
+		"creatorName": "Universal FC",
+		"createdTime": 1714913160516,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FUniversalFC%2Fh3a4ptQzaV.png?alt=media&token=4e09ef99-5d51-4889-8336-9360eb780ce1",
+		"closeTime": 1747108740000,
+		"question": "Will Real Sociedad win the 2024/25 La Liga?",
+		"slug": "will-real-sociedad-win-the-202425-l",
+		"url": "https://manifold.markets/UniversalFC/will-real-sociedad-win-the-202425-l",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066196
+		},
+		"probability": 0.009999999999999967,
+		"p": 0.4999999999999999,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 899.2936861671634,
+		"volume24Hours": 501.2936861671634,
+		"isResolved": false,
+		"uniqueBettorCount": 4,
+		"lastUpdatedTime": 1741461510686,
+		"lastBetTime": 1741461510686,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"football",
+			"spain",
+			"la-liga",
+			"sports-default",
+			"soccer"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "pAPtSInhp9",
+		"creatorId": "Fj6XkyITAxYH44RjWXfEkY66dem2",
+		"creatorUsername": "AUTOMATA",
+		"creatorName": "AUTOMATA",
+		"createdTime": 1741136614251,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLY9jyXgEnzCrZoSZeoO2bSBCK3yCgu9s9Zqw9l-BHH=s96-c",
+		"closeTime": 1767243540000,
+		"question": "Will the USA become a province of Pakistan?",
+		"slug": "will-the-usa-become-a-province-of-p",
+		"url": "https://manifold.markets/AUTOMATA/will-the-usa-become-a-province-of-p",
+		"pool": {
+			"NO": 10.22504933668949,
+			"YES": 977.990391118999
+		},
+		"probability": 0.010346983985571481,
+		"p": 0.49999999999999967,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 28973.075338263367,
+		"volume24Hours": 3953.7074153963836,
+		"isResolved": false,
+		"uniqueBettorCount": 67,
+		"lastUpdatedTime": 1741481752664,
+		"lastBetTime": 1741481752664,
+		"lastCommentTime": 1741475807652,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-03-07 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/AUTOMATA/will-the-usa-become-a-province-of-p#ywj5qw0z67m",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): ",
+											"type": "text"
+										},
+										{
+											"text": "Disputed Status Resolution Clarification",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "If the USA is incorporated as a disputed territory rather than an official province of Pakistan, the market will resolve to ",
+															"type": "text"
+														},
+														{
+															"text": "no",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ".",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "The market will only potentially resolve in favor if the USA is officially designated as a province alongside provinces such as Punjab, Sindh, Khyber Pakhtunkhwa, and Balochistan.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"pakistan",
+			"imperalism",
+			"nonpredictive",
+			"fun"
+		],
+		"textDescription": "Update 2025-03-07 (PST) (AI summary of creator comment): Disputed Status Resolution Clarification\n\nIf the USA is incorporated as a disputed territory rather than an official province of Pakistan, the market will resolve to no.\n\nThe market will only potentially resolve in favor if the USA is officially designated as a province alongside provinces such as Punjab, Sindh, Khyber Pakhtunkhwa, and Balochistan."
+	},
+	{
+		"id": "tensyhhn9h",
+		"creatorId": "7HhTMy4xECaVKvl5MmEAfVUkRCS2",
+		"creatorUsername": "KevinBurke",
+		"creatorName": "Kevin Burke",
+		"createdTime": 1726192752684,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FKevinBurke%2FXxsksNH0Uv.jpeg?alt=media&token=e0e8f14c-dbc8-49ca-b943-2649cecf3291",
+		"closeTime": 1743490740000,
+		"question": "Donald Trump Sr and Laura Loomer are in a sexual relationship? Credible evidence before March 31, 2025",
+		"slug": "are-donald-trump-sr-and-laura-loome",
+		"url": "https://manifold.markets/KevinBurke/are-donald-trump-sr-and-laura-loome",
+		"pool": {
+			"NO": 89.1632899482408,
+			"YES": 11215.377994469882
+		},
+		"probability": 0.007887386821360119,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 452406.80676963064,
+		"volume24Hours": 0,
+		"isResolved": false,
+		"uniqueBettorCount": 348,
+		"lastUpdatedTime": 1740875606915,
+		"lastBetTime": 1740065060977,
+		"lastCommentTime": 1733289151081,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if they were involved in any sexual acts with each other, including if additional partners were present, at any point between January 1, 2024 and November 5, 2024. “Sexual acts” covers anything consenting adults do that you’d be embarrassed to explain to a 12 year old. They have to be in the same room, phone sex or dirty texts/DM’s/photos don’t count.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Because the evidence may not come out until after the election, the market will not close with a NO resolution until March 31, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Credible sources include mainstream media reporting, congressional testimony, sworn depositions, divorce filings.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Given the frequency with which Laura Loomer lies for attention if she just says “we had sex” and it can't be corroborated in any other way I’m not sure that’s an automatic YES.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "image",
+					"attrs": {
+						"alt": null,
+						"src": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdefault%2FjWhoK9rqpL.png?alt=media&token=db293c39-b378-4c7c-b504-fec25f0298ea",
+						"title": null
+					}
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"donald-trump",
+			"magaland",
+			"2024-us-presidential-election"
+		],
+		"textDescription": "Resolves YES if they were involved in any sexual acts with each other, including if additional partners were present, at any point between January 1, 2024 and November 5, 2024. “Sexual acts” covers anything consenting adults do that you’d be embarrassed to explain to a 12 year old. They have to be in the same room, phone sex or dirty texts/DM’s/photos don’t count.\n\nBecause the evidence may not come out until after the election, the market will not close with a NO resolution until March 31, 2025.\n\nCredible sources include mainstream media reporting, congressional testimony, sworn depositions, divorce filings.\n\nGiven the frequency with which Laura Loomer lies for attention if she just says “we had sex” and it can't be corroborated in any other way I’m not sure that’s an automatic YES.\n\n[image]"
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 944178.4807530909,
+		"volume24Hours": 1518.0000000000105,
+		"isResolved": false,
+		"uniqueBettorCount": 1057,
+		"lastUpdatedTime": 1741475134564,
+		"lastBetTime": 1741475134564,
+		"lastCommentTime": 1741313511828,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "u7hsoazoEq9zLqA0A1Sf",
+		"creatorId": "n3zzATIKccTzFxyifz7vSGNKjHD3",
+		"creatorUsername": "UniversalFC",
+		"creatorName": "Universal FC",
+		"createdTime": 1713876466565,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FUniversalFC%2Fh3a4ptQzaV.png?alt=media&token=4e09ef99-5d51-4889-8336-9360eb780ce1",
+		"closeTime": 1748231940000,
+		"question": "Will Bologna win the 2024/25 Serie A?",
+		"slug": "will-bologna-win-the-202425-serie-a",
+		"url": "https://manifold.markets/UniversalFC/will-bologna-win-the-202425-serie-a",
+		"pool": {
+			"NO": 72.35886922555983,
+			"YES": 2803.158525177072
+		},
+		"probability": 0.009999999999999962,
+		"p": 0.281252801831041,
+		"totalLiquidity": 220,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2630.1923413968316,
+		"volume24Hours": 1549.0142313159013,
+		"isResolved": false,
+		"uniqueBettorCount": 9,
+		"lastUpdatedTime": 1741461624228,
+		"lastBetTime": 1741461624228,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"serie-a-football",
+			"italy",
+			"sports-default",
+			"soccer"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "cBcN7U5WXUIBdDA1dSmY",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1710196459595,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 4133998740000,
+		"question": "In what year will a human walk on Mars?",
+		"slug": "in-what-year-will-a-human-walk-on-m",
+		"url": "https://manifold.markets/strutheo/in-what-year-will-a-human-walk-on-m",
+		"totalLiquidity": 1000,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1285.3574048130154,
+		"volume24Hours": 39.99997644132959,
+		"isResolved": false,
+		"uniqueBettorCount": 23,
+		"lastUpdatedTime": 1741445999062,
+		"lastBetTime": 1741445999062,
+		"lastCommentTime": 1715282098223,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"space",
+			"spacex",
+			"space-exploration",
+			"commercial-spaceflight",
+			"mars",
+			"space-colonization"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "IO6gdPLq22",
+		"creatorId": "FLHfNyjr8Yb13nv9jKFaU8qSF9m1",
+		"creatorUsername": "SaviorofPlant",
+		"creatorName": "Savior of Plant",
+		"createdTime": 1740618521690,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLL8bnOoSvkiZvyB-37Ih63-HX0IacGV_I3U-WUQQMdCw=s96-c",
+		"closeTime": 1741546740000,
+		"question": "BTC price on March 31",
+		"slug": "btc-price-on-march-31",
+		"url": "https://manifold.markets/SaviorofPlant/btc-price-on-march-31",
+		"totalLiquidity": 1300,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 23199.226260757267,
+		"volume24Hours": 1393.5839978943886,
+		"isResolved": false,
+		"uniqueBettorCount": 44,
+		"lastUpdatedTime": 1741476936616,
+		"lastBetTime": 1741476936616,
+		"lastCommentTime": 1741468215103,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "testing new numeric markets",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"technology-default",
+			"crypto-speculation",
+			"bitcoin"
+		],
+		"textDescription": "testing new numeric markets"
+	}
+]
