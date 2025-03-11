@@ -10,11 +10,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
       - run: |
-          pip install -q requests
+          pip install -q requests requests-cache
           cd forecastEx
           python markets.py
 
           cd ../kalshi
+          python markets.py
+
+          cd ../polymarket
           python markets.py
 
           cd ../metaculus
@@ -27,7 +30,8 @@ jobs:
           python markets.py
           python users.py
           sed -i '/([Uu]rl|daily|[Ww]eek(ly)?|monthly)": /d' *.json # ~30% size cut
-          find . -size +100M -delete # GitHub's file size limit
+          
+          find ../. -size +100M -delete # GitHub's file size limit
         env:
           API_KEY: ${{ secrets.API_KEY }}
       - uses: peter-evans/create-pull-request@v6
