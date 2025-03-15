@@ -1,0 +1,1564 @@
+[
+	{
+		"id": "QSZyp0SPLg",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1740254968576,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 1742097540000,
+		"question": "Will Pope Francis live to see the Ides of March?",
+		"slug": "will-pope-francis-live-to-see-the-i",
+		"url": "https://manifold.markets/strutheo/will-pope-francis-live-to-see-the-i",
+		"pool": {
+			"NO": 1057.8389454861012,
+			"YES": 9.453234864031941
+		},
+		"probability": 0.991142786354032,
+		"p": 0.4999999999999937,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3186.6284077290966,
+		"volume24Hours": 548.1860523324898,
+		"isResolved": false,
+		"uniqueBettorCount": 34,
+		"lastUpdatedTime": 1741962583699,
+		"lastBetTime": 1741962583699,
+		"lastCommentTime": 1741935998917,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"death-markets",
+			"longevity",
+			"death",
+			"religion"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "CZl8InPy8L",
+		"creatorId": "jaFpOJNJgcTrX0KmxT74eNcXZuC2",
+		"creatorUsername": "Zeppeli",
+		"creatorName": "Gyro",
+		"createdTime": 1741913127091,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJQW-pPxjRn__9Di6l0QDbGf0abvDNnU_q5QtiIY0Txh5ZQEko=s96-c",
+		"closeTime": 1742529540000,
+		"question": "Is carti dropping the album on Friday",
+		"slug": "is-carti-dropping-the-album-on-frid",
+		"url": "https://manifold.markets/Zeppeli/is-carti-dropping-the-album-on-frid",
+		"pool": {
+			"NO": 1237.1957928016595,
+			"YES": 8.082795025801744
+		},
+		"probability": 0.9935092475653154,
+		"p": 0.5000000000000032,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1586.1772581500145,
+		"volume24Hours": 1586.1772581500145,
+		"isResolved": false,
+		"uniqueBettorCount": 8,
+		"lastUpdatedTime": 1741978572103,
+		"lastBetTime": 1741978572103,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Playboi Carti has officially announced that his highly anticipated album \"I AM MUSIC\" will be released on Friday, March 14, 2025. This album has been in the works since after the release of his previous album \"Whole Lotta Red\" in 2020, with fans eagerly awaiting new music for years. Carti has collaborated with Spotify to promote the upcoming release, and the announcement has generated significant buzz in the music community.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve as YES if Playboi Carti releases his album \"I AM MUSIC\" (or any full-length album) on Friday, March 14, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve as NO if:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The album is not released on Friday, March 14, 2025",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Only a single or EP is released instead of a full album",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The release is officially postponed or canceled before the date",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For resolution purposes, the album must be available on major streaming platforms (such as Spotify, Apple Music, etc.) by 11:59 PM ET on March 14, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Playboi Carti has a history of delayed releases and cryptic announcements. While this release date has been officially confirmed, the music industry is known for last-minute changes to release schedules. Traders should consider this track record when making predictions.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"rap-music",
+			"music-f213cbf1eab5",
+			"hiphoprap"
+		],
+		"textDescription": "Background\n\nPlayboi Carti has officially announced that his highly anticipated album \"I AM MUSIC\" will be released on Friday, March 14, 2025. This album has been in the works since after the release of his previous album \"Whole Lotta Red\" in 2020, with fans eagerly awaiting new music for years. Carti has collaborated with Spotify to promote the upcoming release, and the announcement has generated significant buzz in the music community.\n\nResolution Criteria\n\nThis market will resolve as YES if Playboi Carti releases his album \"I AM MUSIC\" (or any full-length album) on Friday, March 14, 2025.\n\nThe market will resolve as NO if:\n\nThe album is not released on Friday, March 14, 2025\n\nOnly a single or EP is released instead of a full album\n\nThe release is officially postponed or canceled before the date\n\nFor resolution purposes, the album must be available on major streaming platforms (such as Spotify, Apple Music, etc.) by 11:59 PM ET on March 14, 2025.\n\nConsiderations\n\nPlayboi Carti has a history of delayed releases and cryptic announcements. While this release date has been officially confirmed, the music industry is known for last-minute changes to release schedules. Traders should consider this track record when making predictions."
+	},
+	{
+		"id": "yuuQAdlC5c",
+		"creatorId": "byEds8x9SMYgX0BuPMufdcpbSIH2",
+		"creatorUsername": "predyx_markets",
+		"creatorName": "PREDYX",
+		"createdTime": 1735792559069,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fpredyx_markets%2FWprb2IA8tA.png?alt=media&token=5b8e496a-bc02-4f25-8d6b-5ac25ff28df0",
+		"closeTime": 1743490740000,
+		"question": "Bitcoin hits $120K in Q1?",
+		"slug": "bitcoin-hits-120k-in-q1",
+		"url": "https://manifold.markets/predyx_markets/bitcoin-hits-120k-in-q1",
+		"pool": {
+			"NO": 128.27797943238173,
+			"YES": 10800.423860405652
+		},
+		"probability": 0.010091538935293423,
+		"p": 0.4618805890641007,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 48418.18932233136,
+		"volume24Hours": 6570.120342391403,
+		"isResolved": false,
+		"uniqueBettorCount": 57,
+		"lastUpdatedTime": 1741994156672,
+		"lastBetTime": 1741994156672,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Criteria:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "• Resolves ",
+							"type": "text"
+						},
+						{
+							"text": "“Yes”",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " if Bitcoin’s price reaches or exceeds ",
+							"type": "text"
+						},
+						{
+							"text": "$120,000",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " at any point before ",
+							"type": "text"
+						},
+						{
+							"text": "March 31, 2025, 11:59 PM PST",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ".",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "• The primary source will be ",
+							"type": "text"
+						},
+						{
+							"text": "Coinbase’s BTC/USD price",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ".",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "• A ",
+							"type": "text"
+						},
+						{
+							"text": "1-minute candlestick",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " will be used to confirm the price level.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "• If Bitcoin does not hit ",
+							"type": "text"
+						},
+						{
+							"text": "$120K",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " by the deadline, the market resolves to ",
+							"type": "text"
+						},
+						{
+							"text": "“No.”",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/predyx_markets/lcZynzQNyI.jpg",
+		"groupSlugs": [
+			"crypto-speculation",
+			"bitcoin",
+			"prices",
+			"crypto-prices",
+			"bitcoin-maxi"
+		],
+		"textDescription": "Resolution Criteria:\n\n• Resolves “Yes” if Bitcoin’s price reaches or exceeds $120,000 at any point before March 31, 2025, 11:59 PM PST.\n\n• The primary source will be Coinbase’s BTC/USD price.\n\n• A 1-minute candlestick will be used to confirm the price level.\n\n• If Bitcoin does not hit $120K by the deadline, the market resolves to “No.”"
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 950640.7868796384,
+		"volume24Hours": 1369.6367032565004,
+		"isResolved": false,
+		"uniqueBettorCount": 1057,
+		"lastUpdatedTime": 1741983632552,
+		"lastBetTime": 1741983632552,
+		"lastCommentTime": 1741837764169,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "pdZ8EtS0Zu",
+		"creatorId": "jVTUFGApBpdJ1FkW7X1NiD3b0L33",
+		"creatorUsername": "RileyuZyEC",
+		"creatorName": "Riley",
+		"createdTime": 1741823346700,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJB4t5DILJ8x6JlS9AscwwNU9kArC838Fu504r7R7oDLkCwza4ZQg=s96-c",
+		"closeTime": 1742453940000,
+		"question": "How many steps will it take Claude Plays Pokemon's second run to beat Lt. Surge?",
+		"slug": "how-many-steps-will-it-take-claude-PE2LZ8glpA",
+		"url": "https://manifold.markets/RileyuZyEC/how-many-steps-will-it-take-claude-PE2LZ8glpA",
+		"totalLiquidity": 150,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1623.1443524779004,
+		"volume24Hours": 713.1798192327238,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1741996731222,
+		"lastBetTime": 1741996731222,
+		"lastCommentTime": 1741839315312,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://www.twitch.tv/claudeplayspokemon",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.twitch.tv/claudeplayspokemon",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves according to the step count when Claude beats Lt. Surge's last pokemon",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If the run is reset before Claude beats Lt. Surge and receives the Thunder Badge, the market will resolve as N/A",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"claude-plays-pokemon",
+			"ai",
+			"pokemon"
+		],
+		"textDescription": "https://www.twitch.tv/claudeplayspokemon\n\nResolves according to the step count when Claude beats Lt. Surge's last pokemon\n\nIf the run is reset before Claude beats Lt. Surge and receives the Thunder Badge, the market will resolve as N/A"
+	},
+	{
+		"id": "pzCU0t5Uzh",
+		"creatorId": "jq4kuRf5PDSoQJlvAPkBaIZBWRk2",
+		"creatorUsername": "FawwazAnvilen",
+		"creatorName": "Fawwaz Anvilen",
+		"createdTime": 1741793498289,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a-/ACNPEu_xbqoapevuO9pRcoaqsvVzdaV9hgK5CPbdDxngTvE=s96-c",
+		"closeTime": 1771891200000,
+		"question": "Danantara SOEs outperform IDX Composite by >5% within 12 months of Feb 24, 2025 consolidation",
+		"slug": "danantara-soes-outperform-idx-compo",
+		"url": "https://manifold.markets/FawwazAnvilen/danantara-soes-outperform-idx-compo",
+		"pool": {
+			"NO": 60.05037815259209,
+			"YES": 166.52684475340493
+		},
+		"probability": 0.2650327220998112,
+		"p": 0.5,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1013.5588656780476,
+		"volume24Hours": 923.5588656780476,
+		"isResolved": false,
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1741948242492,
+		"lastBetTime": 1741948242492,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market tracks whether the seven SOEs transferred to Danantara will outperform the broader Indonesian market.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The seven SOEs officially transferred from the Ministry of SOEs to Danantara on February 24, 2025 are Bank Mandiri, BRI, PLN, Pertamina, BNI, Telkom Indonesia, and MIND ID. With combined assets of approximately Rp 14.72 quadrillion (~$900 billion), Danantara aims to become one of the world's largest sovereign wealth funds.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Criteria:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " This market resolves YES if a market-cap weighted index of the publicly traded companies transferred to Danantara (Bank Mandiri, BRI, BNI, Telkom, and any publicly traded subsidiaries of Pertamina, PLN, or MIND ID) outperforms the IDX Composite Index by more than 5 percentage points over the 12-month period from February 24, 2025 to February 24, 2026.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves NO if the combined performance is equal to or less than 5 percentage points above the IDX Composite during the measurement period.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve N/A if the Danantara structure is significantly altered during the measurement period in a way that affects the composition of the seven core SOEs.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Sources:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "ASEAN Briefing on Danantara",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.aseanbriefing.com/news/danantara-indonesias-new-sovereign-wealth-fund/",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "IDX Composite tracking",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "http://www.thejakartapost.com/business/2025/02/07/idx-composite-plunges-nearly-2-as-foreign-sell-offs-persist.html",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"indonesia",
+			"investing"
+		],
+		"textDescription": "This market tracks whether the seven SOEs transferred to Danantara will outperform the broader Indonesian market.\n\nThe seven SOEs officially transferred from the Ministry of SOEs to Danantara on February 24, 2025 are Bank Mandiri, BRI, PLN, Pertamina, BNI, Telkom Indonesia, and MIND ID. With combined assets of approximately Rp 14.72 quadrillion (~$900 billion), Danantara aims to become one of the world's largest sovereign wealth funds.\n\nResolution Criteria: This market resolves YES if a market-cap weighted index of the publicly traded companies transferred to Danantara (Bank Mandiri, BRI, BNI, Telkom, and any publicly traded subsidiaries of Pertamina, PLN, or MIND ID) outperforms the IDX Composite Index by more than 5 percentage points over the 12-month period from February 24, 2025 to February 24, 2026.\n\nThis market resolves NO if the combined performance is equal to or less than 5 percentage points above the IDX Composite during the measurement period.\n\nThe market will resolve N/A if the Danantara structure is significantly altered during the measurement period in a way that affects the composition of the seven core SOEs.\n\nSources:\n\nASEAN Briefing on Danantara\n\nIDX Composite tracking"
+	},
+	{
+		"id": "QEqn6z9qhd",
+		"creatorId": "byEds8x9SMYgX0BuPMufdcpbSIH2",
+		"creatorUsername": "predyx_markets",
+		"creatorName": "PREDYX",
+		"createdTime": 1741065930980,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fpredyx_markets%2FWprb2IA8tA.png?alt=media&token=5b8e496a-bc02-4f25-8d6b-5ac25ff28df0",
+		"closeTime": 1742021940000,
+		"question": "Bitcoin below $75K before March 15?",
+		"slug": "bitcoin-below-75k-before-march-14",
+		"url": "https://manifold.markets/predyx_markets/bitcoin-below-75k-before-march-14",
+		"pool": {
+			"NO": 99.86045211269509,
+			"YES": 10013.974289556556
+		},
+		"probability": 0.009873648785387795,
+		"p": 0.500000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 54443.53327834893,
+		"volume24Hours": 10225.213239893194,
+		"isResolved": false,
+		"uniqueBettorCount": 118,
+		"lastUpdatedTime": 1741990806243,
+		"lastBetTime": 1741990806243,
+		"lastCommentTime": 1741979753643,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Criteria: Bitcoin below $75K before March 15?",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to ",
+							"type": "text"
+						},
+						{
+							"text": "“Yes”",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " if the price of Bitcoin reaches ",
+							"type": "text"
+						},
+						{
+							"text": "$75K or lower",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " at any point before ",
+							"type": "text"
+						},
+						{
+							"text": "March 14, 2025, 11:59 PM PT",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ", based on the ",
+							"type": "text"
+						},
+						{
+							"text": "1-minute candlestick data from Coinbase",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ". Otherwise, it will resolve to ",
+							"type": "text"
+						},
+						{
+							"text": "“No.”",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The resolution will be determined by the lowest price recorded in the ",
+							"type": "text"
+						},
+						{
+							"text": "1-minute candlestick data",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " on ",
+							"type": "text"
+						},
+						{
+							"text": "Coinbase",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " during the market period.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Date & Time:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " March 14, 2025, at ",
+							"type": "text"
+						},
+						{
+							"text": "11:59 PM PT",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ".",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"bitcoin",
+			"economics-default",
+			"crypto-speculation",
+			"prices",
+			"bitcoin-maxi"
+		],
+		"textDescription": "Resolution Criteria: Bitcoin below $75K before March 15?\n\nThis market will resolve to “Yes” if the price of Bitcoin reaches $75K or lower at any point before March 14, 2025, 11:59 PM PT, based on the 1-minute candlestick data from Coinbase. Otherwise, it will resolve to “No.”\n\nThe resolution will be determined by the lowest price recorded in the 1-minute candlestick data on Coinbase during the market period.\n\nResolution Date & Time: March 14, 2025, at 11:59 PM PT."
+	},
+	{
+		"id": "lApu6sszzN",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1739684825734,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 1742356740000,
+		"question": "Will there be any assassination attempt on Trump on the Ides of March?",
+		"slug": "will-there-be-any-assassination-att-lU69cQ8Pl0",
+		"url": "https://manifold.markets/strutheo/will-there-be-any-assassination-att-lU69cQ8Pl0",
+		"pool": {
+			"NO": 10.05037815259206,
+			"YES": 994.9874371066174
+		},
+		"probability": 0.009999999999999974,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1084.3797566695905,
+		"volume24Hours": 250.79254515799596,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1741994328133,
+		"lastBetTime": 1741994328133,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"trumps-second-term",
+			"magaland",
+			"donald-trump",
+			"us-politics",
+			"politics-default"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "bYSy6i751TPoz4cvRmkU",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711845333576,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 1764662340000,
+		"question": "P(Doom) - Emmett Shear",
+		"slug": "pdoom-emmett-shear",
+		"url": "https://manifold.markets/ManifoldAI/pdoom-emmett-shear",
+		"totalLiquidity": 520,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 222.08159938643217,
+		"volume24Hours": 10.000000000000043,
+		"isResolved": false,
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1741961525429,
+		"lastBetTime": 1741961525429,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the next publicly stated \"",
+							"type": "text"
+						},
+						{
+							"text": "p(doom)",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.nytimes.com/2023/12/06/business/dealbook/silicon-valley-artificial-intelligence.html?ugrp=m&unlocked_article_code=1.g00.Digv.dlx8LNhSYp_u&smid=url-share",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "\" value from ",
+							"type": "text"
+						},
+						{
+							"text": "Emmett Shear",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/Emmett_Shear",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ". ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note that there is no standardized definition of p(doom), so this market depends on Shear's own framing when he next publicly gives a value. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "During ",
+							"type": "text"
+						},
+						{
+							"text": "an interview in June of 2023",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.youtube.com/watch?v=jZ2xw_1_KHY",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ", Shear did not give a specific p(doom) but said that it could be as high as 50%:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://www.youtube.com/embed/9oUbauum4uI",
+						"frameBorder": 0
+					}
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "When Shear next publicly states a specific number for his p(doom), this market resolves to the option containing that newly stated probability. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Stating a range of more than 15%, such as 2-50%, will not resolve this market. Stating a range of 15% or less will resolve this market to the midpoint of that range, so a stated p(doom) of 10-25% would resolve to 17.5%.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If Shear does not publicly state a p(doom) before his death, this market resolves N/A.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Here",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://pauseai.info/pdoom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " are some other p(doom) values from notable people for context.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"ai-alignment",
+			"ai-safety",
+			"technology-default",
+			"ai-doom",
+			"ai-risk",
+			"ai"
+		],
+		"textDescription": "This market resolves to the next publicly stated \"p(doom)\" value from Emmett Shear. \n\nNote that there is no standardized definition of p(doom), so this market depends on Shear's own framing when he next publicly gives a value. \n\nDuring an interview in June of 2023, Shear did not give a specific p(doom) but said that it could be as high as 50%:\n\n(https://www.youtube.com/embed/9oUbauum4uI)When Shear next publicly states a specific number for his p(doom), this market resolves to the option containing that newly stated probability. \n\nStating a range of more than 15%, such as 2-50%, will not resolve this market. Stating a range of 15% or less will resolve this market to the midpoint of that range, so a stated p(doom) of 10-25% would resolve to 17.5%.\n\nIf Shear does not publicly state a p(doom) before his death, this market resolves N/A.\n\nHere are some other p(doom) values from notable people for context."
+	},
+	{
+		"id": "cQINqIZU6Z",
+		"creatorId": "pkz6d2CSc5bUDqjDa0RIuV5EPJq1",
+		"creatorUsername": "PogoStick",
+		"creatorName": "Pogo Stick",
+		"createdTime": 1741976054146,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLMUA3jlY9PH3HRQfL0ctwMwkdgEzmt97DjoGw_-43xWZqO8w=s96-c",
+		"closeTime": 1742183940000,
+		"question": "Will any Democratic senator vote for government funding bill by Friday?",
+		"slug": "will-any-democratic-senator-vote-fo",
+		"url": "https://manifold.markets/PogoStick/will-any-democratic-senator-vote-fo",
+		"pool": {
+			"NO": 994.9874371064151,
+			"YES": 10.050378152590955
+		},
+		"probability": 0.99,
+		"p": 0.5000000000000222,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2344.6370470335173,
+		"volume24Hours": 4841.86117951493,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1741992619113,
+		"lastBetTime": 1741992619113,
+		"lastCommentTime": 1741990849157,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "On March 11, the House passed H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025, in an effort to keep the government funded. You can read more about that here: ",
+							"type": "text"
+						},
+						{
+							"text": "https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/￼￼This",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/￼￼This",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/￼￼This",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "This",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/￼￼This",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " market will resolve to\"Yes\" if 1 or more Democratic Senators vote for the passage of the this bill by March 14, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "If no vote takes place by March 14, 2025, 11:59 PM ET, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "This market will resolve based on the results of the initial roll call vote for the passage of the H.R. 1968. Any subsequent votes will not be considered.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Senators without a formal party affiliation to either the Democrat or Republican Parties will be considered a member of one of these parties based on the party that they caucus with.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The resolution source will be a consensus of credible reporting.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"politics-default",
+			"us-congress",
+			"democratic-party",
+			"gov-shutdown-f8d8c012d5e7",
+			"us-politics"
+		],
+		"textDescription": "On March 11, the House passed H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025, in an effort to keep the government funded. You can read more about that here: https://thehill.com/homenews/house/5189141-house-republicans-pass-government-funding-bill/\n\nThis market will resolve to\"Yes\" if 1 or more Democratic Senators vote for the passage of the this bill by March 14, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIf no vote takes place by March 14, 2025, 11:59 PM ET, this market will resolve to \"No\".\n\nThis market will resolve based on the results of the initial roll call vote for the passage of the H.R. 1968. Any subsequent votes will not be considered.\n\nSenators without a formal party affiliation to either the Democrat or Republican Parties will be considered a member of one of these parties based on the party that they caucus with.\n\nThe resolution source will be a consensus of credible reporting."
+	},
+	{
+		"id": "ZRNPuhRR90",
+		"creatorId": "UfjrpxhOIVM7NQZeLL1GVenmUwu2",
+		"creatorUsername": "inaccessibles",
+		"creatorName": "luck provider",
+		"createdTime": 1741652585138,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIvknNMbJvDMddJIMkVj1mBPVJwxGziN8hGmG57yM-9ccq6SA=s96-c",
+		"closeTime": 1742529540000,
+		"question": "How many traders will \"Will this market get 250 traders in 1 month?\" get?",
+		"slug": "how-many-traders-will-will-this-mar",
+		"url": "https://manifold.markets/inaccessibles/how-many-traders-will-will-this-mar",
+		"totalLiquidity": 1100,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 6506.129583542983,
+		"volume24Hours": 2736.2241555159653,
+		"isResolved": false,
+		"uniqueBettorCount": 16,
+		"lastUpdatedTime": 1742000584462,
+		"lastBetTime": 1742000584462,
+		"lastCommentTime": 1741652756972,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to the interval containing the number of traders that the question below has when it closes.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/TaylorDrummond/will-this-question-get-250-traders?play=true",
+						"frameBorder": 0
+					}
+				}
+			]
+		},
+		"groupSlugs": [
+			"fun",
+			"selfresolving",
+			"metaforecasting",
+			"metamarkets",
+			"manifold-6748e065087e",
+			"nonpredictive"
+		],
+		"textDescription": "Resolves to the interval containing the number of traders that the question below has when it closes.\n\n(https://manifold.markets/embed/TaylorDrummond/will-this-question-get-250-traders?play=true)"
+	}
+]
