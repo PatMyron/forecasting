@@ -15,6 +15,7 @@ jobs:
           python markets.py
 
           cd ../kalshi
+          python events.py
           python markets.py
 
           cd ../polymarket
