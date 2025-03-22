@@ -1,0 +1,790 @@
+[
+	{
+		"id": "n6A6c8LnzO",
+		"creatorId": "cXfjElSKSFTJVYwY3xlxH5wQlF82",
+		"creatorUsername": "elf",
+		"creatorName": "Elf",
+		"createdTime": 1742595083620,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Felf%2FBqhwgf01Li.webp?alt=media&token=a287438e-04b3-441c-9225-4e706826a59b",
+		"closeTime": 1742860740000,
+		"question": "Snow White’s Opening Weekend Box Office ❄️🎥🎬🍿",
+		"slug": "snow-whites-opening-weekend-box-off",
+		"url": "https://manifold.markets/elf/snow-whites-opening-weekend-box-off",
+		"totalLiquidity": 225,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1051.9095649730043,
+		"volume24Hours": 1051.9095649730043,
+		"isResolved": false,
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1742600350711,
+		"lastBetTime": 1742600350711,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Evaluated based on US domestic opening weekend ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"boxoffice",
+			"entertainment",
+			"cinema",
+			"finance",
+			"celebrities"
+		],
+		"textDescription": "Evaluated based on US domestic opening weekend "
+	},
+	{
+		"id": "qCEd5uROsc",
+		"creatorId": "hqdXgp0jK2YMMhPs067eFK4afEH3",
+		"creatorUsername": "Eliza",
+		"creatorName": "Eliza",
+		"createdTime": 1732734101288,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxZMXWH5aYeQ7DOOhcWF8PL8YW6BbDKyubaXGMnT=s96-c",
+		"closeTime": 1756702740000,
+		"question": "Will there be at least one UCI cycling professional road race in the Netherlands before 1 September 2025?",
+		"slug": "will-there-be-at-least-one-uci-cycl",
+		"url": "https://manifold.markets/Eliza/will-there-be-at-least-one-uci-cycl",
+		"pool": {
+			"NO": 9949.87437106617,
+			"YES": 100.50378152592111
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.5000000000000031,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 8963.085200960259,
+		"volume24Hours": 3349.0852009602586,
+		"isResolved": false,
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1742566337861,
+		"lastBetTime": 1742566337861,
+		"lastCommentTime": 1736536386490,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves Yes if one UCI road cycling race takes place with both the start and finish in the Netherlands on or after 1 January 2025 and before 1 September 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The race must be sanctioned by the UCI and appear on UCI results for road racing. Normally these would be events with classifications like .2, .1, .Pro, .WT, .WWT, etc.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For the purposes of this question, a national championship event does not count, even though it is a UCI race. Also, individual time trials and team time trials do not count. Only 'road races'.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves No on 1 September 2025 if no such race has taken place.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Eliza/CNdOq8lLSQ.jpg",
+		"groupSlugs": [
+			"road-bicycle-racing",
+			"peloton-discord",
+			"sports-default"
+		],
+		"textDescription": "Resolves Yes if one UCI road cycling race takes place with both the start and finish in the Netherlands on or after 1 January 2025 and before 1 September 2025.\n\nThe race must be sanctioned by the UCI and appear on UCI results for road racing. Normally these would be events with classifications like .2, .1, .Pro, .WT, .WWT, etc.\n\nFor the purposes of this question, a national championship event does not count, even though it is a UCI race. Also, individual time trials and team time trials do not count. Only 'road races'.\n\nResolves No on 1 September 2025 if no such race has taken place."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 953668.0142743092,
+		"volume24Hours": 130,
+		"isResolved": false,
+		"uniqueBettorCount": 1057,
+		"lastUpdatedTime": 1742575711565,
+		"lastBetTime": 1742575711565,
+		"lastCommentTime": 1741837764169,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "HCqEKbZh4CVKYFUmPCWg",
+		"creatorId": "KMOIYhksuFVW7sUHMBLi97F3UNt2",
+		"creatorUsername": "AaronLehmann",
+		"creatorName": "Aaron Lehmann",
+		"createdTime": 1690725402129,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp4XGc0m49XU1EMAvWdItuunNJCxqN7eJ7o4aw=s96-c",
+		"closeTime": 1767254340000,
+		"question": "Will the Manifest conference reoccur in 2025?",
+		"slug": "will-the-manifest-conference-reoccu-56249e3b880f",
+		"url": "https://manifold.markets/AaronLehmann/will-the-manifest-conference-reoccu-56249e3b880f",
+		"pool": {
+			"NO": 13697.44624684842,
+			"YES": 321.0570025205652
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.6988386769711359,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 13358.984620223027,
+		"volume24Hours": 9066.370223418386,
+		"isResolved": false,
+		"uniqueBettorCount": 31,
+		"lastUpdatedTime": 1742579979219,
+		"lastBetTime": 1742579970931,
+		"lastCommentTime": 1742579978506,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"manifold-6748e065087e",
+			"manifest"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "tkkI3LzXDnBPztvMSoRX",
+		"creatorId": "y1hb6k7txdZPV5mgyxPFApZ7nQl2",
+		"creatorUsername": "IsaacKing",
+		"creatorName": "Isaac King",
+		"createdTime": 1671080713174,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FIsaacKing%2FfP-MqjWonh.jpg?alt=media&token=e21d446d-75e0-4ab8-8e7c-a7b2af67e4cc",
+		"closeTime": 1743093120000,
+		"question": "This market resolves YES. I will place 10 bets on NO.",
+		"slug": "this-market-resolves-yes-i-will-pla-98e7da8a1b17",
+		"url": "https://manifold.markets/IsaacKing/this-market-resolves-yes-i-will-pla-98e7da8a1b17",
+		"pool": {
+			"NO": 5593.1166018456315,
+			"YES": 724.0168310261689
+		},
+		"probability": 0.99378795744219,
+		"p": 0.9539356463892739,
+		"totalLiquidity": 830,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 29473.111529033333,
+		"volume24Hours": 341.6194624262147,
+		"isResolved": false,
+		"uniqueBettorCount": 50,
+		"lastUpdatedTime": 1742587381185,
+		"lastBetTime": 1742587381185,
+		"lastCommentTime": 1742587375466,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Each bet will be of amount 1/10 of the market liquidity at the time. Other than those 10 bets, I will not bet on this market.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FOYDcR9ToI-.png?alt=media&token=cf8a248d-f283-43f0-b2d4-cf064970d0ed",
+		"groupSlugs": [
+			"fun",
+			"free-mana",
+			"barcalona",
+			"unsubsidized",
+			"nonpredictive"
+		],
+		"textDescription": "Each bet will be of amount 1/10 of the market liquidity at the time. Other than those 10 bets, I will not bet on this market."
+	},
+	{
+		"id": "SII6AhhUSt",
+		"creatorId": "zJHqAInRWWNgwIYOYutD8oga4kI3",
+		"creatorUsername": "IK06453",
+		"creatorName": "IK",
+		"createdTime": 1730906393145,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLBairjULiPnrgXoTGXFBaWc530YDlVoJ3B9P5hIgw4=s96-c",
+		"closeTime": 1745272740000,
+		"question": "Will Trump End the War in Ukraine Within 90 Days of Taking Office?",
+		"slug": "will-trump-end-the-war-in-ukraine-w",
+		"url": "https://manifold.markets/IK06453/will-trump-end-the-war-in-ukraine-w",
+		"pool": {
+			"NO": 40.89761519625227,
+			"YES": 244.51303461127978
+		},
+		"probability": 0.14329393533083612,
+		"p": 0.500000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 5745.799253223117,
+		"volume24Hours": 847.9765558900382,
+		"isResolved": false,
+		"uniqueBettorCount": 72,
+		"lastUpdatedTime": 1742589061566,
+		"lastBetTime": 1742589061566,
+		"lastCommentTime": 1739483611489,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This poll explores whether President Trump, will bring an end to the ongoing war in Ukraine within the first 90 days of his new term (By 21st-April-2025).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if a verifiable peace agreement or ceasefire is achieved, before or within 90 days of Trump assuming office.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves NO if active conflict continues without a formal resolution or significant de-escalation within the 90-day timeframe following Trump's inauguration.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"politics-default",
+			"us-politics",
+			"wars",
+			"donald-trump",
+			"ukrainerussia-war"
+		],
+		"textDescription": "This poll explores whether President Trump, will bring an end to the ongoing war in Ukraine within the first 90 days of his new term (By 21st-April-2025).\n\nResolves YES if a verifiable peace agreement or ceasefire is achieved, before or within 90 days of Trump assuming office.\n\nResolves NO if active conflict continues without a formal resolution or significant de-escalation within the 90-day timeframe following Trump's inauguration."
+	},
+	{
+		"id": "I6AsdpOSlS",
+		"creatorId": "1tiQgOT554PvqUekWxmF2UAdqoi2",
+		"creatorUsername": "Robincvgr",
+		"creatorName": "Robin",
+		"createdTime": 1740662377372,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FRobincvgr%2F1zMNRUHrLv.png?alt=media&token=824a643d-8c46-4101-a7cc-8fed38323769",
+		"closeTime": 1743656340000,
+		"question": "What will the MSRP of the Nintendo Switch 2 on announcement be in the US?",
+		"slug": "what-will-the-msrp-of-the-nintendo",
+		"url": "https://manifold.markets/Robincvgr/what-will-the-msrp-of-the-nintendo",
+		"totalLiquidity": 275,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 2017.221005166593,
+		"volume24Hours": 948.0478122450953,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1742604348202,
+		"lastBetTime": 1742604348202,
+		"lastCommentTime": 1742578657311,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to the United States MSRP of the cheapest model of the Nintendo Switch 2 when any model(s)'s price is first announced. Later price changes will not affect this market.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "There are markets like this, but this one uses the new numeric feature.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If the price is lower or higher than the range, this market will be resolved to the lowest or highest option respectively.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date is provisional.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"nintendo-switch-2",
+			"nintendo",
+			"finance",
+			"video-games",
+			"gaming"
+		],
+		"textDescription": "Resolves to the United States MSRP of the cheapest model of the Nintendo Switch 2 when any model(s)'s price is first announced. Later price changes will not affect this market.\n\nThere are markets like this, but this one uses the new numeric feature.\n\nIf the price is lower or higher than the range, this market will be resolved to the lowest or highest option respectively.\n\nClose date is provisional."
+	},
+	{
+		"id": "hhhILQZsNZ",
+		"creatorId": "szxNgcjVVudC6tyOCX5ndlsoQdo2",
+		"creatorUsername": "Destiny3a152",
+		"creatorName": "Destiny",
+		"createdTime": 1735977937922,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocI4QOSS8OiPQJdK_0SApethEdKIdAgzqEyo3ACaMAgQMvvz6w=s96-c",
+		"closeTime": 1746417540000,
+		"question": "Trump declassifies JFK files in first 100 days?",
+		"slug": "trump-declassifies-jfk-files-in-fir",
+		"url": "https://manifold.markets/Destiny3a152/trump-declassifies-jfk-files-in-fir",
+		"pool": {
+			"NO": 1677.0703776410828,
+			"YES": 5.962778982516966
+		},
+		"probability": 0.9964571232842024,
+		"p": 0.49999999999999767,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 10698.488259593181,
+		"volume24Hours": 0,
+		"isResolved": false,
+		"uniqueBettorCount": 55,
+		"lastUpdatedTime": 1742480500101,
+		"lastBetTime": 1742480500101,
+		"lastCommentTime": 1742477753778,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if the Trump administration declassifies any previously classified files pertaining to the assassination of John Fitzgerald Kennedy by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Announcements of declassifications that are not implemented within this market's timeframe will not count.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The primary resolution source for declassification will be official information from the government of the United States, however a consensus of credible reporting will also be used.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Destiny3a152/P6LRuyP2p8.jpg",
+		"groupSlugs": [
+			"trumps-second-term"
+		],
+		"textDescription": "This market will resolve to \"Yes\" if the Trump administration declassifies any previously classified files pertaining to the assassination of John Fitzgerald Kennedy by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAnnouncements of declassifications that are not implemented within this market's timeframe will not count.\n\nThe primary resolution source for declassification will be official information from the government of the United States, however a consensus of credible reporting will also be used."
+	},
+	{
+		"id": "AhO886OCL5",
+		"creatorId": "BeF2yerfHSYYKpMZnc4uxYyVP293",
+		"creatorUsername": "CollinMatthews",
+		"creatorName": "Collin Matthews",
+		"createdTime": 1742168193142,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FUserQPQyR%2Fc9D8S5kIGs.jpg?alt=media&token=35624014-7939-47a2-9343-45b886b47f72",
+		"closeTime": 1742792340000,
+		"question": "What will be 1/2 of this market's answer after close?",
+		"slug": "what-will-be-12-of-this-markets-ans",
+		"url": "https://manifold.markets/CollinMatthews/what-will-be-12-of-this-markets-ans",
+		"totalLiquidity": 175,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 3666.3984239130486,
+		"volume24Hours": 795.9583654340533,
+		"isResolved": false,
+		"uniqueBettorCount": 20,
+		"lastUpdatedTime": 1742596904690,
+		"lastBetTime": 1742596904690,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "On numeric markets, manifold generates a number of units which the market is \"expected\" to resolve at. After the market closes, I'll resolve this market to 1/2 of that number. It should be impossible for the market to resolve at 0 or 200, but you can still bet on those numbers to change the expected number of units.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"metaforecasting",
+			"fun",
+			"metamarkets"
+		],
+		"textDescription": "On numeric markets, manifold generates a number of units which the market is \"expected\" to resolve at. After the market closes, I'll resolve this market to 1/2 of that number. It should be impossible for the market to resolve at 0 or 200, but you can still bet on those numbers to change the expected number of units."
+	}
+]
