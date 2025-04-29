@@ -14,12 +14,12 @@ jobs:
           cd forecastEx
           python markets.py
 
-          cd ../kalshi
-          python events.py
-          python markets.py
-
           cd ../polymarket
           python markets.py
+
+          cd ../kalshi
+          python markets.py
+          python events.py
 
           cd ../metaculus
           python questions.py

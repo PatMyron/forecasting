@@ -5,6 +5,10 @@ response = requests.get(url).json()
 unclosed = []
 while response:
   for e in response['events']:
+    vol = 0
+    for m in requests.get('https://api.elections.kalshi.com/trade-api/v2/events/' + e['event_ticker']).json()['markets']:
+      vol += m['volume']
+    e['volume'] = vol
     unclosed.append(e)
   if not response['cursor']:
     break
