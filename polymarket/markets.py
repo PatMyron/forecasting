@@ -14,8 +14,11 @@ while requests.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' 
         if datetime.fromisoformat(market['endDate']) < datetime.now(UTC) + timedelta(days=60):
           soon.append(market)
       except:
-        if datetime.fromisoformat(market['events'][0]['endDate']) < datetime.now(UTC) + timedelta(days=60):
-          soon.append(market)
+        try:
+          if datetime.fromisoformat(market['events'][0]['endDate']) < datetime.now(UTC) + timedelta(days=60):
+            soon.append(market)
+        except:
+          pass
   offset += 500
 with open('all.json', 'w') as f:
   json.dump(markets, f, indent=0)
