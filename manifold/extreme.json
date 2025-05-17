@@ -1,0 +1,1016 @@
+[
+	{
+		"id": "p6BJYhxxXl0hRTCi5kZp",
+		"creatorId": "ffwIBb255DhSsJRh3VWZ4RY2pxz2",
+		"creatorUsername": "Predictor",
+		"creatorName": "Predictor 🔥",
+		"createdTime": 1714659974496,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FTomasz%2F163020267391503_P13265328.png?alt=media&token=a582175c-9bed-405c-a22a-9833cd6cbc4e",
+		"closeTime": 2556161940000,
+		"question": "Will a Galactic Federation reveal itself to humanity by the end of 2050?",
+		"slug": "will-a-galactic-federation-reveal-i-5eb0232796f8",
+		"url": "https://manifold.markets/Predictor/will-a-galactic-federation-reveal-i-5eb0232796f8",
+		"pool": {
+			"NO": 39.559624741100706,
+			"YES": 4313.198507868905
+		},
+		"probability": 0.0045649460737336965,
+		"p": 0.33333333333333304,
+		"totalLiquidity": 200,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 4574.956393692402,
+		"volume24Hours": 91.58656755545339,
+		"isResolved": false,
+		"uniqueBettorCount": 22,
+		"lastUpdatedTime": 1747360188352,
+		"lastBetTime": 1747360188352,
+		"lastCommentTime": 1742258241304,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In December 2020, Haim Eshed (the former head of Israel's Defense Ministry's space directorate) declared that earthlings had been in contact with extraterrestrials from a so-called \"Galactic Federation.\" The former Israeli space security chief told Israel's Yediot Aharonot newspaper the aliens were equally curious about humanity and were seeking to understand \"the fabric of the universe\". According to Eshed's statement, aliens are waiting until humanity develops and reaches a stage where it would be able to understand, in general, what space and spaceships are.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If any kind of Galactic Federation (managed by living beings that were not born on planet Earth) reveals itself to humanity by the end of 2050, this market will be resolved as \"Yes\".",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"space",
+			"fun"
+		],
+		"textDescription": "In December 2020, Haim Eshed (the former head of Israel's Defense Ministry's space directorate) declared that earthlings had been in contact with extraterrestrials from a so-called \"Galactic Federation.\" The former Israeli space security chief told Israel's Yediot Aharonot newspaper the aliens were equally curious about humanity and were seeking to understand \"the fabric of the universe\". According to Eshed's statement, aliens are waiting until humanity develops and reaches a stage where it would be able to understand, in general, what space and spaceships are.\n\nIf any kind of Galactic Federation (managed by living beings that were not born on planet Earth) reveals itself to humanity by the end of 2050, this market will be resolved as \"Yes\"."
+	},
+	{
+		"id": "w5vttqsber",
+		"creatorId": "AED54OCOWgSXM0ycXdCvZrirwgC3",
+		"creatorUsername": "DANIELNIEjna7",
+		"creatorName": "DANIEL NIE",
+		"createdTime": 1726686896231,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKHNbIzjY4bEBAm2dVyEvTOeOCpjtYNcFywdEBoDP5Buoh_FQ=s96-c",
+		"closeTime": 1748761140000,
+		"question": "Will I make USAPHO Camp?",
+		"slug": "will-i-make-usapho-camp",
+		"url": "https://manifold.markets/DANIELNIEjna7/will-i-make-usapho-camp",
+		"pool": {
+			"NO": 5.955632013315949,
+			"YES": 1679.0829214499877
+		},
+		"probability": 0.0035344188422723223,
+		"p": 0.5000000000000021,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 11540.887421245532,
+		"volume24Hours": 32.76699237660833,
+		"isResolved": false,
+		"uniqueBettorCount": 30,
+		"lastUpdatedTime": 1747430231132,
+		"lastBetTime": 1747430231132,
+		"lastCommentTime": 1746750752837,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/DANIELNIEjna7/0v5mczqgl5.jpg",
+		"groupSlugs": [
+			"personal",
+			"colleges-universities",
+			"competitive-physics",
+			"physics-a6878c3ad095"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "du0Qh0NLd9",
+		"creatorId": "AJwLWoo3xue32XIiAVrL5SyR1WB2",
+		"creatorUsername": "ian",
+		"creatorName": "Ian Philips",
+		"createdTime": 1740620923780,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fian%2Fm6zfu88qLr.png?alt=media&token=126eab7e-fcba-49bd-b2e2-669b3fa9eaf0",
+		"closeTime": 1749452340000,
+		"question": "How many days will this numeric type last?",
+		"slug": "how-many-days-will-this-numeric-typ",
+		"url": "https://manifold.markets/ian/how-many-days-will-this-numeric-typ",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 6235.769777633184,
+		"volume24Hours": 1820.2731612191933,
+		"isResolved": false,
+		"uniqueBettorCount": 30,
+		"lastUpdatedTime": 1747430964347,
+		"lastBetTime": 1747430964347,
+		"lastCommentTime": 1740750770316,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If we disable creation of this type of numeric market (`outcomeType = MULTI_NUMERIC`) for more than a week, I will resolve to the # of days after today that we first flipped the flag/turned off creation.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"manifold-6748e065087e"
+		],
+		"textDescription": "If we disable creation of this type of numeric market (`outcomeType = MULTI_NUMERIC`) for more than a week, I will resolve to the # of days after today that we first flipped the flag/turned off creation."
+	},
+	{
+		"id": "9Lt2LUENZO",
+		"creatorId": "KxMresZBkXU5KQ1ZxzzXdSZaQ793",
+		"creatorUsername": "Transparent",
+		"creatorName": "Transparent",
+		"createdTime": 1746316504054,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJBbeQ-hP-K6_pIhWM5Am74vBF_htcO3AZdWy6faz8ojA=s96-c",
+		"closeTime": 1747432800000,
+		"question": "Ukraine attacks May 9 parade in Moscow?",
+		"slug": "ukraine-attacks-may-9-parade-in-mos",
+		"url": "https://manifold.markets/Transparent/ukraine-attacks-may-9-parade-in-mos",
+		"pool": {
+			"NO": 99.84707380677719,
+			"YES": 10015.316041561524
+		},
+		"probability": 0.009871029529427599,
+		"p": 0.5000000000000004,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 19330.17473547604,
+		"volume24Hours": 5.557112232509161,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1747438390957,
+		"resolutionProbability": 0.009871029529427597,
+		"resolverId": "KxMresZBkXU5KQ1ZxzzXdSZaQ793",
+		"uniqueBettorCount": 70,
+		"lastUpdatedTime": 1747432800000,
+		"lastBetTime": 1747415161235,
+		"lastCommentTime": 1746374771524,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution criteria:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if, before, May 17, credible reports from reputable news organizations confirm that Ukrainian forces have conducted an attack targeting the 9 of May parade in Moscow. The attack must be directly aimed at the parade or its participants, including crowds gathered to watch it. If no such reports are available before the 17 of May , 2025, the market will resolve to \"No.\"",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Background:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of May 3, 2025, Dmitry Medvedev, deputy chairman of Russia's Security Council, issued a warning that Kyiv's survival could not be guaranteed if Ukraine were to attack Moscow during the 9 of May parade. This statement followed Russian President Vladimir Putin's declaration of a 72-hour ceasefire from May 8 to 10. Ukrainian President Volodymyr Zelenskyy expressed willingness for a ceasefire but insisted on a 30-day duration, which Putin rejected. Zelenskyy also stated that Ukraine could not ensure the safety of foreign dignitaries visiting Moscow during the ongoing conflict.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-05-04 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/Transparent/ukraine-attacks-may-9-parade-in-mos#vk7j8pe95y9",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): The attack must:",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Be ",
+															"type": "text"
+														},
+														{
+															"text": "directly aimed",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " at the parade or its participants, ",
+															"type": "text"
+														},
+														{
+															"text": "including crowds gathered to watch it",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ".",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Take place during the duration of the parade",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ".",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"wars",
+			"ukrainerussia-war",
+			"russia",
+			"ukraine"
+		],
+		"textDescription": "Resolution criteria:\n\nThis market will resolve to \"Yes\" if, before, May 17, credible reports from reputable news organizations confirm that Ukrainian forces have conducted an attack targeting the 9 of May parade in Moscow. The attack must be directly aimed at the parade or its participants, including crowds gathered to watch it. If no such reports are available before the 17 of May , 2025, the market will resolve to \"No.\"\n\nBackground:\n\nAs of May 3, 2025, Dmitry Medvedev, deputy chairman of Russia's Security Council, issued a warning that Kyiv's survival could not be guaranteed if Ukraine were to attack Moscow during the 9 of May parade. This statement followed Russian President Vladimir Putin's declaration of a 72-hour ceasefire from May 8 to 10. Ukrainian President Volodymyr Zelenskyy expressed willingness for a ceasefire but insisted on a 30-day duration, which Putin rejected. Zelenskyy also stated that Ukraine could not ensure the safety of foreign dignitaries visiting Moscow during the ongoing conflict.\n\nUpdate 2025-05-04 (PST) (AI summary of creator comment): The attack must:\n\nBe directly aimed at the parade or its participants, including crowds gathered to watch it.\n\nTake place during the duration of the parade."
+	},
+	{
+		"id": "CNh6cLRpAZ",
+		"creatorId": "xaVT7j1aQtTpkMxwvLjdN8DGl9D3",
+		"creatorUsername": "BryantYu",
+		"creatorName": "Bryant Yu",
+		"createdTime": 1742177249624,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPZFNqSYQwjlYUJ_S9CYv58WLFLFXtcoUZn9LfJBsboYu3cCc=s96-c",
+		"closeTime": 1747371540000,
+		"question": "Will the average bidding price for this question be more than 120 mana?",
+		"slug": "will-the-average-bidding-price-for",
+		"url": "https://manifold.markets/BryantYu/will-the-average-bidding-price-for",
+		"pool": {
+			"NO": 1472.7760888020568,
+			"YES": 6.789898393946942
+		},
+		"probability": 0.9954108850482469,
+		"p": 0.5000000000000173,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 15014.086715254769,
+		"volume24Hours": 2,
+		"isResolved": false,
+		"uniqueBettorCount": 86,
+		"lastUpdatedTime": 1747395075210,
+		"lastBetTime": 1747370574869,
+		"lastCommentTime": 1747395075186,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The average is calculated by taking the average mana per person spent on this question (either yes or no)",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-03-16 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/BryantYu/will-the-average-bidding-price-for#v3hvsdvrzb8",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): ",
+											"type": "text"
+										},
+										{
+											"text": "Clarifications:",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Average Type:",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " Arithmetic mean",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Trade Adjustments:",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " In cases where a participant sells, their ",
+															"type": "text"
+														},
+														{
+															"text": "net mana spent",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " is used for the calculation",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"mana",
+			"fun",
+			"selfresolving",
+			"metaforecasting",
+			"metamarkets",
+			"nonpredictive"
+		],
+		"textDescription": "The average is calculated by taking the average mana per person spent on this question (either yes or no)\n\nUpdate 2025-03-16 (PST) (AI summary of creator comment): Clarifications:\n\nAverage Type: Arithmetic mean\n\nTrade Adjustments: In cases where a participant sells, their net mana spent is used for the calculation"
+	},
+	{
+		"id": "yPPdunqCIP",
+		"creatorId": "xaVT7j1aQtTpkMxwvLjdN8DGl9D3",
+		"creatorUsername": "BryantYu",
+		"creatorName": "Bryant Yu",
+		"createdTime": 1742232499734,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPZFNqSYQwjlYUJ_S9CYv58WLFLFXtcoUZn9LfJBsboYu3cCc=s96-c",
+		"closeTime": 1747457940000,
+		"question": "Will the standard deviation of the bets on this question exceed 80?",
+		"slug": "will-the-standard-deviation-of-the",
+		"url": "https://manifold.markets/BryantYu/will-the-standard-deviation-of-the",
+		"pool": {
+			"NO": 1040.6519213083127,
+			"YES": 9.60936101230476
+		},
+		"probability": 0.990850504370615,
+		"p": 0.4999999999999981,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2031.9092069491098,
+		"volume24Hours": 2,
+		"isResolved": false,
+		"uniqueBettorCount": 16,
+		"lastUpdatedTime": 1747433001153,
+		"lastBetTime": 1747433001153,
+		"lastCommentTime": 1747335167587,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Standard deviation is calculated from money spent by traders on this question.,",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Closes in may 16.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"fun",
+			"selfresolving",
+			"mathematics",
+			"metamarkets",
+			"metaforecasting",
+			"nonpredictive"
+		],
+		"textDescription": "Standard deviation is calculated from money spent by traders on this question.,\n\n\nCloses in may 16."
+	},
+	{
+		"id": "nPQZslUZSu",
+		"creatorId": "fnw02M0icQZBoFiPeRBJi0jIqNk1",
+		"creatorUsername": "Calde",
+		"creatorName": "Calde",
+		"createdTime": 1731787101447,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FCalde%2Fz2ws9JQTts.png?alt=media&token=cfea978c-abe8-4a8c-ab0c-198d0b1eec7a",
+		"closeTime": 1747454340000,
+		"question": "In the next 6 months will bitcoins price drop to 71,000$ USD or below",
+		"slug": "in-the-next-6-months-will-bitcoins",
+		"url": "https://manifold.markets/Calde/in-the-next-6-months-will-bitcoins",
+		"pool": {
+			"NO": 9.81711155500814,
+			"YES": 1018.6295575808683
+		},
+		"probability": 0.009545571831407387,
+		"p": 0.5000000000000009,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3242.6602805493717,
+		"volume24Hours": 489.1064053160775,
+		"isResolved": false,
+		"uniqueBettorCount": 18,
+		"lastUpdatedTime": 1747438137318,
+		"lastBetTime": 1747435026803,
+		"lastCommentTime": 1747438137278,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In the next 6 months will bitcoins price drop to 71,000$ USD or below. Even if it is briefly it still counts. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Calde/UQhsnLRnpc.jpg",
+		"groupSlugs": [
+			"crypto-speculation",
+			"economics-default",
+			"bitcoin",
+			"crypto-prices",
+			"bitcoin-maxi"
+		],
+		"textDescription": "In the next 6 months will bitcoins price drop to 71,000$ USD or below. Even if it is briefly it still counts. "
+	},
+	{
+		"id": "CSZ2h2SPzS",
+		"creatorId": "V3wc9zU0duXuPgyDTHDiRNuQ7as1",
+		"creatorUsername": "AaravKaashyap",
+		"creatorName": "Aarav Kaashyap",
+		"createdTime": 1746750403967,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLHwpQZl7qEkpdvB4pb-SClqevcC1_igMokyWk9sKw3DBo-xKzq=s96-c",
+		"closeTime": 1747803659100,
+		"question": "Will the Warriors win the series",
+		"slug": "will-the-warriors-win-the-series",
+		"url": "https://manifold.markets/AaravKaashyap/will-the-warriors-win-the-series",
+		"pool": {
+			"NO": 10.050378152592032,
+			"YES": 994.9874371066189
+		},
+		"probability": 0.009999999999999926,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1057.6436757940057,
+		"volume24Hours": 501.23225124889626,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1747415210428,
+		"lastBetTime": 1747415210428,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"sports-default",
+			"sports-betting",
+			"football",
+			"nba",
+			"basketball"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "znut9gcdPU",
+		"creatorId": "hDq0cvn68jbAUVd6aWIU9aSv9ZA2",
+		"creatorUsername": "strutheo",
+		"creatorName": "chris (strutheo)",
+		"createdTime": 1746417416107,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fstrutheo%2FkMuR3ttqcY.png?alt=media&token=a90c9db0-678b-42d7-9a8a-874f55f21b3d",
+		"closeTime": 1754279940000,
+		"question": "The next time Bitcoin crosses $100k USD, will it reach $110k USD within 72 hours?",
+		"slug": "the-next-time-bitcoin-crosses-100k",
+		"url": "https://manifold.markets/strutheo/the-next-time-bitcoin-crosses-100k",
+		"pool": {
+			"NO": 9.234705810146835,
+			"YES": 1082.871528945976
+		},
+		"probability": 0.00845586767683735,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1334.282242713297,
+		"volume24Hours": 0.8156723424452821,
+		"isResolved": false,
+		"uniqueBettorCount": 13,
+		"lastUpdatedTime": 1747384325120,
+		"lastBetTime": 1747384325120,
+		"lastCommentTime": 1746727970965,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"prices",
+			"crypto-speculation",
+			"bitcoin",
+			"bitcoin-maxi"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 977400.3685010392,
+		"volume24Hours": 2236.603458987938,
+		"isResolved": false,
+		"uniqueBettorCount": 1059,
+		"lastUpdatedTime": 1747440401931,
+		"lastBetTime": 1747440401931,
+		"lastCommentTime": 1746206306010,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	}
+]
