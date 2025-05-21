@@ -1,0 +1,1464 @@
+[
+	{
+		"id": "CUEScy682N",
+		"creatorId": "ZChvqg9CKGTQ3Hj2XtE4WHmiRNq1",
+		"creatorUsername": "Jubs",
+		"creatorName": "Justin",
+		"createdTime": 1745446171531,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AAcHTtdkZkZMFO8GtNcgRHoZMdCmvGWdTc6_MY85ZjejolfL_Weu=s96-c",
+		"closeTime": 1747810799000,
+		"question": "Trump approval rating 44.5% or higher on May 20th?",
+		"slug": "trump-approval-rating-445-or-higher",
+		"url": "https://manifold.markets/Jubs/trump-approval-rating-445-or-higher",
+		"pool": {
+			"NO": 14015.09840331615,
+			"YES": 71.35162174554577
+		},
+		"probability": 0.9949347336185763,
+		"p": 0.4999999999999858,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 73735.59960588656,
+		"volume24Hours": 327.27848605997525,
+		"isResolved": false,
+		"uniqueBettorCount": 151,
+		"lastUpdatedTime": 1747782317759,
+		"lastBetTime": 1747782317759,
+		"lastCommentTime": 1747138456101,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Market will resolve to YES if 44.5% or higher of Americans approve of Donald Trump's performance dated May 20th, 2025 on Nate Silver's approval tracker located here at Silver Bulletin: ",
+							"type": "text"
+						},
+						{
+							"text": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								},
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Notes:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Data will be checked within 24 hours after market close.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "If the approval dips below 44.5% at some point, but rises back above by May 20th, the market will still resolve to YES.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "In the event that the Silver Bulletin tracker is no longer available or updated, the RCP tracker here will be used as a substitute: ",
+											"type": "text"
+										},
+										{
+											"text": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												},
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"politics-default",
+			"magaland",
+			"trumps-second-term",
+			"donald-trump",
+			"us-politics"
+		],
+		"textDescription": "Market will resolve to YES if 44.5% or higher of Americans approve of Donald Trump's performance dated May 20th, 2025 on Nate Silver's approval tracker located here at Silver Bulletin: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin\n\nNotes:\n\nData will be checked within 24 hours after market close.\n\nIf the approval dips below 44.5% at some point, but rises back above by May 20th, the market will still resolve to YES.\n\nIn the event that the Silver Bulletin tracker is no longer available or updated, the RCP tracker here will be used as a substitute: https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+	},
+	{
+		"id": "29yEAun22q",
+		"creatorId": "aMvS1srp8hRX08WQIH5N1Eu7eCk2",
+		"creatorUsername": "barbarous",
+		"creatorName": "barbarous",
+		"createdTime": 1743482873707,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fbarbarous%2Fd3CdnWkb0T.jpg?alt=media&token=08e389f8-d973-4e76-ba5d-94fa6ed085f4",
+		"closeTime": 1751327940000,
+		"question": "China invades Taiwan before July",
+		"slug": "china-invades-taiwan-before-july",
+		"url": "https://manifold.markets/barbarous/china-invades-taiwan-before-july",
+		"pool": {
+			"NO": 5.787847600231089,
+			"YES": 1727.7580010228035
+		},
+		"probability": 0.003338733500950328,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2781.4404638529263,
+		"volume24Hours": 506.9169173785861,
+		"isResolved": false,
+		"uniqueBettorCount": 26,
+		"lastUpdatedTime": 1747740825875,
+		"lastBetTime": 1747740825875,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to YES if China launches a military invasion of Taiwan before July 1, 2025. An invasion is defined as a significant deployment of Chinese military forces onto Taiwanese territory with the intent to seize control. This includes mainland Taiwan and its directly controlled islands.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market resolves to NO if no such invasion occurs before July 1, 2025",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Taiwan, officially the Republic of China (ROC), is a self-governing island that China considers a breakaway province under its \"One China\" policy",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "China has never renounced the use of force to bring Taiwan under its control",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The People's Liberation Army (PLA) has been instructed by President Xi Jinping to be ready for a potential Taiwan invasion by 2027",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "China has increased \"gray-zone\" tactics against Taiwan, including military overflights, naval exercises, and cyberattacks",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "A full-scale invasion would require the largest amphibious assault in modern history, presenting significant logistical challenges for the PLA",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "U.S. military officials have suggested China could be ready to invade as early as 2025, though these are assessments of capability rather than intent",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "International factors, including potential U.S. military intervention and economic sanctions, serve as significant deterrents",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "China may continue to use military posturing and diplomatic pressure rather than launching a full invasion",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"china-taiwan-potential-conflict",
+			"taiwan",
+			"china"
+		],
+		"textDescription": "Resolution Criteria\n\nThis market resolves to YES if China launches a military invasion of Taiwan before July 1, 2025. An invasion is defined as a significant deployment of Chinese military forces onto Taiwanese territory with the intent to seize control. This includes mainland Taiwan and its directly controlled islands.\n\nThe market resolves to NO if no such invasion occurs before July 1, 2025\n\nBackground\n\nTaiwan, officially the Republic of China (ROC), is a self-governing island that China considers a breakaway province under its \"One China\" policy\n\nChina has never renounced the use of force to bring Taiwan under its control\n\nThe People's Liberation Army (PLA) has been instructed by President Xi Jinping to be ready for a potential Taiwan invasion by 2027\n\nChina has increased \"gray-zone\" tactics against Taiwan, including military overflights, naval exercises, and cyberattacks\n\nConsiderations\n\nA full-scale invasion would require the largest amphibious assault in modern history, presenting significant logistical challenges for the PLA\n\nU.S. military officials have suggested China could be ready to invade as early as 2025, though these are assessments of capability rather than intent\n\nInternational factors, including potential U.S. military intervention and economic sanctions, serve as significant deterrents\n\nChina may continue to use military posturing and diplomatic pressure rather than launching a full invasion"
+	},
+	{
+		"id": "Oztzq9IutL",
+		"creatorId": "93qSnoHrkeYFQaWCJ07uBvng1hS2",
+		"creatorUsername": "Breadbrowser",
+		"creatorName": "Bread",
+		"createdTime": 1735864553714,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxYdgQHqOz68VnkLqJ35bRa3_hezNpMWnjTa46Qe=s96-c",
+		"closeTime": 2177557140000,
+		"question": "Will Google's next video-making AI be called Veo 3?",
+		"slug": "will-googles-next-videomaking-ai-be",
+		"url": "https://manifold.markets/Breadbrowser/will-googles-next-videomaking-ai-be",
+		"pool": {
+			"NO": 9956.458849136812,
+			"YES": 100.67324248949001
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.5002557873092273,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 10689.717035939539,
+		"volume24Hours": 10170.82151590723,
+		"isResolved": false,
+		"uniqueBettorCount": 14,
+		"lastUpdatedTime": 1747789045274,
+		"lastBetTime": 1747789045274,
+		"lastCommentTime": 1747765868809,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Google is known for developing AI that can create videos from text descriptions. After releasing previous versions, I am wondering if their next video generation AI will keep the name \"Veo\" line and they will call their next text to video model \"Veo 3,\" or if they'll choose a completely different name for it. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Breadbrowser/sl6y6RINsO.jpg",
+		"groupSlugs": [
+			"ai",
+			"openai",
+			"google-ef2cf716540e",
+			"ai-impacts"
+		],
+		"textDescription": "Google is known for developing AI that can create videos from text descriptions. After releasing previous versions, I am wondering if their next video generation AI will keep the name \"Veo\" line and they will call their next text to video model \"Veo 3,\" or if they'll choose a completely different name for it. "
+	},
+	{
+		"id": "c5ChIsRqQA",
+		"creatorId": "IB7b5yEO6Jc1MaA7AKsLxVRNa2W2",
+		"creatorUsername": "JussiVilleHeiskanen",
+		"creatorName": "Jussi-Ville Heiskanen",
+		"createdTime": 1745951932769,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJussiVilleHeiskanen%2FGeGSs6C-2M.jpg?alt=media&token=477a0f43-f6a7-4eae-ad9a-1a3abcf9731b",
+		"closeTime": 1749312000000,
+		"question": "Public news that a Roman Catholic Cleric has bet on the papacy or participated on a prediction market on it.",
+		"slug": "public-news-that-a-roman-catholic-c",
+		"url": "https://manifold.markets/JussiVilleHeiskanen/public-news-that-a-roman-catholic-c",
+		"pool": {
+			"NO": 10.244945423930087,
+			"YES": 976.0910952870488
+		},
+		"probability": 0.010386871209273922,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1006.0700767704537,
+		"volume24Hours": 779.4277563536723,
+		"isResolved": false,
+		"uniqueBettorCount": 9,
+		"lastUpdatedTime": 1747760510625,
+		"lastBetTime": 1747758591277,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I will not bet. Ask for clarifications if needed.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Allow 30 days from the white smoke for the news to emerge. Will extend the market to that 30 days. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"catholicism",
+			"gambling",
+			"papal-elections"
+		],
+		"textDescription": "I will not bet. Ask for clarifications if needed.\n\nAllow 30 days from the white smoke for the news to emerge. Will extend the market to that 30 days. \n\n"
+	},
+	{
+		"id": "ph58P8lIQU",
+		"creatorId": "9nRmrAIzbTWtu4gQ8WccGJtp8G73",
+		"creatorUsername": "AlpAtalan",
+		"creatorName": "Alp Atalan II",
+		"createdTime": 1746787838327,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKDE-KWhZMX2G-MCvaWy_8Twwdqql0di6zG1eV2FRgG=s96-c",
+		"closeTime": 1747785540000,
+		"question": "Will MrBeast reach 400 million subscribers before 22 May 2025?",
+		"slug": "will-mrbeast-reach-400-million-subs",
+		"url": "https://manifold.markets/AlpAtalan/will-mrbeast-reach-400-million-subs",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066182
+		},
+		"probability": 0.009999999999999998,
+		"p": 0.5000000000000003,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 7545.364178331265,
+		"volume24Hours": 7310.9737509854285,
+		"isResolved": false,
+		"uniqueBettorCount": 18,
+		"lastUpdatedTime": 1747785312821,
+		"lastBetTime": 1747780445873,
+		"lastCommentTime": 1747784540537,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"world-default",
+			"entertainment",
+			"culture-default"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "0aoeJgwTsdA3ub166M1j",
+		"creatorId": "4aW01GHrlgafwAPLI1St7MPnOni1",
+		"creatorUsername": "CarsonGale",
+		"creatorName": "Carson Gale",
+		"createdTime": 1672853841142,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FCarsonGale%2Fhqs4q-lat4.jpg?alt=media&token=56f63f36-5d81-45fd-9ff3-a1fc33070eae",
+		"closeTime": 1767254340000,
+		"question": "Will some U.S. software engineers be negatively affected financially due to AI by end of 2025?",
+		"slug": "will-the-us-software-engineering-pr",
+		"url": "https://manifold.markets/CarsonGale/will-the-us-software-engineering-pr",
+		"pool": {
+			"NO": 27294.296112037508,
+			"YES": 753.2611722936508
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.7320598884837162,
+		"totalLiquidity": 1995,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 55791.68194525946,
+		"volume24Hours": 14356.33962119295,
+		"isResolved": false,
+		"uniqueBettorCount": 190,
+		"lastUpdatedTime": 1747759509412,
+		"lastBetTime": 1747759029713,
+		"lastCommentTime": 1747759509382,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Requires at least 3 articles from traditionally reputable news organizations reporting that some U.S. software engineers have lost income, job security, or hiring velocity as a result of AI-based automation.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I won't be proactively searching for such articles - I will need to come across them organically or they can be posted in the comments / sent to me via Twitter message or other DM.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2Fh5tuJTd2Xd.png?alt=media&token=ec881c79-b990-4c9f-bf73-8fbb46473b7b",
+		"groupSlugs": [
+			"ai",
+			"carsons-important-markets"
+		],
+		"textDescription": "Requires at least 3 articles from traditionally reputable news organizations reporting that some U.S. software engineers have lost income, job security, or hiring velocity as a result of AI-based automation.\n\nI won't be proactively searching for such articles - I will need to come across them organically or they can be posted in the comments / sent to me via Twitter message or other DM.\n\n"
+	},
+	{
+		"id": "ShOUtdAqhQ",
+		"creatorId": "r6ZIaMsoxSVM8xxW1x9XdThwha13",
+		"creatorUsername": "ManifoldL9ul",
+		"creatorName": "Manifold",
+		"createdTime": 1747580325739,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIXgxCOSjN466iHjY-6C4fkCHXb9RUInF52KBpUyiuSCdNfYA=s96-c",
+		"closeTime": 1748185020000,
+		"question": "Will this market close above 50%?",
+		"slug": "will-this-market-close-above-50-hlQtqCPNOA",
+		"url": "https://manifold.markets/ManifoldL9ul/will-this-market-close-above-50-hlQtqCPNOA",
+		"pool": {
+			"NO": 93.3733199368505,
+			"YES": 107.09697381182436
+		},
+		"probability": 0.4657713529063343,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2109.7134834209855,
+		"volume24Hours": 2064.7134834209855,
+		"isResolved": false,
+		"uniqueBettorCount": 11,
+		"lastUpdatedTime": 1747788036519,
+		"lastBetTime": 1747788036519,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"technology-default",
+			"finance",
+			"stocks",
+			"fun",
+			"economics-default",
+			"nonpredictive"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "WByr6loBoWofKCyuym63",
+		"creatorId": "xULIs4V4S5ag3T5XjHGYXOMfLIm2",
+		"creatorUsername": "CommanderZander",
+		"creatorName": "Zander",
+		"createdTime": 1713826803878,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FCommanderZander%2FP62kU70Utl.jpg?alt=media&token=e4a9e59d-56b3-46c1-b62a-a09d2e78315a",
+		"closeTime": 3155875140000,
+		"question": "When will 3D printers make 3D printers?",
+		"slug": "when-will-3d-printers-make-3d-print",
+		"url": "https://manifold.markets/CommanderZander/when-will-3d-printers-make-3d-print",
+		"totalLiquidity": 1000,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 665.1239280523439,
+		"volume24Hours": 49.99999999999977,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1747757263680,
+		"lastBetTime": 1747757263680,
+		"lastCommentTime": 1713839656552,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves when a printed printer manufactures a working printer. This is similar to the Reprap project, but must use only printed circuitry.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Details:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Human assembly of printed components is acceptable",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Can involve multiple printed machines in the same location, so long as the set of machines can duplicate itself",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Raw material inputs like these are acceptable:",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "ABS or similar plastic filament",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Various metals & powders",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Insulated copper or fiber optic wire bought in bulk",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Other unspecialized components of similarly low price",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Moderate degradation of performance or reliability in the output copy is acceptable if the system is still somewhat usable. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "These must basically be 3D printers, ie: it must be possible to use these printers to make other similar output items, using materials like metal & plastic.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Spirit of the question:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "When can a person run a 'printer farm'? ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "When can they use their printer inventory to make more printers? ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "When is this technology first demonstrated?",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "These printers will be roughly the same size, material composition, & degree of complexity as modern 3D printers.",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "paragraph"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"manufacturing",
+			"3d-printing",
+			"economics-default",
+			"robotics",
+			"technology-default"
+		],
+		"textDescription": "Resolves when a printed printer manufactures a working printer. This is similar to the Reprap project, but must use only printed circuitry.\n\nDetails:\n\nHuman assembly of printed components is acceptable\n\nCan involve multiple printed machines in the same location, so long as the set of machines can duplicate itself\n\nRaw material inputs like these are acceptable:\n\nABS or similar plastic filament\n\nVarious metals & powders\n\nInsulated copper or fiber optic wire bought in bulk\n\nOther unspecialized components of similarly low price\n\nModerate degradation of performance or reliability in the output copy is acceptable if the system is still somewhat usable. \n\nThese must basically be 3D printers, ie: it must be possible to use these printers to make other similar output items, using materials like metal & plastic.\n\nSpirit of the question:\n\nWhen can a person run a 'printer farm'? \n\nWhen can they use their printer inventory to make more printers? \n\nWhen is this technology first demonstrated?\n\nThese printers will be roughly the same size, material composition, & degree of complexity as modern 3D printers.\n\n"
+	},
+	{
+		"id": "ztIIAdNt2d",
+		"creatorId": "smzdPGfW29XzWkyfJfE0rDr3qYm2",
+		"creatorUsername": "evan",
+		"creatorName": "Evan",
+		"createdTime": 1742506135766,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fevan%2FNo_kJo37bs.jpg?alt=media&token=f16cbb93-1fdd-4d28-a2f2-f48aa131e01f",
+		"closeTime": 1774042140000,
+		"question": "This market resolves NO in a year.",
+		"slug": "5-chance-of-resolving-yes-in-a-week",
+		"url": "https://manifold.markets/evan/5-chance-of-resolving-yes-in-a-week",
+		"pool": {
+			"NO": 10.872792978852075,
+			"YES": 1008.4069670143981
+		},
+		"probability": 0.009999999999999997,
+		"p": 0.48369169740895107,
+		"totalLiquidity": 101,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 9622.429869863989,
+		"volume24Hours": 1031.211949839589,
+		"isResolved": false,
+		"uniqueBettorCount": 33,
+		"lastUpdatedTime": 1747770774740,
+		"lastBetTime": 1747770774740,
+		"lastCommentTime": 1747126879179,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves NO on March 20, 2026.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Old rules below:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I'll ask ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "@FairlyRandom",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/FairlyRandom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/FairlyRandom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": "to generate a random number between ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "1 and 20 (inclusive). ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": "If the result is ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "20",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ", this market will resolve ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "YES",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ". If the result is ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "less than 20",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ", this market will resolve ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "NO",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ". I'll use a suitable alternative if ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						},
+						{
+							"text": "@FairlyRandom",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/FairlyRandom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								},
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/FairlyRandom",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								},
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": "isn't available.",
+							"type": "text",
+							"marks": [
+								{
+									"type": "spoiler"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"experimental",
+			"interest-rates",
+			"fairlyrandom",
+			"nonpredictive-profits",
+			"free-mana"
+		],
+		"textDescription": "This market resolves NO on March 20, 2026.\nOld rules below:\n\nI'll ask @FairlyRandom to generate a random number between 1 and 20 (inclusive). If the result is 20, this market will resolve YES. If the result is less than 20, this market will resolve NO. I'll use a suitable alternative if @FairlyRandom isn't available."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 984698.4288821891,
+		"volume24Hours": 1065.8834117729539,
+		"isResolved": false,
+		"uniqueBettorCount": 1059,
+		"lastUpdatedTime": 1747789075965,
+		"lastBetTime": 1747789075965,
+		"lastCommentTime": 1747576903409,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	}
+]
