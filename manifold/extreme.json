@@ -1,0 +1,1889 @@
+[
+	{
+		"id": "hZ8IUcISlE",
+		"creatorId": "kDJ5DUrMFUfJsgmHxUW07kt4rtb2",
+		"creatorUsername": "Math4Life2020",
+		"creatorName": "Math4Life2020",
+		"createdTime": 1743636752405,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AAcHTtcwBvSHrz-DrowVgW3mCBLo8gauVURpjgvOYAYZ_Ito=s96-c",
+		"closeTime": 1749337140000,
+		"question": "Will I make IPhO 2025?",
+		"slug": "will-i-make-ipho-2025",
+		"url": "https://manifold.markets/Math4Life2020/will-i-make-ipho-2025",
+		"pool": {
+			"NO": 994.987437106634,
+			"YES": 10.050378152592145
+		},
+		"probability": 0.99,
+		"p": 0.4999999999999969,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 10811.79194614461,
+		"volume24Hours": 1231.1374452678958,
+		"isResolved": false,
+		"uniqueBettorCount": 56,
+		"lastUpdatedTime": 1749274732506,
+		"lastBetTime": 1749274732506,
+		"lastCommentTime": 1745237340827,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Exactly what it says on the tin. Resolves YES if I get invited to IPhO 2025, and NO otherwise.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "[NOTE: IF I DON'T GO TO PHYSICS CAMP, THIS RESOLVES NO.]",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Past results:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "2023 IPhO Gold + special prize for top theory score internationally (30.0/30 theory, 10.1/20 experiment).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "2022, 2023, and 2024 USAPhO Gold + US Physics Team (top 20) invitee; went in only 2023 due to time conflicts with MOP.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Also a decentish amount of competition math experience, not that it matters.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Notes:",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This automatically resolves NO if I don't accept an invitation to the 2025 US Physics Team (\"physics camp\") because I would thus be ineligible for IPhO selection. The above will ",
+							"type": "text"
+						},
+						{
+							"text": "most likely",
+							"type": "text",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						},
+						{
+							"text": " happen if I make IMO 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In other words, expect the market to jump by +- 30-40% in late April.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"personal",
+			"competition-math",
+			"personal-goals"
+		],
+		"textDescription": "Exactly what it says on the tin. Resolves YES if I get invited to IPhO 2025, and NO otherwise.\n\n[NOTE: IF I DON'T GO TO PHYSICS CAMP, THIS RESOLVES NO.]\n\nPast results:\n\n2023 IPhO Gold + special prize for top theory score internationally (30.0/30 theory, 10.1/20 experiment).\n\n2022, 2023, and 2024 USAPhO Gold + US Physics Team (top 20) invitee; went in only 2023 due to time conflicts with MOP.\n\nAlso a decentish amount of competition math experience, not that it matters.\n\nNotes:\n\nThis automatically resolves NO if I don't accept an invitation to the 2025 US Physics Team (\"physics camp\") because I would thus be ineligible for IPhO selection. The above will most likely happen if I make IMO 2025.\n\nIn other words, expect the market to jump by +- 30-40% in late April."
+	},
+	{
+		"id": "u6I2Ryq8E2",
+		"creatorId": "rqyVlY3yvaZkXJ51lMa60NlqbOI3",
+		"creatorUsername": "NGL",
+		"creatorName": "Nate Gold",
+		"createdTime": 1749050789056,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FNGL%2F8zIUlggURz.jpeg?alt=media&token=7df30b9e-3fa6-4bb8-9010-6203b1bf4152",
+		"closeTime": 1749222518032,
+		"question": "Significant market manipulation before close per ChatGPT’s decision.",
+		"slug": "significant-market-manipulation-bef",
+		"url": "https://manifold.markets/NGL/significant-market-manipulation-bef",
+		"pool": {
+			"NO": 316.0750690293435,
+			"YES": 31.63805367727889
+		},
+		"probability": 0.9090110449930502,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1633.987437106619,
+		"volume24Hours": 1563.987437106619,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1749222518032,
+		"resolutionProbability": 0.9090110449930502,
+		"resolverId": "rqyVlY3yvaZkXJ51lMa60NlqbOI3",
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1749223647259,
+		"lastBetTime": 1749222509873,
+		"lastCommentTime": 1749223647232,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if, before the market's closing time, ChatGPT determines that significant market manipulation has occurred. Market manipulation is defined as intentional actions designed to deceive investors by artificially affecting the price or volume of securities. Examples include, but are not limited to:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Pump and Dump Schemes",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Spreading false or misleading information to inflate a stock's price before selling off shares at the higher price. (",
+											"type": "text"
+										},
+										{
+											"text": "investor.gov",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation?utm_source=openai",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Spoofing",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Placing large orders with the intent to cancel them before execution, creating a false impression of demand or supply. (",
+											"type": "text"
+										},
+										{
+											"text": "investopedia.com",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.investopedia.com/terms/m/manipulation.asp?utm_source=openai",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Wash Trading",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Simultaneously buying and selling the same security to create the illusion of increased trading activity. (",
+											"type": "text"
+										},
+										{
+											"text": "investor.gov",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation?utm_source=openai",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Quote Stuffing",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Entering and withdrawing large numbers of orders rapidly to flood the market and create confusion. (",
+											"type": "text"
+										},
+										{
+											"text": "en.wikipedia.org",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://en.wikipedia.org/wiki/Quote_stuffing?utm_source=openai",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Bear Raids",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Attempting to push a stock's price down by heavy selling or short selling. (",
+											"type": "text"
+										},
+										{
+											"text": "en.wikipedia.org",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://en.wikipedia.org/wiki/Market_manipulation?utm_source=openai",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The determination of \"significant\" manipulation will be based on the impact of the actions on market integrity and investor confidence. If no such determination is made by ChatGPT before the market closes, the market will resolve to \"No.\"",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Market manipulation undermines the integrity of financial markets and can lead to substantial investor losses. Regulatory bodies worldwide, such as the U.S. Securities and Exchange Commission (SEC), actively monitor and prosecute such activities to maintain fair and efficient markets. (",
+							"type": "text"
+						},
+						{
+							"text": "investor.gov",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Traders should be aware that market manipulation can be challenging to detect and prove, often requiring substantial evidence and regulatory intervention. The resolution of this market depends on ChatGPT's assessment of available information before the market's closing time.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"nonpredictive"
+		],
+		"textDescription": "Resolution criteria\n\nThis market will resolve to \"Yes\" if, before the market's closing time, ChatGPT determines that significant market manipulation has occurred. Market manipulation is defined as intentional actions designed to deceive investors by artificially affecting the price or volume of securities. Examples include, but are not limited to:\n\nPump and Dump Schemes: Spreading false or misleading information to inflate a stock's price before selling off shares at the higher price. (investor.gov)\n\nSpoofing: Placing large orders with the intent to cancel them before execution, creating a false impression of demand or supply. (investopedia.com)\n\nWash Trading: Simultaneously buying and selling the same security to create the illusion of increased trading activity. (investor.gov)\n\nQuote Stuffing: Entering and withdrawing large numbers of orders rapidly to flood the market and create confusion. (en.wikipedia.org)\n\nBear Raids: Attempting to push a stock's price down by heavy selling or short selling. (en.wikipedia.org)\n\nThe determination of \"significant\" manipulation will be based on the impact of the actions on market integrity and investor confidence. If no such determination is made by ChatGPT before the market closes, the market will resolve to \"No.\"\n\nBackground\n\nMarket manipulation undermines the integrity of financial markets and can lead to substantial investor losses. Regulatory bodies worldwide, such as the U.S. Securities and Exchange Commission (SEC), actively monitor and prosecute such activities to maintain fair and efficient markets. (investor.gov)\n\nConsiderations\n\nTraders should be aware that market manipulation can be challenging to detect and prove, often requiring substantial evidence and regulatory intervention. The resolution of this market depends on ChatGPT's assessment of available information before the market's closing time."
+	},
+	{
+		"id": "dO9NA9Eq6g",
+		"creatorId": "j34wJex00aOIBExk3u8cIxqeDIB2",
+		"creatorUsername": "WalterMartin",
+		"creatorName": "walmart",
+		"createdTime": 1737574234679,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJaU_H5ojNfbqITIyMduSVJVm7SvaeTm53NopKIgvI8=s96-c",
+		"closeTime": 1749225578506,
+		"question": "Will Elon Musk cease to be an advisor to Donald Trump and face public criticism from Donald Trump before 2026?",
+		"slug": "will-elon-musk-cease-to-be-an-advis",
+		"url": "https://manifold.markets/WalterMartin/will-elon-musk-cease-to-be-an-advis",
+		"pool": {
+			"NO": 92454.50516484094,
+			"YES": 837.6181562685747
+		},
+		"probability": 0.99,
+		"p": 0.47282934714694713,
+		"totalLiquidity": 10000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 299257.7774275695,
+		"volume24Hours": 2624.879156786197,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1749225578506,
+		"resolutionProbability": 0.99,
+		"resolverId": "j34wJex00aOIBExk3u8cIxqeDIB2",
+		"uniqueBettorCount": 313,
+		"lastUpdatedTime": 1749225578506,
+		"lastBetTime": 1749220951455,
+		"lastCommentTime": 1749219201839,
+		"token": "MANA",
+		"siblingContractId": "sIlCqy8A0z",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "From the ACX 2025 Prediction Contest:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://www.metaculus.com/questions/embed/30891",
+						"frameBorder": 0
+					}
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will resolve according to the Metaculus resolution:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question will resolve as ",
+							"type": "text"
+						},
+						{
+							"text": "Yes",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " if, before January 1, 2026, ",
+							"type": "text"
+						},
+						{
+							"text": "credible sources",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/faq/#definitions",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " have reported ",
+							"type": "text"
+						},
+						{
+							"text": "both",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " of the following:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Elon Musk no longer serves an advisory role to Donald Trump. This will be considered to be true if Elon Musk ceases to hold either a formal federal government position or an advisory position serving at an organization governed by the Federal Advisory Committee Act (FACA) or any other officially recognized advisory organization. This includes if Elon Musk does not at any point attain such a position during the year 2025.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "If Elon Musk ceases to hold an advisory position because he is becoming a full federal government employee, or vice versa, this will not be considered to have occurred. Musk must cease to be both a government employee and an advisor simultaneously. Transfers in status where Musk temporarily ceases to hold either role do not count.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Donald Trump has publicly criticized Elon Musk during a time while Musk is no longer serving on a government or advisory position. Public criticism will generally not be taken to include jokes, backhanded compliments, snide remarks, or other non-serious insults or veiled insults. To count, a criticism must unambiguously convey dislike or dissatisfaction with Musk.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Otherwise, the question will resolve as ",
+							"type": "text"
+						},
+						{
+							"text": "No",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ".",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/WalterMartin/t6h0gR6Zhq.jpg",
+		"groupSlugs": [
+			"us-politics",
+			"trumps-second-term",
+			"acx-2025-prediction-contest",
+			"elon-musk-14d9d9498c7e",
+			"donald-trump"
+		],
+		"textDescription": "From the ACX 2025 Prediction Contest:\n\n(https://www.metaculus.com/questions/embed/30891)Will resolve according to the Metaculus resolution:\n\nThis question will resolve as Yes if, before January 1, 2026, credible sources have reported both of the following:\n\nElon Musk no longer serves an advisory role to Donald Trump. This will be considered to be true if Elon Musk ceases to hold either a formal federal government position or an advisory position serving at an organization governed by the Federal Advisory Committee Act (FACA) or any other officially recognized advisory organization. This includes if Elon Musk does not at any point attain such a position during the year 2025.\n\nIf Elon Musk ceases to hold an advisory position because he is becoming a full federal government employee, or vice versa, this will not be considered to have occurred. Musk must cease to be both a government employee and an advisor simultaneously. Transfers in status where Musk temporarily ceases to hold either role do not count.\n\nDonald Trump has publicly criticized Elon Musk during a time while Musk is no longer serving on a government or advisory position. Public criticism will generally not be taken to include jokes, backhanded compliments, snide remarks, or other non-serious insults or veiled insults. To count, a criticism must unambiguously convey dislike or dissatisfaction with Musk.\n\nOtherwise, the question will resolve as No."
+	},
+	{
+		"id": "RdgcNp8c9s",
+		"creatorId": "fUyBI82abSaDc2tkl3CY7u1KuC12",
+		"creatorUsername": "dannyridel44",
+		"creatorName": "Daniel L",
+		"createdTime": 1748155525300,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5NanHdm4Ks7vCSzVh-3DuTr57N1slmmyrSusto=s96-c",
+		"closeTime": 1749969720000,
+		"question": "NSBA 3 total player signups?",
+		"slug": "nsba-3-player-signups-total",
+		"url": "https://manifold.markets/dannyridel44/nsba-3-player-signups-total",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 7928.019207909749,
+		"volume24Hours": 1493.3567124285119,
+		"isResolved": false,
+		"uniqueBettorCount": 8,
+		"lastUpdatedTime": 1749269805238,
+		"lastBetTime": 1749269805238,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "National Science Bowl Association's third edition.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Further information including player signups will be released around June 1st.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve when signups close and will be based on how many players FINISH THE COMBINE.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"science-bowl",
+			"nsba"
+		],
+		"textDescription": "National Science Bowl Association's third edition.\n\nFurther information including player signups will be released around June 1st.\n\nThe market will resolve when signups close and will be based on how many players FINISH THE COMBINE."
+	},
+	{
+		"id": "5hdESARgtz",
+		"creatorId": "o3mY40RXv6Q3Obx6mbqkhpJnRDQ2",
+		"creatorUsername": "MatthewWright",
+		"creatorName": "Matthew Wright",
+		"createdTime": 1746200020428,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLXT1PEmalpv2bT9hOF6C3qoaJC6FOFW7xRI8NAF_JbD4-EZpqG=s96-c",
+		"closeTime": 1749213221846,
+		"question": "US non-farm payroll higher in May 2025 than April 2025?",
+		"slug": "us-nonfarm-payroll-higher-in-may-20",
+		"url": "https://manifold.markets/MatthewWright/us-nonfarm-payroll-higher-in-may-20",
+		"pool": {
+			"NO": 100.50378152592111,
+			"YES": 9949.874371066198
+		},
+		"probability": 0.009999999999999995,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 9085.874371066198,
+		"volume24Hours": 8449.874371066198,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1749213221846,
+		"resolutionProbability": 0.009999999999999995,
+		"resolverId": "o3mY40RXv6Q3Obx6mbqkhpJnRDQ2",
+		"uniqueBettorCount": 2,
+		"lastUpdatedTime": 1749213221846,
+		"lastBetTime": 1749213067868,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market predicts whether May 2025's Non-Farm Payrolls (NFP) number will be higher than April 2025's figure of 177,000.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution will be based on the official Bureau of Labor Statistics (BLS) Employment Situation report released on June 6, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "References:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://www.bls.gov/news.release/empsit.toc.htm",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.bls.gov/news.release/empsit.toc.htm",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://tradingeconomics.com/united-states/non-farm-payrolls",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://tradingeconomics.com/united-states/non-farm-payrolls",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"bls",
+			"us-economy",
+			"nfp",
+			"economics-default"
+		],
+		"textDescription": "This market predicts whether May 2025's Non-Farm Payrolls (NFP) number will be higher than April 2025's figure of 177,000.\n\nResolution will be based on the official Bureau of Labor Statistics (BLS) Employment Situation report released on June 6, 2025.\n\nReferences:\n\nhttps://www.bls.gov/news.release/empsit.toc.htm\n\nhttps://tradingeconomics.com/united-states/non-farm-payrolls"
+	},
+	{
+		"id": "06NI0NdlN0",
+		"creatorId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+		"creatorUsername": "Noit",
+		"creatorName": "Noit",
+		"createdTime": 1739547292531,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FNoit%2FMfpNdeWDvh.webp?alt=media&token=e629d681-440f-46f9-b735-191267a06d3d",
+		"closeTime": 1749250740000,
+		"question": "Will any UK political party consistently poll at 30% or higher in 2025?",
+		"slug": "will-any-uk-political-party-consist",
+		"url": "https://manifold.markets/Noit/will-any-uk-political-party-consist",
+		"pool": {
+			"NO": 10465.155701873337,
+			"YES": 95.55519559264707
+		},
+		"probability": 0.9909518216604551,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 11531.755019521026,
+		"volume24Hours": 16.504663628568043,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1749270407123,
+		"resolutionProbability": 0.9909518216604551,
+		"resolverId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+		"uniqueBettorCount": 19,
+		"lastUpdatedTime": 1749271619181,
+		"lastBetTime": 1749229609455,
+		"lastCommentTime": 1749271619147,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Consistently = enough that ",
+							"type": "text"
+						},
+						{
+							"text": "Politico's Poll of Polls UK",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.politico.eu/europe-poll-of-polls/united-kingdom/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " (smooth view) shows any party polling at greater than or equal to 30%, for 14 days in a row, according to the day-by-day hover tool. Excepting any obvious data / charting errors on Politico's end. All 14 days must fall within 2025 I.e. the streak cannot start on Dec 31st 2025. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If for any reason Politico's Poll of Polls ceases to function then the backup metric is Wikipedia's UK Polling chart.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-05-21 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/Noit/will-any-uk-political-party-consist#2o5pjopomoe",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): * To account for potential delays and retroactive updates in ",
+											"type": "text"
+										},
+										{
+											"text": "Politico's Poll of Polls",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " data:",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "If a ",
+															"type": "text"
+														},
+														{
+															"text": "14-day streak",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " of a party polling at ",
+															"type": "text"
+														},
+														{
+															"text": ">=30%",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " appears to have completed, the market ",
+															"type": "text"
+														},
+														{
+															"text": "will not be resolved YES immediately",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": ".",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "A ",
+															"type": "text"
+														},
+														{
+															"text": "two-week waiting period",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " will be implemented after the apparent end date of such a streak to allow Politico's data to settle.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "The market will resolve ",
+															"type": "text"
+														},
+														{
+															"text": "YES",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " only if the original ",
+															"type": "text"
+														},
+														{
+															"text": "14-day streak",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " (showing the party at ",
+															"type": "text"
+														},
+														{
+															"text": ">=30%",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " for the qualifying period) ",
+															"type": "text"
+														},
+														{
+															"text": "remains valid",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " in Politico's data after this two-week waiting period.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"uk",
+			"uk-politics"
+		],
+		"textDescription": "Consistently = enough that Politico's Poll of Polls UK (smooth view) shows any party polling at greater than or equal to 30%, for 14 days in a row, according to the day-by-day hover tool. Excepting any obvious data / charting errors on Politico's end. All 14 days must fall within 2025 I.e. the streak cannot start on Dec 31st 2025. \n\nIf for any reason Politico's Poll of Polls ceases to function then the backup metric is Wikipedia's UK Polling chart.\n\nUpdate 2025-05-21 (PST) (AI summary of creator comment): * To account for potential delays and retroactive updates in Politico's Poll of Polls data:\n\nIf a 14-day streak of a party polling at >=30% appears to have completed, the market will not be resolved YES immediately.\n\nA two-week waiting period will be implemented after the apparent end date of such a streak to allow Politico's data to settle.\n\nThe market will resolve YES only if the original 14-day streak (showing the party at >=30% for the qualifying period) remains valid in Politico's data after this two-week waiting period."
+	},
+	{
+		"id": "8SC68LpLll",
+		"creatorId": "HOAvXlTClZg42XvYejIhHpfd8ry1",
+		"creatorUsername": "Matteo62fb",
+		"creatorName": "DvL_Eversor",
+		"createdTime": 1735829986186,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKukCajUO6w-MN-G6vwX3xHkJ2cfDgIyTL5lXqYWZ6a=s96-c",
+		"closeTime": 1767139200000,
+		"question": "Next major Zelda game revealed before Nintendo Switch 2 release",
+		"slug": "next-major-zelda-game-revealed-befo",
+		"url": "https://manifold.markets/Matteo62fb/next-major-zelda-game-revealed-befo",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066194
+		},
+		"probability": 0.009999999999999978,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1203.6306798351163,
+		"volume24Hours": 410.20813436246874,
+		"isResolved": false,
+		"uniqueBettorCount": 16,
+		"lastUpdatedTime": 1749240731035,
+		"lastBetTime": 1749240731035,
+		"lastCommentTime": 1735834351720,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Market resolves to YES if Nintendo officially announces a new major The Legend of Zelda game before they release the Nintendo Switch 2 console. If no new major Zelda game is announced before Switch 2's release, resolves NO.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Spinoffs, brand remixes, remastered, remakes or DLCs do not count. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If a game is sufficiently unique to not fall in any of the previous categories resolves to YES. The name of the game Must contain \"The Legend of Zelda\" in the title to count.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "References:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Nintendo Direct announcements: ",
+											"type": "text"
+										},
+										{
+											"text": "https://www.nintendo.com/au/news-and-articles/",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://www.nintendo.com/au/news-and-articles/",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Switch 2 speculation: ",
+											"type": "text"
+										},
+										{
+											"text": "https://comicbook.com/gaming/news/nintendo-switch-2025-zelda-echoes-of-wisdom-artwork/",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://comicbook.com/gaming/news/nintendo-switch-2025-zelda-echoes-of-wisdom-artwork/",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Matteo62fb/6Os9uQzgUh.jpg",
+		"groupSlugs": [
+			"gaming",
+			"nintendo",
+			"nintendo-switch",
+			"the-legend-of-zelda-tears-of-the-ki"
+		],
+		"textDescription": "Market resolves to YES if Nintendo officially announces a new major The Legend of Zelda game before they release the Nintendo Switch 2 console. If no new major Zelda game is announced before Switch 2's release, resolves NO.\n\nSpinoffs, brand remixes, remastered, remakes or DLCs do not count. \n\nIf a game is sufficiently unique to not fall in any of the previous categories resolves to YES. The name of the game Must contain \"The Legend of Zelda\" in the title to count.\n\nReferences:\n\nNintendo Direct announcements: https://www.nintendo.com/au/news-and-articles/\n\nSwitch 2 speculation: https://comicbook.com/gaming/news/nintendo-switch-2025-zelda-echoes-of-wisdom-artwork/"
+	},
+	{
+		"id": "dhRqyStPs8",
+		"creatorId": "PvxpXt0CR2YF6i7oVYFk6OWYjC43",
+		"creatorUsername": "miriviei",
+		"creatorName": "miriviei",
+		"createdTime": 1749270082191,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJyrbs_bq3yDcCzZWZAAKbMNC1LQfpWUPVZNOsbBO4490qLon8J=s96-c",
+		"closeTime": 1793520000000,
+		"question": "what will the sat score that minos submits to colleges be?",
+		"slug": "what-will-the-sat-score-that-minos",
+		"url": "https://manifold.markets/miriviei/what-will-the-sat-score-that-minos",
+		"totalLiquidity": 150,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 5026.451171174772,
+		"volume24Hours": 5026.451171174773,
+		"isResolved": false,
+		"uniqueBettorCount": 5,
+		"lastUpdatedTime": 1749274010596,
+		"lastBetTime": 1749274010596,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "good luck minos!",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"textDescription": "good luck minos!"
+	},
+	{
+		"id": "l0yAzQ9huA",
+		"creatorId": "zKfzKWaYN9Yy3QucQTTjcUG1tQ83",
+		"creatorUsername": "waitblock",
+		"creatorName": "Ethan",
+		"createdTime": 1748993176439,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLbSshI8IYsJzuXbBveS59VrZWvEj47LIFffyFA4v0g9-QUYoom=s96-c",
+		"closeTime": 1749240321617,
+		"question": "AVGO closes at or above $262 on June 6th?",
+		"slug": "avgo-closes-at-or-above-262-on-june",
+		"url": "https://manifold.markets/waitblock/avgo-closes-at-or-above-262-on-june",
+		"pool": {
+			"NO": 10.008570652906622,
+			"YES": 999.1436686412264
+		},
+		"probability": 0.009917800568829203,
+		"p": 0.4999999999999999,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 985.3091355097382,
+		"volume24Hours": 295.0292446063069,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1749240321617,
+		"resolutionProbability": 0.009917800568829205,
+		"resolverId": "zKfzKWaYN9Yy3QucQTTjcUG1tQ83",
+		"uniqueBettorCount": 4,
+		"lastUpdatedTime": 1749240321617,
+		"lastBetTime": 1749229608246,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves based on ",
+							"type": "text"
+						},
+						{
+							"text": "https://finance.yahoo.com/quote/AVGO/history/",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://finance.yahoo.com/quote/AVGO/history/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " using \"Close\", not \"Adj Close\".",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close price >= 262.00 USD resolves YES.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close price < 262.00 USD resolves NO.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"big-tech",
+			"finance",
+			"tech-stocks",
+			"stocks"
+		],
+		"textDescription": "Resolves based on https://finance.yahoo.com/quote/AVGO/history/ using \"Close\", not \"Adj Close\".\n\nClose price >= 262.00 USD resolves YES.\n\nClose price < 262.00 USD resolves NO."
+	},
+	{
+		"id": "QONOIgutCO",
+		"creatorId": "pIjBi2Hwe5Pl98pNjFB1geMAXZ92",
+		"creatorUsername": "ErikWilliams",
+		"creatorName": "Erik Williams",
+		"createdTime": 1741296949604,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AAcHTtfjgSbMfG_yiZEGGGWR0ZPvMEwL4D2BY4ouBYDeqXFN1Bo=s96-c",
+		"closeTime": 1749234088427,
+		"question": "Will Elon be removed as CEO of Tesla by June 1st, 2025?",
+		"slug": "will-elon-be-removed-as-ceo-of-tesl",
+		"url": "https://manifold.markets/ErikWilliams/will-elon-be-removed-as-ceo-of-tesl",
+		"pool": {
+			"NO": 93.77761396731057,
+			"YES": 10663.525735988169
+		},
+		"probability": 0.008717576414510864,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 28265.132745736322,
+		"volume24Hours": 630.0000000000018,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1749234088427,
+		"resolutionProbability": 0.008717576414510864,
+		"resolverId": "Gg7t9vPD4WPD1iPgj9RUFLYTxgH2",
+		"uniqueBettorCount": 49,
+		"lastUpdatedTime": 1749234088427,
+		"lastBetTime": 1749221491216,
+		"lastCommentTime": 1749144373848,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Elon Musk has been CEO of Tesla since 2008, when he took over from Ze'ev Drori. As of early 2024, Musk owns approximately 13% of Tesla's shares and maintains significant influence over the company's board of directors.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "There has been growing dissatisfaction among some Tesla shareholders regarding Musk's leadership, particularly concerning his divided attention between multiple companies (including SpaceX, X/Twitter, Neuralink, and The Boring Company) and controversial public statements that have at times affected Tesla's stock price.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Recent reports indicate some momentum among shareholders considering Musk's removal, though his substantial ownership stake and control over the board create significant barriers to such action.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve as YES if Elon Musk is officially removed from or voluntarily steps down from the position of Chief Executive Officer (CEO) of Tesla, Inc. before or on June 1st, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve as NO if Elon Musk remains CEO of Tesla, Inc. on June 1st, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For clarity:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "A temporary leave of absence where Musk remains the official CEO will NOT count as removal",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "If Musk changes his title but effectively remains the top executive (similar to when he briefly adopted the title \"Technoking\"), this will NOT count as removal",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "If Tesla's board announces Musk's removal before June 1st, 2025, but the effective date is after June 1st, 2025, this market will resolve as NO",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"elon-musk-14d9d9498c7e",
+			"politics-default",
+			"technology-default",
+			"business"
+		],
+		"textDescription": "Background\n\nElon Musk has been CEO of Tesla since 2008, when he took over from Ze'ev Drori. As of early 2024, Musk owns approximately 13% of Tesla's shares and maintains significant influence over the company's board of directors.\n\nThere has been growing dissatisfaction among some Tesla shareholders regarding Musk's leadership, particularly concerning his divided attention between multiple companies (including SpaceX, X/Twitter, Neuralink, and The Boring Company) and controversial public statements that have at times affected Tesla's stock price.\n\nRecent reports indicate some momentum among shareholders considering Musk's removal, though his substantial ownership stake and control over the board create significant barriers to such action.\n\nResolution Criteria\n\nThis market will resolve as YES if Elon Musk is officially removed from or voluntarily steps down from the position of Chief Executive Officer (CEO) of Tesla, Inc. before or on June 1st, 2025.\n\nThe market will resolve as NO if Elon Musk remains CEO of Tesla, Inc. on June 1st, 2025.\n\nFor clarity:\n\nA temporary leave of absence where Musk remains the official CEO will NOT count as removal\n\nIf Musk changes his title but effectively remains the top executive (similar to when he briefly adopted the title \"Technoking\"), this will NOT count as removal\n\nIf Tesla's board announces Musk's removal before June 1st, 2025, but the effective date is after June 1st, 2025, this market will resolve as NO"
+	},
+	{
+		"id": "RyUAUtUPRc",
+		"creatorId": "mrEzcyRxhBfM4zkbAPVfG767NYf1",
+		"creatorUsername": "polymathematic",
+		"creatorName": "Tim",
+		"createdTime": 1748226946652,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fpolymathematic%2FkWvDbAGSpm.png?alt=media&token=0de59823-8938-4f89-8922-e4560363c896",
+		"closeTime": 1749223695914,
+		"question": "Will the 2025 French Open have a first time men's major finalist?",
+		"slug": "will-the-2025-french-open-have-a-fi",
+		"url": "https://manifold.markets/polymathematic/will-the-2025-french-open-have-a-fi",
+		"pool": {
+			"NO": 100.50378152592111,
+			"YES": 9949.8743710662
+		},
+		"probability": 0.009999999999999993,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14243.599372890129,
+		"volume24Hours": 11601.135901409298,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1749223695914,
+		"resolutionProbability": 0.009999999999999993,
+		"resolverId": "mrEzcyRxhBfM4zkbAPVfG767NYf1",
+		"uniqueBettorCount": 9,
+		"lastUpdatedTime": 1749223695914,
+		"lastBetTime": 1749223689476,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if at least one of the two players competing in the men's singles final of the 2025 French Open has never previously reached a Grand Slam final. Otherwise, it will resolve to \"No.\" The official tournament website and reputable sports news outlets will serve as sources for verification.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The 2025 French Open is scheduled from May 25 to June 8 at Roland Garros in Paris. Carlos Alcaraz is the defending men's singles champion, having won his first French Open title in 2024 by defeating Alexander Zverev in a five-set final. (",
+							"type": "text"
+						},
+						{
+							"text": "apnews.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://apnews.com/article/84b987ef5a0bf17c2d188a5a9bbd2d28?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") Notable players such as Novak Djokovic, aiming for a record 25th major singles title, and Jannik Sinner, the current world No. 1, are also participating. (",
+							"type": "text"
+						},
+						{
+							"text": "en.wikipedia.org",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/2025_French_Open_%E2%80%93_Men%27s_singles?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Historically, the French Open has seen a mix of seasoned champions and first-time finalists. For instance, in 2024, Alexander Zverev reached his first French Open final. (",
+							"type": "text"
+						},
+						{
+							"text": "apnews.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://apnews.com/article/84b987ef5a0bf17c2d188a5a9bbd2d28?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") The absence of Rafael Nadal, who retired in 2024 after securing 14 French Open titles, may open opportunities for emerging players to advance further in the tournament. (",
+							"type": "text"
+						},
+						{
+							"text": "lemonde.fr",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.lemonde.fr/en/sports/article/2024/10/10/rafael-nadal-the-clay-court-gladiator-announces-his-retirement_6728945_9.html?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"sports-default",
+			"atp-tour",
+			"french-open-roland-garros",
+			"tennis",
+			"sports-betting"
+		],
+		"textDescription": "Resolution criteria\n\nThis market will resolve to \"Yes\" if at least one of the two players competing in the men's singles final of the 2025 French Open has never previously reached a Grand Slam final. Otherwise, it will resolve to \"No.\" The official tournament website and reputable sports news outlets will serve as sources for verification.\n\nBackground\n\nThe 2025 French Open is scheduled from May 25 to June 8 at Roland Garros in Paris. Carlos Alcaraz is the defending men's singles champion, having won his first French Open title in 2024 by defeating Alexander Zverev in a five-set final. (apnews.com) Notable players such as Novak Djokovic, aiming for a record 25th major singles title, and Jannik Sinner, the current world No. 1, are also participating. (en.wikipedia.org)\n\nConsiderations\n\nHistorically, the French Open has seen a mix of seasoned champions and first-time finalists. For instance, in 2024, Alexander Zverev reached his first French Open final. (apnews.com) The absence of Rafael Nadal, who retired in 2024 after securing 14 French Open titles, may open opportunities for emerging players to advance further in the tournament. (lemonde.fr)"
+	},
+	{
+		"id": "LUEq9EsChd",
+		"creatorId": "1tiQgOT554PvqUekWxmF2UAdqoi2",
+		"creatorUsername": "Robincvgr",
+		"creatorName": "Robin🏴‍☠️💼🩸",
+		"createdTime": 1748886975662,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FRobincvgr%2F1zMNRUHrLv.png?alt=media&token=824a643d-8c46-4101-a7cc-8fed38323769",
+		"closeTime": 1751500740000,
+		"question": "What will my (@Robincvgr) League ranking (Masters) for June be?",
+		"slug": "what-will-my-robincvgr-league-ranki-UgO9P5yCzl",
+		"url": "https://manifold.markets/Robincvgr/what-will-my-robincvgr-league-ranki-UgO9P5yCzl",
+		"totalLiquidity": 1100,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 4149.180276474624,
+		"volume24Hours": 1465.180276474624,
+		"isResolved": false,
+		"uniqueBettorCount": 4,
+		"lastUpdatedTime": 1749240510801,
+		"lastBetTime": 1749240510801,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://manifold.markets/leagues/26/masters/innovative-bulls",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/leagues/26/masters/innovative-bulls",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"personal",
+			"personal-goals",
+			"manifold-6748e065087e",
+			"manifold-users",
+			"manifold-leagues",
+			"nonpredictive"
+		],
+		"textDescription": "https://manifold.markets/leagues/26/masters/innovative-bulls"
+	},
+	{
+		"id": "L6glZ5cspd",
+		"creatorId": "xh2QtJ0WuKQFK3nyXsxDRxBhqYB3",
+		"creatorUsername": "vitamind",
+		"creatorName": "IY",
+		"createdTime": 1747937440119,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fvitamind%2FvODuE_IyRW.jpeg?alt=media&token=ddb9f5c7-1692-43d6-9977-5917b2772a78",
+		"closeTime": 1749686340000,
+		"question": "Will Joe Biden appear in public before June 12, 2025?",
+		"slug": "will-joe-biden-appear-in-public-bef",
+		"url": "https://manifold.markets/vitamind/will-joe-biden-appear-in-public-bef",
+		"pool": {
+			"NO": 9560.47297561141,
+			"YES": 104.59733556603115
+		},
+		"probability": 0.9891777987952072,
+		"p": 0.4999999999999983,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 22087.47404143272,
+		"volume24Hours": 17565.294287649307,
+		"isResolved": false,
+		"uniqueBettorCount": 41,
+		"lastUpdatedTime": 1749276232322,
+		"lastBetTime": 1749276232322,
+		"lastCommentTime": 1749190637930,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"technology-default",
+			"donald-trump",
+			"the-life-of-biden",
+			"politics-default",
+			"us-politics"
+		],
+		"textDescription": ""
+	}
+]
