@@ -1,0 +1,845 @@
+[
+	{
+		"id": "P3TB0TNlknq4GgNGNliu",
+		"creatorId": "acvO0NAsghTTgGjnsdwt94O44OT2",
+		"creatorUsername": "vluzko",
+		"creatorName": "Vincent Luczkow",
+		"createdTime": 1683232365852,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FVincentLuczkow%2Fstokes-cartan.png?alt=media&token=93d07b87-c3f3-4e66-bf7b-ff4904405776",
+		"closeTime": 1767254400000,
+		"question": "Putnam Top 100 #2: Will any AI score in the top 100 Putnam scorers by start of 2026?",
+		"slug": "putnam-top-100-2-will-any-ai-score",
+		"url": "https://manifold.markets/vluzko/putnam-top-100-2-will-any-ai-score",
+		"pool": {
+			"NO": 9706.786311641137,
+			"YES": 9547.355920809507
+		},
+		"probability": 0.8736914930292334,
+		"p": 0.871852569578913,
+		"totalLiquidity": 10070,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1136.503384210894,
+		"volume24Hours": 895.503384210894,
+		"isResolved": false,
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1749942714419,
+		"lastBetTime": 1749942714419,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Putnam exam link",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.maa.org/math-competitions/william-lowell-putnam-mathematical-competition",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ". Note that it happens every December.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The AI must score in the top 100 for a particular year.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "By \"top 100\" I mean that its score must be >= the score of the 100th place scorer. (If 100th place is a tie I'll use the tying score).",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "If",
+											"type": "text",
+											"marks": [
+												{
+													"type": "italic"
+												}
+											]
+										},
+										{
+											"text": " we know the details of the training date, then the training data must all have been released prior to the release of the Putnam questions for that year. i.e. if ModelNet is run on the 2026 Putnam, it must be trained on data from before the date of the 2026 Putnam exam.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The AI does ",
+											"type": "text"
+										},
+										{
+											"text": "not",
+											"type": "text",
+											"marks": [
+												{
+													"type": "italic"
+												}
+											]
+										},
+										{
+											"text": " have to be ",
+											"type": "text"
+										},
+										{
+											"text": "trained",
+											"type": "text",
+											"marks": [
+												{
+													"type": "italic"
+												}
+											]
+										},
+										{
+											"text": " before the relevant exam, as long as the data predates the exam.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The scoring for the AI's exam must either be done by the actual Putnam scorers, mathematicians who ",
+											"type": "text"
+										},
+										{
+											"text": "have",
+											"type": "text",
+											"marks": [
+												{
+													"type": "italic"
+												}
+											]
+										},
+										{
+											"text": " been Putnam scorers, or mathematicians who are actively involved in competitive mathematics in some way. (i.e. a professor who runs a university's competitive team counts, a software engineer who did well in the Putnam 5 years ago does not).",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "I ",
+											"type": "text"
+										},
+										{
+											"text": "may",
+											"type": "text",
+											"marks": [
+												{
+													"type": "italic"
+												}
+											]
+										},
+										{
+											"text": " accept scoring that isn't blinded, but I reserve the right to ignore any scoring that's vaguely suspect/biased/etc.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FwQXvXXlxnd.png?alt=media&token=1d0a517d-8a7a-4105-b694-fcb8b0170a76",
+		"groupSlugs": [
+			"technical-ai-timelines",
+			"ai"
+		],
+		"textDescription": "Putnam exam link. Note that it happens every December.\n\nThe AI must score in the top 100 for a particular year.\n\nBy \"top 100\" I mean that its score must be >= the score of the 100th place scorer. (If 100th place is a tie I'll use the tying score).\n\nIf we know the details of the training date, then the training data must all have been released prior to the release of the Putnam questions for that year. i.e. if ModelNet is run on the 2026 Putnam, it must be trained on data from before the date of the 2026 Putnam exam.\n\nThe AI does not have to be trained before the relevant exam, as long as the data predates the exam.\n\nThe scoring for the AI's exam must either be done by the actual Putnam scorers, mathematicians who have been Putnam scorers, or mathematicians who are actively involved in competitive mathematics in some way. (i.e. a professor who runs a university's competitive team counts, a software engineer who did well in the Putnam 5 years ago does not).\n\nI may accept scoring that isn't blinded, but I reserve the right to ignore any scoring that's vaguely suspect/biased/etc.\n\n"
+	},
+	{
+		"id": "zPh5O9utsO",
+		"creatorId": "zssVPLqijpVK2ZUriKKznMW2mhS2",
+		"creatorUsername": "TenShino",
+		"creatorName": "Ten Shino🆗",
+		"createdTime": 1748888429272,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FTenShino%2FkbjNjtuPVK.jpg?alt=media&token=ce1accbd-8dfb-4e83-8424-528692c038d2",
+		"closeTime": 1750031940000,
+		"question": "Will the Freedom Flotilla reach Gaza by June 15, 2025?",
+		"slug": "will-the-freedom-flotilla-reach-gaz",
+		"url": "https://manifold.markets/TenShino/will-the-freedom-flotilla-reach-gaz",
+		"pool": {
+			"NO": 371.27028105620053,
+			"YES": 13921.386775372173
+		},
+		"probability": 0.009764714425253852,
+		"p": 0.26994216551837247,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 13987.421295798385,
+		"volume24Hours": 1.614804754545689,
+		"isResolved": false,
+		"uniqueBettorCount": 36,
+		"lastUpdatedTime": 1749920823370,
+		"lastBetTime": 1749920823370,
+		"lastCommentTime": 1749413133663,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Freedom Flotilla Coalition, including activists like Greta Thunberg and actor Liam Cunningham, plans to sail to Gaza to deliver aid. Previous flotillas have faced interceptions. This market resolves YES if the flotilla reaches Gaza by June 15, 2025.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"world-default",
+			"arabisraeli-conflict",
+			"news",
+			"israelhamas-conflict-2023",
+			"israel"
+		],
+		"textDescription": "The Freedom Flotilla Coalition, including activists like Greta Thunberg and actor Liam Cunningham, plans to sail to Gaza to deliver aid. Previous flotillas have faced interceptions. This market resolves YES if the flotilla reaches Gaza by June 15, 2025."
+	},
+	{
+		"id": "cnyEAqE29l",
+		"creatorId": "PzsQWyEwpNgPRd6PbJmWFd3mEz23",
+		"creatorUsername": "100Anonymous",
+		"creatorName": "Anonymous",
+		"createdTime": 1745575840056,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLEPSwAEjSQw3941zO-PUJaNGfU6hIx3SYjlzSB9-c=s96-c",
+		"closeTime": 1767225540000,
+		"question": "GPT-6 release by 2026?",
+		"slug": "gpt6-release-by-2026",
+		"url": "https://manifold.markets/100Anonymous/gpt6-release-by-2026",
+		"pool": {
+			"NO": 10.439664079560636,
+			"YES": 957.8852273205353
+		},
+		"probability": 0.010781158444110624,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1034.751642792381,
+		"volume24Hours": 820.8822307523214,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1749874525390,
+		"lastBetTime": 1749874525390,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"textDescription": ""
+	},
+	{
+		"id": "2P6qgpANs6",
+		"creatorId": "9pduED6AAYSDeHBRRvMNxONVzMJ2",
+		"creatorUsername": "Quroe",
+		"creatorName": "Quroe 🫘",
+		"createdTime": 1748104508943,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJg8aYkK2Eda5l9we4JJ_Q_wClTY2k9cHpy6jNUymbUB5RV=s96-c",
+		"closeTime": 1893474000000,
+		"question": "How many jelly beans are in this jar? Veritasium Challenge, Low Resolution",
+		"slug": "how-many-jelly-beans-are-in-this-ja",
+		"url": "https://manifold.markets/Quroe/how-many-jelly-beans-are-in-this-ja",
+		"totalLiquidity": 1200,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 100837.42719835577,
+		"volume24Hours": 1377.63970202885,
+		"isResolved": false,
+		"uniqueBettorCount": 176,
+		"lastUpdatedTime": 1749938187095,
+		"lastBetTime": 1749938187095,
+		"lastCommentTime": 1749050490201,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The YouTube channel ",
+							"type": "text"
+						},
+						{
+							"text": "Veritasium",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://youtube.com/@veritasium?si=m7XkMe6bwt5-E562",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " made a ",
+							"type": "text"
+						},
+						{
+							"text": "community post",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA/community?lb=UgkxvhEpj8SdghudrSoxyJdJOEGCjpeFLD4U",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " asking people to guess how many jelly beans are in a jar. Traders are encouraged to submit their own guesses via the link. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "See the jar here: ",
+							"type": "text"
+						},
+						{
+							"text": "https://www.veritasiumjellybeans.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.veritasiumjellybeans.com",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Companion market:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/Quroe/how-many-jelly-beans-are-in-this-ja-OUnuy9zORR?play=true",
+						"frameBorder": 0
+					}
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Outcome will be verified via media produced by Veritasium. If this information is not made public before January 1, 2030, then all market answers resolve N/A. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Market Creator has no relation to Veritasium nor has knowledge of the correct answer at time of market creation. Market Creator may only trade on this market after 1 week of operation or after 10 unique traders have traded, whichever happens first. Market Creator cannot trade between knowing the correct answer and resolving the market. Market Creator or Mods may halt trading if Veritasium announces an imminent release of the correct answer. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"guessing-game",
+			"youtube",
+			"veritasium",
+			"fun",
+			"science-default"
+		],
+		"textDescription": "The YouTube channel Veritasium made a community post asking people to guess how many jelly beans are in a jar. Traders are encouraged to submit their own guesses via the link. \n\nSee the jar here: https://www.veritasiumjellybeans.com\n\nCompanion market:\n\n(https://manifold.markets/embed/Quroe/how-many-jelly-beans-are-in-this-ja-OUnuy9zORR?play=true)Outcome will be verified via media produced by Veritasium. If this information is not made public before January 1, 2030, then all market answers resolve N/A. \n\nThe Market Creator has no relation to Veritasium nor has knowledge of the correct answer at time of market creation. Market Creator may only trade on this market after 1 week of operation or after 10 unique traders have traded, whichever happens first. Market Creator cannot trade between knowing the correct answer and resolving the market. Market Creator or Mods may halt trading if Veritasium announces an imminent release of the correct answer. "
+	},
+	{
+		"id": "tPyn05ZAgL",
+		"creatorId": "AgrPlc2VNxZsP0lT3LCk4E7tFza2",
+		"creatorUsername": "DanielFox9fff",
+		"creatorName": "Daniel Fox",
+		"createdTime": 1730407822108,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKr20X2_KWfUnifH6Fc3rwkAAF0ne271BX4y6NinXmR=s96-c",
+		"closeTime": 1749937891896,
+		"question": "Will Israel strike Iran's nuclear facilities before the end of 2025?",
+		"slug": "will-israel-strike-irans-nuclear-fa",
+		"url": "https://manifold.markets/DanielFox9fff/will-israel-strike-irans-nuclear-fa",
+		"pool": {
+			"NO": 85212.33477947173,
+			"YES": 508.02216407592005
+		},
+		"probability": 0.9918395880449211,
+		"p": 0.42016169282556737,
+		"totalLiquidity": 10000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 398552.1621198301,
+		"volume24Hours": 59.68156637244965,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1749937891896,
+		"resolutionProbability": 0.9918395880449211,
+		"resolverId": "AgrPlc2VNxZsP0lT3LCk4E7tFza2",
+		"uniqueBettorCount": 346,
+		"lastUpdatedTime": 1749938084169,
+		"lastBetTime": 1749923674704,
+		"lastCommentTime": 1749938084118,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "A nuclear site is any Iranian facility used for the development, enrichment, storage, or processing of nuclear material or technology, including reactors, enrichment facilities, uranium mines, and research centers located on Iranian soil.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Such a strike must be widely assumed to be perpetrated by Israel and must cause clear physical damage as a direct goal of the attack. It must take place after the creation of this market and before 01/01/2026. Will resolve according to time the attack took place, not time of reporting.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If there is ambiguity I will use my personal best judgement. I will not bet on this market.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/DanielFox9fff/S96QOhyOLC.jpg",
+		"groupSlugs": [
+			"wars",
+			"israel",
+			"arabisraeli-conflict",
+			"iran",
+			"middle-east"
+		],
+		"textDescription": "A nuclear site is any Iranian facility used for the development, enrichment, storage, or processing of nuclear material or technology, including reactors, enrichment facilities, uranium mines, and research centers located on Iranian soil.\n\nSuch a strike must be widely assumed to be perpetrated by Israel and must cause clear physical damage as a direct goal of the attack. It must take place after the creation of this market and before 01/01/2026. Will resolve according to time the attack took place, not time of reporting.\n\nIf there is ambiguity I will use my personal best judgement. I will not bet on this market."
+	},
+	{
+		"id": "ldlax8l9at",
+		"creatorId": "oPxjIzlvC5fRbGCaVgkvAiyoXBB2",
+		"creatorUsername": "mattyb",
+		"creatorName": "Matt",
+		"createdTime": 1724115556606,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fmattyb%2Feq8TCTaQW_.jpeg?alt=media&token=b8632c4a-5f41-4148-a6aa-3b42c0d89c03",
+		"closeTime": 1767254340000,
+		"question": "Will there be an assassination of an American politician by the end of 2025?",
+		"slug": "will-there-be-an-assassination-of-a-f2msv73wj7",
+		"url": "https://manifold.markets/mattyb/will-there-be-an-assassination-of-a-f2msv73wj7",
+		"pool": {
+			"NO": 1373.8865872668011,
+			"YES": 7.278621170539282
+		},
+		"probability": 0.9947300865051659,
+		"p": 0.5000000000000007,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1680.1514399500952,
+		"volume24Hours": 387.614362810948,
+		"isResolved": false,
+		"uniqueBettorCount": 24,
+		"lastUpdatedTime": 1749915682178,
+		"lastBetTime": 1749915682178,
+		"lastCommentTime": 1749915337285,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "According to Wikipedia",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/List_of_assassinated_American_politicians",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ", there have been 58 assassinated American politicians, with the most recent being ",
+							"type": "text"
+						},
+						{
+							"text": "Linda Collins",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/Linda_Collins",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " in 2019.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will there be another American political assassination by the end of 2025 (as ",
+							"type": "text"
+						},
+						{
+							"text": "determined by Wikipedia",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/List_of_assassinated_American_politicians",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")?",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-politics",
+			"politics-default",
+			"2024-us-presidential-election",
+			"death-markets",
+			"death",
+			"us-democracy"
+		],
+		"textDescription": "According to Wikipedia, there have been 58 assassinated American politicians, with the most recent being Linda Collins in 2019.\n\nWill there be another American political assassination by the end of 2025 (as determined by Wikipedia)?"
+	},
+	{
+		"id": "RdgcNp8c9s",
+		"creatorId": "fUyBI82abSaDc2tkl3CY7u1KuC12",
+		"creatorUsername": "dannyridel44",
+		"creatorName": "Daniel L",
+		"createdTime": 1748155525300,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5NanHdm4Ks7vCSzVh-3DuTr57N1slmmyrSusto=s96-c",
+		"closeTime": 1749969720000,
+		"question": "NSBA 3 total player signups?",
+		"slug": "nsba-3-player-signups-total",
+		"url": "https://manifold.markets/dannyridel44/nsba-3-player-signups-total",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 17051.10274958287,
+		"volume24Hours": 7153.004816402723,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1749944999424,
+		"lastBetTime": 1749944999424,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "National Science Bowl Association's third edition.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Further information including player signups will be released around June 1st.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve when signups close and will be based on how many players FINISH THE COMBINE.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"science-bowl",
+			"nsba"
+		],
+		"textDescription": "National Science Bowl Association's third edition.\n\nFurther information including player signups will be released around June 1st.\n\nThe market will resolve when signups close and will be based on how many players FINISH THE COMBINE."
+	},
+	{
+		"id": "89IgtNns2I",
+		"creatorId": "kUyw5MFyZ5PYXXkGstvEMVTvwCe2",
+		"creatorUsername": "georgehQzR",
+		"creatorName": "george",
+		"createdTime": 1748991089932,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZNz6y7Zdf3xgD4TsJjSA1dsvQ_n5jlu5e5TVBSWD9BQT0F5ng=s96-c",
+		"closeTime": 1749904937107,
+		"question": "Will this other market trade below 50.0%?",
+		"slug": "will-this-market-trade-below-500",
+		"url": "https://manifold.markets/georgehQzR/will-this-market-trade-below-500",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066194
+		},
+		"probability": 0.009999999999999985,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1052.6127919303678,
+		"volume24Hours": 631.7823563497316,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1749904937107,
+		"resolutionProbability": 0.009999999999999983,
+		"resolverId": "kUyw5MFyZ5PYXXkGstvEMVTvwCe2",
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1749904937107,
+		"lastBetTime": 1749893401315,
+		"lastCommentTime": 1749743447331,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will this market [",
+							"type": "text"
+						},
+						{
+							"text": "https://manifold.markets/georgehQzR/will-this-market-trade-at-500-or-ab",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/georgehQzR/will-this-market-trade-at-500-or-ab",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "] trade below 50.0% at the 11th of June 19:00 ET",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "The trading chart history at exactly 19:00 (the last time it displays 19:00 just before it displays 19:01 for the first time) will be used and there will be a 3 day arbitration process in case I screw up or someone objects, I will also not trade in either market. So the closing date is the 14th.",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-06-12 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/georgehQzR/will-this-market-trade-below-500#0if9e0ountm8",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): The creator is about to resolve the market. See the ",
+											"type": "text"
+										},
+										{
+											"text": "linked comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " for more details.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"manifold-6748e065087e",
+			"fun",
+			"nonpredictive"
+		],
+		"textDescription": "Will this market [https://manifold.markets/georgehQzR/will-this-market-trade-at-500-or-ab] trade below 50.0% at the 11th of June 19:00 ET\nThe trading chart history at exactly 19:00 (the last time it displays 19:00 just before it displays 19:01 for the first time) will be used and there will be a 3 day arbitration process in case I screw up or someone objects, I will also not trade in either market. So the closing date is the 14th.\n\n\nUpdate 2025-06-12 (PST) (AI summary of creator comment): The creator is about to resolve the market. See the linked comment for more details."
+	}
+]
