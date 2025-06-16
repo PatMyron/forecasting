@@ -1,0 +1,1699 @@
+[
+	{
+		"id": "CO9gROSPqE",
+		"creatorId": "MJSWJeLiUuVJx2I04pm6HvDT7Kv1",
+		"creatorUsername": "JimAusman",
+		"creatorName": "Jim",
+		"createdTime": 1749430953032,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJimAusman%2F127SmR_r4z.jpeg?alt=media&token=8eb49cd3-24f2-4eb8-902c-9c3e2d7602ee",
+		"closeTime": 1750035660000,
+		"question": "Will the National Guard kill anyone in the next week?",
+		"slug": "will-the-national-guard-kill-anyone",
+		"url": "https://manifold.markets/JimAusman/will-the-national-guard-kill-anyone",
+		"pool": {
+			"NO": 96.5809190271342,
+			"YES": 10354.012056139769
+		},
+		"probability": 0.009241668798759426,
+		"p": 0.5000000000000006,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 41458.3442429695,
+		"volume24Hours": 9473.965002069071,
+		"isResolved": false,
+		"uniqueBettorCount": 216,
+		"lastUpdatedTime": 1750023480486,
+		"lastBetTime": 1750023480486,
+		"lastCommentTime": 1749914597774,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Confirmed by reporting in the Wall Street Journal.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-06-10 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/JimAusman/will-the-national-guard-kill-anyone#ok7okh0zq5",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): * ",
+											"type": "text"
+										},
+										{
+											"text": "Accidental deaths",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " will ",
+											"type": "text"
+										},
+										{
+											"text": "not",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " count.",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Incidents involving ",
+															"type": "text"
+														},
+														{
+															"text": "off-duty",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " personnel will ",
+															"type": "text"
+														},
+														{
+															"text": "not",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " count.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "The creator will use their judgment to determine if a killing was ",
+															"type": "text"
+														},
+														{
+															"text": "accidental",
+															"type": "text",
+															"marks": [
+																{
+																	"type": "bold"
+																}
+															]
+														},
+														{
+															"text": " in case of a dispute.",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-politics"
+		],
+		"textDescription": "Confirmed by reporting in the Wall Street Journal.\n\nUpdate 2025-06-10 (PST) (AI summary of creator comment): * Accidental deaths will not count.\n\nIncidents involving off-duty personnel will not count.\n\nThe creator will use their judgment to determine if a killing was accidental in case of a dispute."
+	},
+	{
+		"id": "RdgcNp8c9s",
+		"creatorId": "fUyBI82abSaDc2tkl3CY7u1KuC12",
+		"creatorUsername": "dannyridel44",
+		"creatorName": "Daniel L",
+		"createdTime": 1748155525300,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/AEdFTp5NanHdm4Ks7vCSzVh-3DuTr57N1slmmyrSusto=s96-c",
+		"closeTime": 1749969720000,
+		"question": "NSBA 3 total player signups?",
+		"slug": "nsba-3-player-signups-total",
+		"url": "https://manifold.markets/dannyridel44/nsba-3-player-signups-total",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 22172.773226244866,
+		"volume24Hours": 5121.670476661995,
+		"isResolved": true,
+		"resolution": "2SQpClCEQN",
+		"resolutionTime": 1750034826168,
+		"resolverId": "fUyBI82abSaDc2tkl3CY7u1KuC12",
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1749969720000,
+		"lastBetTime": 1749967645123,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "National Science Bowl Association's third edition.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Further information including player signups will be released around June 1st.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The market will resolve when signups close and will be based on how many players FINISH THE COMBINE.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"science-bowl",
+			"nsba"
+		],
+		"textDescription": "National Science Bowl Association's third edition.\n\nFurther information including player signups will be released around June 1st.\n\nThe market will resolve when signups close and will be based on how many players FINISH THE COMBINE."
+	},
+	{
+		"id": "0d3fC163Ei0emdDJuRDc",
+		"creatorId": "xULIs4V4S5ag3T5XjHGYXOMfLIm2",
+		"creatorUsername": "CommanderZander",
+		"creatorName": "Zander",
+		"createdTime": 1713833413009,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FCommanderZander%2FP62kU70Utl.jpg?alt=media&token=e4a9e59d-56b3-46c1-b62a-a09d2e78315a",
+		"closeTime": 3155875140000,
+		"question": "When will a spacecraft be launched by non-rocket means?",
+		"slug": "when-will-a-spacecraft-be-launched",
+		"url": "https://manifold.markets/CommanderZander/when-will-a-spacecraft-be-launched",
+		"totalLiquidity": 220,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1215.0881525709042,
+		"volume24Hours": 22.540633358741612,
+		"isResolved": false,
+		"uniqueBettorCount": 9,
+		"lastUpdatedTime": 1750034244576,
+		"lastBetTime": 1750034244576,
+		"lastCommentTime": 1727385446928,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "When will something launch to orbit which is fully or partially lifted by a technology other than rockets or jet engines?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For example:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Rocket launch from lighter-than-air aircraft",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Spinlaunch",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Space elevator",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Launch via railgun",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Nuclear pulse propulsion",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Over 1km tall launch towers",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Details:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The process involves a stage of at least 1 km vertical ascent, within Earth's atmosphere, that is accomplished by a means other than rockets.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The spacecraft must enter Earth orbit or go beyond Earth.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The spacecraft must survive launch & return telemetry to Earth. ",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Technologies that are not novel enough to resolve this question by themselves:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Any rockets that work by expelling matter downwards:",
+											"type": "text"
+										}
+									]
+								},
+								{
+									"type": "bulletList",
+									"content": [
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Nuclear thermal rockets",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Ion engines",
+															"type": "text"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "listItem",
+											"content": [
+												{
+													"type": "paragraph",
+													"content": [
+														{
+															"text": "Air-breathing rockets",
+															"type": "text"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Mountaintop launchpads",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Suborbital flight eg Virgin Galactic",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Launching from a heavier-than-air plane like the Pegasus rocket does",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"space",
+			"commercial-spaceflight"
+		],
+		"textDescription": "When will something launch to orbit which is fully or partially lifted by a technology other than rockets or jet engines?\n\nFor example:\n\nRocket launch from lighter-than-air aircraft\n\nSpinlaunch\n\nSpace elevator\n\nLaunch via railgun\n\nNuclear pulse propulsion\n\nOver 1km tall launch towers\n\nDetails:\n\nThe process involves a stage of at least 1 km vertical ascent, within Earth's atmosphere, that is accomplished by a means other than rockets.\n\nThe spacecraft must enter Earth orbit or go beyond Earth.\n\nThe spacecraft must survive launch & return telemetry to Earth. \n\nTechnologies that are not novel enough to resolve this question by themselves:\n\nAny rockets that work by expelling matter downwards:\n\nNuclear thermal rockets\n\nIon engines\n\nAir-breathing rockets\n\nMountaintop launchpads\n\nSuborbital flight eg Virgin Galactic\n\nLaunching from a heavier-than-air plane like the Pegasus rocket does"
+	},
+	{
+		"id": "uEqIpStOOS",
+		"creatorId": "UokQXUOew0gsobLa3lq5RFGGPTR2",
+		"creatorUsername": "FundedDEMOTBink",
+		"creatorName": "FundedDEMOTBink",
+		"createdTime": 1749258412953,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLiiFqAnEnT6E1CF-BT-9Wlk89jqknE1_yUGA7PE8WdMulQUw=s96-c",
+		"closeTime": 1750010340000,
+		"question": "Bonnie Blue beats sexual record on June 15th with 2000+ men?",
+		"slug": "bonnie-blue-beats-sexual-record-on",
+		"url": "https://manifold.markets/FundedDEMOTBink/bonnie-blue-beats-sexual-record-on",
+		"pool": {
+			"NO": 171.0669336280984,
+			"YES": 8954.358010354066
+		},
+		"probability": 0.009597981760542749,
+		"p": 0.33654763018663375,
+		"totalLiquidity": 729,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 24748.92179688381,
+		"volume24Hours": 62.14213637802601,
+		"isResolved": false,
+		"uniqueBettorCount": 67,
+		"lastUpdatedTime": 1749977985078,
+		"lastBetTime": 1749977985078,
+		"lastCommentTime": 1749858878645,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to Yes if credible media or event organizers publicly confirm that adult performer Bonnie Blue participated in a recorded sexual event on June 15, 2025, involving 2000 or more male participants, and claims to have broken a previous record.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution criteria include:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Public documentation or media reporting by at least one reputable outlet, event sponsor, or organizer.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Confirmation that the event took place on June 15, 2025.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Bonnie Blue explicitly claiming or being credited with breaking the record (e.g., “most sexual partners in a day”).",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Market resolves to No if:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "The event does not occur.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Fewer than 2000 men participate.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "It occurs on a different date.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "There is no verifiable public claim of the record.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"sex-and-love"
+		],
+		"textDescription": "This market resolves to Yes if credible media or event organizers publicly confirm that adult performer Bonnie Blue participated in a recorded sexual event on June 15, 2025, involving 2000 or more male participants, and claims to have broken a previous record.\n\nResolution criteria include:\n\nPublic documentation or media reporting by at least one reputable outlet, event sponsor, or organizer.\n\nConfirmation that the event took place on June 15, 2025.\n\nBonnie Blue explicitly claiming or being credited with breaking the record (e.g., “most sexual partners in a day”).\n\nMarket resolves to No if:\n\nThe event does not occur.\n\nFewer than 2000 men participate.\n\nIt occurs on a different date.\n\nThere is no verifiable public claim of the record."
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1019463.9174089496,
+		"volume24Hours": 54.99999999999636,
+		"isResolved": false,
+		"uniqueBettorCount": 1060,
+		"lastUpdatedTime": 1750031811979,
+		"lastBetTime": 1750031811979,
+		"lastCommentTime": 1748672161252,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "cOsQEIpQ6y",
+		"creatorId": "9pduED6AAYSDeHBRRvMNxONVzMJ2",
+		"creatorUsername": "Quroe",
+		"creatorName": "Quroe 🫘",
+		"createdTime": 1748371284475,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJg8aYkK2Eda5l9we4JJ_Q_wClTY2k9cHpy6jNUymbUB5RV=s96-c",
+		"closeTime": 1893474000000,
+		"question": "How many jelly beans are in this jar? Veritasium Challenge, High Resolution",
+		"slug": "how-many-jelly-beans-are-in-this-ja-OUnuy9zORR",
+		"url": "https://manifold.markets/Quroe/how-many-jelly-beans-are-in-this-ja-OUnuy9zORR",
+		"totalLiquidity": 2000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 88698.37098437206,
+		"volume24Hours": 353.7776107667562,
+		"isResolved": false,
+		"uniqueBettorCount": 140,
+		"lastUpdatedTime": 1750017924103,
+		"lastBetTime": 1750017924103,
+		"lastCommentTime": 1749050455521,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The YouTube channel ",
+							"type": "text"
+						},
+						{
+							"text": "Veritasium",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://youtube.com/@veritasium?si=m7XkMe6bwt5-E562",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " made a ",
+							"type": "text"
+						},
+						{
+							"text": "community post",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA/community?lb=UgkxvhEpj8SdghudrSoxyJdJOEGCjpeFLD4U",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " asking people to guess how many jelly beans are in a jar. Traders are encouraged to submit their own guesses via the link. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "See the jar here: ",
+							"type": "text"
+						},
+						{
+							"text": "https://www.veritasiumjellybeans.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.veritasiumjellybeans.com",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Companion market:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/Quroe/how-many-jelly-beans-are-in-this-ja?play=true",
+						"frameBorder": 0
+					}
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Outcome will be verified via media produced by Veritasium. If this information is not made public before January 1, 2030, then all market answers resolve N/A.  ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Market Creator has no relation to Veritasium nor has knowledge of the correct answer at time of market creation. Market Creator may only trade on this market after 1 week of operation or after 10 unique traders have traded, whichever happens first. Market Creator cannot trade between knowing the correct answer and resolving the market. Market Creator or Mods may halt trading if Veritasium announces an imminent release of the correct answer. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"guessing-game",
+			"youtube",
+			"veritasium",
+			"fun",
+			"science-default"
+		],
+		"textDescription": "The YouTube channel Veritasium made a community post asking people to guess how many jelly beans are in a jar. Traders are encouraged to submit their own guesses via the link. \n\nSee the jar here: https://www.veritasiumjellybeans.com\n\nCompanion market:\n\n(https://manifold.markets/embed/Quroe/how-many-jelly-beans-are-in-this-ja?play=true)Outcome will be verified via media produced by Veritasium. If this information is not made public before January 1, 2030, then all market answers resolve N/A.  \n\nThe Market Creator has no relation to Veritasium nor has knowledge of the correct answer at time of market creation. Market Creator may only trade on this market after 1 week of operation or after 10 unique traders have traded, whichever happens first. Market Creator cannot trade between knowing the correct answer and resolving the market. Market Creator or Mods may halt trading if Veritasium announces an imminent release of the correct answer. "
+	},
+	{
+		"id": "2pRthh5QyL",
+		"creatorId": "qr2JiTM7MQTYxSVsQkDSnm9QXqn1",
+		"creatorUsername": "yuki",
+		"creatorName": "Yuki",
+		"createdTime": 1747635164561,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJUOqPU2YAOLKJMSjFcpe61nQrmRA-W3_tPHNnewhhlj0IDkA=s96-c",
+		"closeTime": 1750226220000,
+		"question": "How many holders will this market have when it closes?",
+		"slug": "how-many-holders-will-this-market-h",
+		"url": "https://manifold.markets/yuki/how-many-holders-will-this-market-h",
+		"totalLiquidity": 225,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 842.9831446884497,
+		"volume24Hours": 35.81189782744893,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1750019136047,
+		"lastBetTime": 1750019136047,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Yet another self-resolving market.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to the number of holders at market close.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Your challenge, as per usual, is to manipulate the market by creating incentives for people to join or leave. I'm curious how people will try to manipulate this given it's a numeric market rather than a simple YES/NO. Hopefully this will be entertaining.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Good luck!",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"fun",
+			"unranked",
+			"selfresolving",
+			"manifold-6748e065087e",
+			"metamarkets",
+			"nonpredictive"
+		],
+		"textDescription": "Yet another self-resolving market.\n\nResolves to the number of holders at market close.\n\nYour challenge, as per usual, is to manipulate the market by creating incentives for people to join or leave. I'm curious how people will try to manipulate this given it's a numeric market rather than a simple YES/NO. Hopefully this will be entertaining.\n\nGood luck!"
+	},
+	{
+		"id": "EdzLppupR5",
+		"creatorId": "Dnd4nISskVOAwBs1jXNsPqVTQ5y1",
+		"creatorUsername": "StevetptC8",
+		"creatorName": "Steve",
+		"createdTime": 1749168547007,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FStevetptC8%2F5EOtLNqRO0.jpg?alt=media&token=19c07920-3aa8-498a-a3d0-0c0034f44686",
+		"closeTime": 1750033150850,
+		"question": "Golf: Will the winner of the 2025 Men's U.S. Open finish under par?",
+		"slug": "golf-will-the-winner-of-the-2025-me",
+		"url": "https://manifold.markets/StevetptC8/golf-will-the-winner-of-the-2025-me",
+		"pool": {
+			"NO": 1074.879593556548,
+			"YES": 9.303367614331748
+		},
+		"probability": 0.9914190058804424,
+		"p": 0.499999999999997,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2110.628650315227,
+		"volume24Hours": 1512.1776269057937,
+		"isResolved": true,
+		"resolution": "YES",
+		"resolutionTime": 1750033150850,
+		"resolutionProbability": 0.9914190058804424,
+		"resolverId": "Dnd4nISskVOAwBs1jXNsPqVTQ5y1",
+		"uniqueBettorCount": 17,
+		"lastUpdatedTime": 1750033150850,
+		"lastBetTime": 1750032613127,
+		"lastCommentTime": 1750032694399,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The 2025 Men's U.S. Open will be held at Oakmont Country Club from June 12th through 15th, 2025. The U.S. Open is traditionally set up to make scoring very difficult with fast greens and long, thick rough and this year looks to be no different. Will the winner of this year's tournament post a cumulative 4-round score of under par (-1 or lower)?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The unlikely event of a playoff at even par will be resolved as a \"No\" as the playoff is not considered for the player's official score.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"sports-default",
+			"golf-major-championships",
+			"sports-betting",
+			"mens-golf",
+			"golf"
+		],
+		"textDescription": "The 2025 Men's U.S. Open will be held at Oakmont Country Club from June 12th through 15th, 2025. The U.S. Open is traditionally set up to make scoring very difficult with fast greens and long, thick rough and this year looks to be no different. Will the winner of this year's tournament post a cumulative 4-round score of under par (-1 or lower)?\n\nThe unlikely event of a playoff at even par will be resolved as a \"No\" as the playoff is not considered for the player's official score."
+	},
+	{
+		"id": "zPh5O9utsO",
+		"creatorId": "zssVPLqijpVK2ZUriKKznMW2mhS2",
+		"creatorUsername": "TenShino",
+		"creatorName": "Ten Shino🆗",
+		"createdTime": 1748888429272,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FTenShino%2FkbjNjtuPVK.jpg?alt=media&token=ce1accbd-8dfb-4e83-8424-528692c038d2",
+		"closeTime": 1750031940000,
+		"question": "Will the Freedom Flotilla reach Gaza by June 15, 2025?",
+		"slug": "will-the-freedom-flotilla-reach-gaz",
+		"url": "https://manifold.markets/TenShino/will-the-freedom-flotilla-reach-gaz",
+		"pool": {
+			"NO": 371.7765299936908,
+			"YES": 13870.177685279257
+		},
+		"probability": 0.009813645004756278,
+		"p": 0.2699421655183724,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 13991.157154244966,
+		"volume24Hours": 3.735858446581582,
+		"isResolved": false,
+		"uniqueBettorCount": 36,
+		"lastUpdatedTime": 1750007219108,
+		"lastBetTime": 1750007219108,
+		"lastCommentTime": 1749413133663,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Freedom Flotilla Coalition, including activists like Greta Thunberg and actor Liam Cunningham, plans to sail to Gaza to deliver aid. Previous flotillas have faced interceptions. This market resolves YES if the flotilla reaches Gaza by June 15, 2025.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"world-default",
+			"arabisraeli-conflict",
+			"news",
+			"israelhamas-conflict-2023",
+			"israel"
+		],
+		"textDescription": "The Freedom Flotilla Coalition, including activists like Greta Thunberg and actor Liam Cunningham, plans to sail to Gaza to deliver aid. Previous flotillas have faced interceptions. This market resolves YES if the flotilla reaches Gaza by June 15, 2025."
+	},
+	{
+		"id": "OghNC09US8",
+		"creatorId": "18S3RHgikAQG8LJyfuqXis8kNWj1",
+		"creatorUsername": "FinnLevett",
+		"creatorName": "Finn Levett",
+		"createdTime": 1750003097656,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FFinnLevett%2FtNdlOIh0zs.jpeg?alt=media&token=9d07db3c-2b7e-4720-80ad-24c366107fd4",
+		"closeTime": 1750017043425,
+		"question": "Will Max Verstappen and George Russell collide during the Canadian Grand Prix?",
+		"slug": "will-max-verstappen-and-george-russ",
+		"url": "https://manifold.markets/FinnLevett/will-max-verstappen-and-george-russ",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066203
+		},
+		"probability": 0.009999999999999966,
+		"p": 0.5,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1019.6934524842775,
+		"volume24Hours": 1029.6934524842775,
+		"isResolved": true,
+		"resolution": "NO",
+		"resolutionTime": 1750017043425,
+		"resolutionProbability": 0.009999999999999966,
+		"resolverId": "18S3RHgikAQG8LJyfuqXis8kNWj1",
+		"uniqueBettorCount": 9,
+		"lastUpdatedTime": 1750017043425,
+		"lastBetTime": 1750016837588,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market will resolve to \"Yes\" if Max Verstappen and George Russell make contact during the 2025 Canadian Grand Prix. This contact does not have to result in significant damage or a driver retirement to qualify for “Yes”. If no notable contact is made, the market will resolve to “No”. The FIA race incident log and live race coverage will be considered to determine the outcome. A collision can occur at any point in the race, not just lap 1 or turn 1. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The 2025 Canadian Grand Prix is scheduled for June 15, 2025, at the Circuit Gilles Villeneuve in Montreal. George Russell secured pole position for the race, with Max Verstappen qualifying second. (",
+							"type": "text"
+						},
+						{
+							"text": "en.wikipedia.org",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.wikipedia.org/wiki/2025_Canadian_Grand_Prix?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In the previous Spanish Grand Prix, Verstappen and Russell were involved in a collision that resulted in a 10-second penalty for Verstappen and three penalty points on his super-licence, bringing him one point away from a race ban. (",
+							"type": "text"
+						},
+						{
+							"text": "reuters.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.reuters.com/sports/formula1/verstappen-one-point-race-ban-after-clash-with-russell-2025-06-01/?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") Despite this, Verstappen has stated he will not alter his aggressive racing style. (",
+							"type": "text"
+						},
+						{
+							"text": "reuters.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.reuters.com/sports/formula1/no-change-verstappen-despite-race-ban-risk-2025-06-13/?utm_source=openai",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Circuit Gilles Villeneuve is known for its tight corners and close racing, which can increase the likelihood of on-track incidents.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Given their recent on-track clashes and the competitive nature of both drivers, there is heightened anticipation regarding their interactions during the Canadian Grand Prix. Traders should consider Verstappen's proximity to a race ban and how this might influence his approach to the race.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"formula-1",
+			"auto-racing",
+			"sports-default",
+			"motorsports"
+		],
+		"textDescription": "Resolution criteria\n\nThis market will resolve to \"Yes\" if Max Verstappen and George Russell make contact during the 2025 Canadian Grand Prix. This contact does not have to result in significant damage or a driver retirement to qualify for “Yes”. If no notable contact is made, the market will resolve to “No”. The FIA race incident log and live race coverage will be considered to determine the outcome. A collision can occur at any point in the race, not just lap 1 or turn 1. \n\nBackground\n\nThe 2025 Canadian Grand Prix is scheduled for June 15, 2025, at the Circuit Gilles Villeneuve in Montreal. George Russell secured pole position for the race, with Max Verstappen qualifying second. (en.wikipedia.org)\n\nIn the previous Spanish Grand Prix, Verstappen and Russell were involved in a collision that resulted in a 10-second penalty for Verstappen and three penalty points on his super-licence, bringing him one point away from a race ban. (reuters.com) Despite this, Verstappen has stated he will not alter his aggressive racing style. (reuters.com)\n\nThe Circuit Gilles Villeneuve is known for its tight corners and close racing, which can increase the likelihood of on-track incidents.\n\nConsiderations\n\nGiven their recent on-track clashes and the competitive nature of both drivers, there is heightened anticipation regarding their interactions during the Canadian Grand Prix. Traders should consider Verstappen's proximity to a race ban and how this might influence his approach to the race."
+	},
+	{
+		"id": "ldlax8l9at",
+		"creatorId": "oPxjIzlvC5fRbGCaVgkvAiyoXBB2",
+		"creatorUsername": "mattyb",
+		"creatorName": "Matt",
+		"createdTime": 1724115556606,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fmattyb%2Feq8TCTaQW_.jpeg?alt=media&token=b8632c4a-5f41-4148-a6aa-3b42c0d89c03",
+		"closeTime": 1767254340000,
+		"question": "Will there be an assassination of an American politician by the end of 2025?",
+		"slug": "will-there-be-an-assassination-of-a-f2msv73wj7",
+		"url": "https://manifold.markets/mattyb/will-there-be-an-assassination-of-a-f2msv73wj7",
+		"pool": {
+			"NO": 1207.9306196044581,
+			"YES": 8.278621170539282
+		},
+		"probability": 0.9931930946641517,
+		"p": 0.49999999999999933,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1681.1514399500952,
+		"volume24Hours": 1,
+		"isResolved": false,
+		"uniqueBettorCount": 24,
+		"lastUpdatedTime": 1749980831490,
+		"lastBetTime": 1749980831490,
+		"lastCommentTime": 1749915337285,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "According to Wikipedia",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/List_of_assassinated_American_politicians",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ", there have been 58 assassinated American politicians, with the most recent being ",
+							"type": "text"
+						},
+						{
+							"text": "Linda Collins",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/Linda_Collins",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " in 2019.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Will there be another American political assassination by the end of 2025 (as ",
+							"type": "text"
+						},
+						{
+							"text": "determined by Wikipedia",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://en.m.wikipedia.org/wiki/List_of_assassinated_American_politicians",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ")?",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-politics",
+			"politics-default",
+			"2024-us-presidential-election",
+			"death-markets",
+			"death",
+			"us-democracy"
+		],
+		"textDescription": "According to Wikipedia, there have been 58 assassinated American politicians, with the most recent being Linda Collins in 2019.\n\nWill there be another American political assassination by the end of 2025 (as determined by Wikipedia)?"
+	}
+]
