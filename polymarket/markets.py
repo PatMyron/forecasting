@@ -1,12 +1,11 @@
 import json
-import requests
 import requests_cache
 from datetime import datetime, timedelta, UTC
-requests_cache.install_cache('cache')
+session = requests_cache.CachedSession()
 offset = 0
 markets, unclosed, soon = [], [], []
-while requests.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
-  for market in requests.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
+while session.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
+  for market in session.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
     markets.append(market)
     if not market['closed']:
       unclosed.append(market)

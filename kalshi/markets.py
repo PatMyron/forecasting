@@ -1,8 +1,9 @@
 import json
 import requests
 from datetime import datetime, timedelta, UTC
+session = requests.Session()
 url = 'https://api.elections.kalshi.com/trade-api/v2/markets?limit=1000&status=open'
-response = requests.get(url).json()
+response = session.get(url).json()
 markets, unclosed, soon, sooner, soonest = [], [], [], [], []
 while response:
   for market in response['markets']:
@@ -15,7 +16,7 @@ while response:
       soonest.append(market)
   if not response['cursor']:
     break
-  response = requests.get(url + '&cursor=' + response['cursor']).json()
+  response = session.get(url + '&cursor=' + response['cursor']).json()
 with open('open.json', 'w') as f:
   json.dump(unclosed, f, indent=0)
 with open('soon.json', 'w') as f:

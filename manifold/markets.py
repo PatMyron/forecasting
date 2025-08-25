@@ -1,8 +1,9 @@
 import json
 import requests
 import time
+session = requests.Session()
 url = 'https://api.manifold.markets/v0/markets?limit=1000'
-response = requests.get(url).json()
+response = session.get(url).json()
 markets, unclosed, soon = [], [], []
 while response:
   for market in response:
@@ -11,7 +12,7 @@ while response:
       unclosed.append(market)
       if market.get('closeTime', 0)/1000 < time.time() + 2*30*24*60*60:
         soon.append(market)
-  response = requests.get(url + '&before=' + response[-1]['id']).json()
+  response = session.get(url + '&before=' + response[-1]['id']).json()
 with open('all.json', 'w') as f:
   json.dump(markets, f, indent=0)
 with open('open.json', 'w') as f:
