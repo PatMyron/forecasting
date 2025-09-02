@@ -12,18 +12,19 @@ jobs:
       - run: |
           pip install -q requests requests-cache
           cd forecastEx
-          python markets.py
+          python markets.py &
 
           cd ../polymarket
-          python markets.py
+          python markets.py &
+
+          cd ../metaculus
+          python questions.py &
+          wait
+          find *.json -exec yq -i 'del(.[].question.aggregations.[].history)' {} \; # ~85% size cut
 
           cd ../kalshi
           python markets.py
           python events.py
-
-          cd ../metaculus
-          python questions.py
-          find *.json -exec yq -i 'del(.[].question.aggregations.[].history)' {} \; # ~85% size cut
 
           cd ../manifold
           python extreme.py | jq . --tab > extreme.json
