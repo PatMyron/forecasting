@@ -4,8 +4,9 @@ from datetime import datetime, timedelta, UTC
 session = requests_cache.CachedSession()
 offset = 0
 markets, unclosed, soon = [], [], []
-while session.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
-  for market in session.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' + str(offset)).json():
+GAMMA = 'https://gamma-api.polymarket.com/'
+while session.get(GAMMA + 'markets?closed=false&limit=500&offset=' + str(offset)).json():
+  for market in session.get(GAMMA + 'markets?closed=false&limit=500&offset=' + str(offset)).json():
     markets.append(market)
     if not market['closed']:
       unclosed.append(market)
@@ -19,8 +20,8 @@ while session.get('https://gamma-api.polymarket.com/markets?limit=500&offset=' +
         except:
           pass
   offset += 500
-with open('all.json', 'w') as f:
-  json.dump(markets, f, indent=0)
+# with open('all.json', 'w') as f:
+#   json.dump(markets, f, indent=0)
 with open('open.json', 'w') as f:
   json.dump(unclosed, f, indent=0)
 with open('soon.json', 'w') as f:
