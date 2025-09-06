@@ -1,0 +1,1173 @@
+[
+	{
+		"id": "0yEgAZ6AL8",
+		"creatorId": "tBLV0DkLmwWT5WrLswQj0Xfwuld2",
+		"creatorUsername": "Multicore",
+		"creatorName": "Multicore",
+		"createdTime": 1735756883778,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJoshWight%2FGear%20Raw.png?alt=media&token=09925ce7-9262-4808-bb68-511c711c6aaa",
+		"closeTime": 1767243540000,
+		"question": "Will SpaceX successfully catch the Starship upper stage in 2025? (Everyday Astronaut 2025 Predictions)",
+		"slug": "will-spacex-successfully-catch-the-zqgPNgh5q5",
+		"url": "https://manifold.markets/Multicore/will-spacex-successfully-catch-the-zqgPNgh5q5",
+		"pool": {
+			"NO": 43.55911362208782,
+			"YES": 22957.308284002505
+		},
+		"probability": 0.0018938030844256814,
+		"p": 0.49999999999999845,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 33314.89650704447,
+		"volume24Hours": 4,
+		"isResolved": false,
+		"uniqueBettorCount": 27,
+		"lastUpdatedTime": 1757093978066,
+		"lastBetTime": 1757093978066,
+		"lastCommentTime": 1755391912401,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market is based on a poll posted on X by Tim Dodd the Everyday Astronaut.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "tiptapTweet",
+					"attrs": {
+						"tweetId": "t1874511427177967771"
+					}
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If the result is ambiguous, I may use Everyday Astronaut's followup video, if there is one, as a source for resolution.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "See the full list of markets at ",
+							"type": "text"
+						},
+						{
+							"text": "https://manifold.markets/news/everyday-astronaut-2025-predictions",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/news/everyday-astronaut-2025-predictions",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/Multicore/UUPAUyL5RQ.jpg",
+		"groupSlugs": [
+			"space",
+			"spacex",
+			"everyday-astronaut-predictions",
+			"rockets",
+			"technology-default"
+		],
+		"textDescription": "This market is based on a poll posted on X by Tim Dodd the Everyday Astronaut.\n\n[tweet]If the result is ambiguous, I may use Everyday Astronaut's followup video, if there is one, as a source for resolution.\n\nSee the full list of markets at https://manifold.markets/news/everyday-astronaut-2025-predictions"
+	},
+	{
+		"id": "Ry52S828yq",
+		"creatorId": "rqyVlY3yvaZkXJ51lMa60NlqbOI3",
+		"creatorUsername": "JeromeHPowell",
+		"creatorName": "Jerome H. Powell",
+		"createdTime": 1756776022343,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Ffed%2FRqC6CPzLOE.png?alt=media&token=04f2eac9-280c-476a-8faf-5867421888c9",
+		"closeTime": 1757380800000,
+		"question": "Will the market in the description reach 50 traders?",
+		"slug": "will-the-market-in-the-description",
+		"url": "https://manifold.markets/JeromeHPowell/will-the-market-in-the-description",
+		"pool": {
+			"NO": 1160.6905802620859,
+			"YES": 8.615560572346453
+		},
+		"probability": 0.9926319034241978,
+		"p": 0.4999999999999946,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1332.6707509988516,
+		"volume24Hours": 37.71677368037894,
+		"isResolved": false,
+		"uniqueBettorCount": 15,
+		"lastUpdatedTime": 1757114557398,
+		"lastBetTime": 1757114557398,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://manifold.markets/strutheo/will-spacex-land-a-human-on-the-moo",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/strutheo/will-spacex-land-a-human-on-the-moo",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"metamarkets",
+			"economics-default",
+			"crypto-speculation",
+			"manifold-6748e065087e",
+			"fun",
+			"nonpredictive"
+		],
+		"textDescription": "https://manifold.markets/strutheo/will-spacex-land-a-human-on-the-moo"
+	},
+	{
+		"id": "OdunCCEdQs",
+		"creatorId": "byEds8x9SMYgX0BuPMufdcpbSIH2",
+		"creatorUsername": "predyx_markets",
+		"creatorName": "PREDYX",
+		"createdTime": 1756696549072,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fpredyx_markets%2FWprb2IA8tA.png?alt=media&token=5b8e496a-bc02-4f25-8d6b-5ac25ff28df0",
+		"closeTime": 1757141940000,
+		"question": "Bitcoin close price on September 5?",
+		"slug": "bitcoin-close-price-on-september-7",
+		"url": "https://manifold.markets/predyx_markets/bitcoin-close-price-on-september-7",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 27798.270824599476,
+		"volume24Hours": 18976.268801455255,
+		"isResolved": false,
+		"uniqueBettorCount": 28,
+		"lastUpdatedTime": 1757119693001,
+		"lastBetTime": 1757119693001,
+		"lastCommentTime": 1756978078292,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Source of truth",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": Coinbase BTC-USD hourly data",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Candle used",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": The ",
+							"type": "text"
+						},
+						{
+							"text": "1-minute candle",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " at ",
+							"type": "text"
+						},
+						{
+							"text": "11:59 PM PT",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " on ",
+							"type": "text"
+						},
+						{
+							"text": "September 5, 2025",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Equivalent in UTC",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": ",
+							"type": "text"
+						},
+						{
+							"text": "Sep 6, 2025, 06:59 UTC",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Price used",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": The ",
+							"type": "text"
+						},
+						{
+							"text": "“Close”",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " value of that candle",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Rounding math:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Math.round(115999.49) → ",
+											"type": "text"
+										},
+										{
+											"text": "115999",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Math.round(115999.50) → ",
+											"type": "text"
+										},
+										{
+											"text": "116000",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Date Time: Sep 5, 2025, 11:59 PT",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"bitcoin",
+			"prices",
+			"bitcoin-maxi",
+			"crypto-speculation"
+		],
+		"textDescription": "Source of truth: Coinbase BTC-USD hourly data\n\nCandle used: The 1-minute candle at 11:59 PM PT on September 5, 2025\n\nEquivalent in UTC: Sep 6, 2025, 06:59 UTC\n\nPrice used: The “Close” value of that candle\n\nRounding math:\n\nMath.round(115999.49) → 115999\n\nMath.round(115999.50) → 116000\n\nResolution Date Time: Sep 5, 2025, 11:59 PT"
+	},
+	{
+		"id": "56q6uhLPC9",
+		"creatorId": "Kr9VloNXnvcXEbLuqBJWJGGXl9M2",
+		"creatorUsername": "fedor",
+		"creatorName": "fedor",
+		"createdTime": 1756743086869,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocINinfGK8LY6Vjo1KUPjgHtwv5Ep-h45XJXAf8LvAT9dl3xS_-r=s96-c",
+		"closeTime": 1759363140000,
+		"question": "How many times will I shit in September 2025?",
+		"slug": "how-many-times-will-i-shit-in-septe",
+		"url": "https://manifold.markets/fedor/how-many-times-will-i-shit-in-septe",
+		"totalLiquidity": 225,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 4451.08417375151,
+		"volume24Hours": 1958.4050063414875,
+		"isResolved": false,
+		"uniqueBettorCount": 29,
+		"lastUpdatedTime": 1757117183225,
+		"lastBetTime": 1757110424360,
+		"lastCommentTime": 1757117183205,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"news",
+			"poop",
+			"world-default",
+			"personal",
+			"personal-goals",
+			"september-2025"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "8tQSqRyhQU",
+		"creatorId": "FTztQZtamZOZEUSu8xHhjvwdM2k1",
+		"creatorUsername": "nicki",
+		"creatorName": "nicki",
+		"createdTime": 1756710019525,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocL1yRC1ukJ7lyC4bJ15DgpEVRwPYI8Vsjdue-DnCF1RuglELA=s96-c",
+		"closeTime": 1757203200000,
+		"question": "Novak Djokovic wins the 2025 US Open men's singles title",
+		"slug": "novak-djokovic-wins-the-2025-us-ope",
+		"url": "https://manifold.markets/nicki/novak-djokovic-wins-the-2025-us-ope",
+		"pool": {
+			"NO": 9.726211606519414,
+			"YES": 1028.1495411118776
+		},
+		"probability": 0.009371267785228232,
+		"p": 0.5000000000000001,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1589.4012520016072,
+		"volume24Hours": 652.7623518285783,
+		"isResolved": false,
+		"uniqueBettorCount": 14,
+		"lastUpdatedTime": 1757117822143,
+		"lastBetTime": 1757115297997,
+		"lastCommentTime": 1757117822120,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to YES if Novak Djokovic wins the 2025 US Open men's singles championship. It resolves to NO if any other player wins the tournament or if Djokovic withdraws before the conclusion.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Djokovic is seeking his 25th Grand Slam title, which would break the all-time record. He has won the US Open four times (2011, 2015, 2018, 2023) and is currently in the quarterfinals where he will face Taylor Fritz. Potential opponents in later rounds include Carlos Alcaraz in the semifinals and Jannik Sinner in the final.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Djokovic has been dealing with back issues during the tournament but showed improved form in his fourth-round victory over Jan-Lennard Struff.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": The market will resolve based on the official tournament results as published on the US Open website (",
+							"type": "text"
+						},
+						{
+							"text": "https://www.usopen.org",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.usopen.org",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") or ATP Tour website (",
+							"type": "text"
+						},
+						{
+							"text": "https://www.atptour.com",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.atptour.com",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ").",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"us-open-2023",
+			"atp-tour",
+			"wta-tennis",
+			"tennis",
+			"us-open"
+		],
+		"textDescription": "This market resolves to YES if Novak Djokovic wins the 2025 US Open men's singles championship. It resolves to NO if any other player wins the tournament or if Djokovic withdraws before the conclusion.\n\nDjokovic is seeking his 25th Grand Slam title, which would break the all-time record. He has won the US Open four times (2011, 2015, 2018, 2023) and is currently in the quarterfinals where he will face Taylor Fritz. Potential opponents in later rounds include Carlos Alcaraz in the semifinals and Jannik Sinner in the final.\n\nDjokovic has been dealing with back issues during the tournament but showed improved form in his fourth-round victory over Jan-Lennard Struff.\n\nResolution Criteria: The market will resolve based on the official tournament results as published on the US Open website (https://www.usopen.org) or ATP Tour website (https://www.atptour.com)."
+	},
+	{
+		"id": "On62ZNSCls",
+		"creatorId": "hcLXZc5GhyRNSugpRU7imRZ62IH2",
+		"creatorUsername": "Alex609",
+		"creatorName": "Alex C",
+		"createdTime": 1756407081010,
+		"creatorAvatarUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/user-images/hcLXZc5GhyRNSugpRU7imRZ62IH2.png",
+		"closeTime": 1758585540000,
+		"question": "Will Strategy (MSTR) be included in the S&P 500 in September 2025?",
+		"slug": "will-strategy-mstr-be-included-in-t",
+		"url": "https://manifold.markets/Alex609/will-strategy-mstr-be-included-in-t",
+		"pool": {
+			"NO": 10.050378152592089,
+			"YES": 994.9874371066196
+		},
+		"probability": 0.009999999999999964,
+		"p": 0.49999999999999983,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2993.028721362093,
+		"volume24Hours": 2364.7520267151986,
+		"isResolved": false,
+		"uniqueBettorCount": 10,
+		"lastUpdatedTime": 1757114922166,
+		"lastBetTime": 1757114922166,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to YES if MicroStrategy (MSTR), now branded as Strategy, is officially announced for inclusion in the S&P 500 index by S&P Dow Jones Indices on or before September 20, 2025.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of August 2025, MicroStrategy has met all technical requirements for S&P 500 inclusion, including:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "US-based company listed on a major exchange (Nasdaq)",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Sufficient market capitalization (over $90 billion)",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Positive earnings in most recent quarter ($10 billion in Q2 2025)",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Positive cumulative earnings over trailing four quarters",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "However, the S&P committee has discretion over which companies to include, and may consider Strategy's Bitcoin-heavy business model as a factor.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolution Criteria",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": ": This market will resolve based on official announcements from S&P Dow Jones Indices, which can be found at: ",
+							"type": "text"
+						},
+						{
+							"text": "https://press.spglobal.com/",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://press.spglobal.com/",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"finance",
+			"business",
+			"technology-default",
+			"august-2025",
+			"september-2025"
+		],
+		"textDescription": "This market resolves to YES if MicroStrategy (MSTR), now branded as Strategy, is officially announced for inclusion in the S&P 500 index by S&P Dow Jones Indices on or before September 20, 2025.\n\nAs of August 2025, MicroStrategy has met all technical requirements for S&P 500 inclusion, including:\n\nUS-based company listed on a major exchange (Nasdaq)\n\nSufficient market capitalization (over $90 billion)\n\nPositive earnings in most recent quarter ($10 billion in Q2 2025)\n\nPositive cumulative earnings over trailing four quarters\n\nHowever, the S&P committee has discretion over which companies to include, and may consider Strategy's Bitcoin-heavy business model as a factor.\n\nResolution Criteria: This market will resolve based on official announcements from S&P Dow Jones Indices, which can be found at: https://press.spglobal.com/"
+	},
+	{
+		"id": "pQnINq2llt",
+		"creatorId": "eZKXZ99ZkUbhMyvTHfkdG2LJ6S93",
+		"creatorUsername": "cc1",
+		"creatorName": "cc1",
+		"createdTime": 1738186895427,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fhcphls%2FYj3Wy7AA8w.jpg?alt=media&token=19444b2b-5dc9-452b-8f14-0417e36f476d",
+		"closeTime": 1769900340000,
+		"question": "Will Khamzat Chimaev be UFC Champion in 2025?",
+		"slug": "will-khamzat-chimaev-be-ufc-champio-cqPSlsOIcs",
+		"url": "https://manifold.markets/cc1/will-khamzat-chimaev-be-ufc-champio-cqPSlsOIcs",
+		"pool": {
+			"NO": 1092.3860858826001,
+			"YES": 9.154272586619896
+		},
+		"probability": 0.9916895713205266,
+		"p": 0.49999999999999656,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1417.2460244150463,
+		"volume24Hours": 0.8457300815862681,
+		"isResolved": false,
+		"uniqueBettorCount": 15,
+		"lastUpdatedTime": 1757105799561,
+		"lastBetTime": 1757105799561,
+		"lastCommentTime": 1755627944827,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2025-04-29 (PST): - ",
+											"type": "text"
+										},
+										{
+											"text": "Interim UFC championships",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": " count toward Khamzat Chimaev being a UFC Champion in 2025. (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/cc1/will-khamzat-chimaev-be-ufc-champio-cqPSlsOIcs#u0q9vdyyvyc",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": ")",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/cc1/S0Q5uuIt8L.jpg",
+		"groupSlugs": [
+			"mma",
+			"ufc",
+			"sports-default",
+			"combat-sports"
+		],
+		"textDescription": "Update 2025-04-29 (PST): - Interim UFC championships count toward Khamzat Chimaev being a UFC Champion in 2025. (AI summary of creator comment)"
+	},
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1062228.5787122464,
+		"volume24Hours": 3468.0609316097903,
+		"isResolved": false,
+		"uniqueBettorCount": 1061,
+		"lastUpdatedTime": 1757120265749,
+		"lastBetTime": 1757120265749,
+		"lastCommentTime": 1754752017122,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "QS9zCtssc8",
+		"creatorId": "2eLbfaaBmjeKLKMgnpV6TkDmCU83",
+		"creatorUsername": "JoshuaWilkes",
+		"creatorName": "Josh Wilkes",
+		"createdTime": 1756898861507,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJoshuaWilkes%2FXIGVWxU1ja.jpg?alt=media&token=f06848d8-7813-437c-a516-65b151c295c8",
+		"closeTime": 1767225600000,
+		"question": "Will Angela Rayner be Deputy Prime Minister of the UK on January 1st 2026?",
+		"slug": "will-angela-rayner-be-deputy-prime",
+		"url": "https://manifold.markets/JoshuaWilkes/will-angela-rayner-be-deputy-prime",
+		"pool": {
+			"NO": 10.050378152592039,
+			"YES": 994.9874371066129
+		},
+		"probability": 0.009999999999999998,
+		"p": 0.5000000000000002,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 1186.1293768236055,
+		"volume24Hours": 1085.7319839551956,
+		"isResolved": false,
+		"uniqueBettorCount": 5,
+		"lastUpdatedTime": 1757076157735,
+		"lastBetTime": 1757076157735,
+		"lastCommentTime": 1757072336232,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"uk-politics",
+			"politics-default",
+			"uk",
+			"elections",
+			"elections-world"
+		],
+		"textDescription": ""
+	}
+]
