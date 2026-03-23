@@ -36,6 +36,7 @@ jobs:
           find ../. -size +100M -delete # GitHub's file size limit
         env:
           API_KEY: ${{ secrets.API_KEY }}
+          METACULUS_KEY: ${{ secrets.METACULUS_KEY }}
       - uses: peter-evans/create-pull-request@v6
         with:
           commit-message: market update

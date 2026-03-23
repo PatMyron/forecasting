@@ -1,11 +1,12 @@
 import json
+import os
 import requests
 from datetime import datetime, timedelta, UTC
 session = requests.Session()
 url = 'https://www.metaculus.com/api2/questions/?limit=1000'
 markets, unclosed, soon = [], [], []
 while url:
-  response = session.get(url).json()
+  response = session.get(url, headers={'Authorization': 'Token ' + os.environ['METACULUS_KEY']}).json()
   for market in response['results']:
     markets.append(market)
     if market['status'] == 'open':
