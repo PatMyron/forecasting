@@ -9,14 +9,14 @@ session.mount('https://', requests.adapters.HTTPAdapter(max_retries=Retry(
   backoff_jitter=0.2,
   backoff_max=2,
 )))
-url = 'https://api.elections.kalshi.com/trade-api/v2/events?limit=200&status=open&cursor='
+url = 'https://api.elections.kalshi.com/trade-api/v2/events?limit=200&status=open&with_nested_markets=true&cursor='
 response = session.get(url).json()
 unclosed = []
 while response:
   for e in response['events']:
     vol = 0
-    for m in session.get('https://api.elections.kalshi.com/trade-api/v2/events/' + e['event_ticker']).json()['markets']:
-      vol += m['volume']
+    for m in e['markets']:
+      vol += float(m['volume_fp'])
     e['volume'] = vol
     unclosed.append(e)
   if not response['cursor']:
