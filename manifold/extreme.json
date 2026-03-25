@@ -1,0 +1,1929 @@
+[
+	{
+		"id": "lqRAnA8qPO",
+		"creatorId": "Iua2KQvL6KYcfGLGNI6PVeGkseo1",
+		"creatorUsername": "Ziddletwix",
+		"creatorName": "Ziddletwix",
+		"createdTime": 1773701685158,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FZiddletwix%2FnC9klaCITf.jpeg?alt=media&token=f3cabfda-358c-4301-8983-3ba213ef2b96",
+		"closeTime": 1775519940000,
+		"question": "Will Kalshi pay $1 billion for a perfect bracket?",
+		"slug": "will-kalshi-pay-1-billion-for-a-per",
+		"url": "https://manifold.markets/Ziddletwix/will-kalshi-pay-1-billion-for-a-per",
+		"pool": {
+			"NO": 914.3552154461704,
+			"YES": 5480.4474495621525
+		},
+		"probability": 0.00870459204627575,
+		"p": 0.05000000000000004,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 20651.93808843354,
+		"volume24Hours": 0,
+		"isResolved": false,
+		"uniqueBettorCount": 34,
+		"lastUpdatedTime": 1774229389651,
+		"lastBetTime": 1774229389651,
+		"lastCommentTime": 1774027732930,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Context: ",
+							"type": "text"
+						},
+						{
+							"text": "https://kalshi.com/billion-dollar-bracket",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://kalshi.com/billion-dollar-bracket",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves YES if Kalshi announces a verified perfect bracket in the 2026 tournament. Resolves NO otherwise. ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "What matters here is the Kalshi verification—a perfect bracket that some other people think is verified but was not submitted to Kalshi does not count. Beyond that, I won't be a stickler for what \"pay\" means (this just resolves based on whether Kalshi verifies a bracket). ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"gaming",
+			"business",
+			"sports-default"
+		],
+		"textDescription": "Context: https://kalshi.com/billion-dollar-bracket\n\nResolves YES if Kalshi announces a verified perfect bracket in the 2026 tournament. Resolves NO otherwise. \n\nWhat matters here is the Kalshi verification—a perfect bracket that some other people think is verified but was not submitted to Kalshi does not count. Beyond that, I won't be a stickler for what \"pay\" means (this just resolves based on whether Kalshi verifies a bracket). "
+	},
+	{
+		"id": "S8RCURsRgZ",
+		"creatorId": "4lRhskQN8chmkeelGsX4BF0H9mo1",
+		"creatorUsername": "agi202something",
+		"creatorName": "i'm fucking awesome",
+		"createdTime": 1774365682276,
+		"creatorAvatarUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/user-images/cly0PnLS.png",
+		"closeTime": 1774452000000,
+		"question": "This market will resolve yes",
+		"slug": "this-market-will-resolve-yes-ntnhtstEdt",
+		"url": "https://manifold.markets/agi202something/this-market-will-resolve-yes-ntnhtstEdt",
+		"pool": {
+			"NO": 145.78721504927566,
+			"YES": 0.07750516483215009
+		},
+		"probability": 0.9900000000000001,
+		"p": 0.05000000000000006,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 45.787215049275645,
+		"volume24Hours": 45.787215049275645,
+		"isResolved": false,
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1774366059384,
+		"lastBetTime": 1774366059384,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"economics-default",
+			"metamarkets",
+			"stocks",
+			"fun",
+			"finance",
+			"nonpredictive"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "YR4ZokpJmzB7v0e9UrWn",
+		"creatorId": "UT1vHSGiCbfZHIRpm6ZvYhFphws1",
+		"creatorUsername": "JonathanRay",
+		"creatorName": "Jonathan Ray",
+		"createdTime": 1676921435850,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FJonathanRay%2Fq5Z-eoxEVj.jpeg?alt=media&token=2c96f772-f110-434d-94e6-c893d48ec660",
+		"closeTime": 1893484740000,
+		"question": "Resolves No in 2030",
+		"slug": "resolves-no-in-2030",
+		"url": "https://manifold.markets/JonathanRay/resolves-no-in-2030",
+		"pool": {
+			"NO": 916.899324772204,
+			"YES": 3190.5747446545624
+		},
+		"probability": 0.009687517945490103,
+		"p": 0.0329192752015842,
+		"totalLiquidity": 1000,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 14629.08629050168,
+		"volume24Hours": 0.9682725632131337,
+		"isResolved": false,
+		"uniqueBettorCount": 31,
+		"lastUpdatedTime": 1774355666985,
+		"lastBetTime": 1774355666985,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Created for comaprison to ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "iframe",
+					"attrs": {
+						"src": "https://manifold.markets/embed/JonathanRay/will-ai-kill-20-of-the-human-popula",
+						"frameBorder": 0,
+						"allowFullScreen": true
+					}
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2F6xXA-onn3z.png?alt=media&token=600d7b5d-b272-4713-917b-3ab6ab554ba8",
+		"groupSlugs": [
+			"interest-rates",
+			"free-mana"
+		],
+		"textDescription": "Created for comaprison to \n\n(https://manifold.markets/embed/JonathanRay/will-ai-kill-20-of-the-human-popula)"
+	},
+	{
+		"id": "zQzyQOtgL0",
+		"creatorId": "DgxWgtxmvKRPUkl0TopcbWNnylv2",
+		"creatorUsername": "JoMo",
+		"creatorName": "JoMo",
+		"createdTime": 1774203531068,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJQCTEKWp3T6BAt_lozb-Akm-LeDetlIU2eZ0F-nsBqKtSAj-ze=s96-c",
+		"closeTime": 1774828740000,
+		"question": "Will Trump live until march 30th?",
+		"slug": "will-trump-live-until-march-30th",
+		"url": "https://manifold.markets/JoMo/will-trump-live-until-march-30th",
+		"pool": {
+			"NO": 1342.4493694860846,
+			"YES": 7.449070502992527
+		},
+		"probability": 0.9944817548622007,
+		"p": 0.4999999999999978,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2172.1511414570446,
+		"volume24Hours": 3551.912298238582,
+		"isResolved": false,
+		"uniqueBettorCount": 20,
+		"lastUpdatedTime": 1774364943658,
+		"lastBetTime": 1774364943658,
+		"lastCommentTime": 1774357448634,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves YES if Donald Trump is alive on March 30, 2026. This market resolves NO if Trump dies before or on March 30, 2026. Resolution will be determined by major news sources reporting his death.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Trump is 79 years old and became the oldest person in American history to become president upon his second inauguration in 2025. As of January 2026, Trump has been noted as having a recent history of dozing during public appearances and requesting to attend fewer, more important meetings. In early March 2026, Trump was photographed with a dark red rash on his neck, and his physician issued a statement saying he was using medicated cream as a preventative treatment.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The timeframe for this market is extremely short (approximately 8 days from today). Given Trump's age and the various health concerns that have been publicly documented, the baseline probability of death in any 8-day period for a 79-year-old is very low but non-zero. No specific acute health crisis has been publicly reported that would suggest elevated mortality risk in this specific timeframe.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"politics-default",
+			"trumps-second-term",
+			"magaland",
+			"us-politics",
+			"donald-trump"
+		],
+		"textDescription": "Resolution criteria\n\nThis market resolves YES if Donald Trump is alive on March 30, 2026. This market resolves NO if Trump dies before or on March 30, 2026. Resolution will be determined by major news sources reporting his death.\n\nBackground\n\nTrump is 79 years old and became the oldest person in American history to become president upon his second inauguration in 2025. As of January 2026, Trump has been noted as having a recent history of dozing during public appearances and requesting to attend fewer, more important meetings. In early March 2026, Trump was photographed with a dark red rash on his neck, and his physician issued a statement saying he was using medicated cream as a preventative treatment.\n\nConsiderations\n\nThe timeframe for this market is extremely short (approximately 8 days from today). Given Trump's age and the various health concerns that have been publicly documented, the baseline probability of death in any 8-day period for a 79-year-old is very low but non-zero. No specific acute health crisis has been publicly reported that would suggest elevated mortality risk in this specific timeframe."
+	},
+	{
+		"id": "SSnNp9REpO",
+		"creatorId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+		"creatorUsername": "Noit",
+		"creatorName": "Noit",
+		"createdTime": 1773605295045,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FNoit%2FMfpNdeWDvh.webp?alt=media&token=e629d681-440f-46f9-b735-191267a06d3d",
+		"closeTime": 1777589940000,
+		"question": "What day will Pokémon Champions be released?",
+		"slug": "what-day-will-pokemon-champions-be",
+		"url": "https://manifold.markets/Noit/what-day-will-pokemon-champions-be",
+		"totalLiquidity": 1275,
+		"outcomeType": "DATE",
+		"mechanism": "cpmm-multi-1",
+		"volume": 8954.761953170439,
+		"volume24Hours": 7176.02942914542,
+		"isResolved": false,
+		"uniqueBettorCount": 7,
+		"lastUpdatedTime": 1774370102650,
+		"lastBetTime": 1774370102650,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "Pp6qhz5Ict",
+				"index": 0,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "April 1-3, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.15150901403735623,
+					"week": -0.0949158643158594,
+					"month": -0.07601818689185678
+				},
+				"midpoint": 1775088000000,
+				"volume": 379.63519789802467,
+				"pool": {
+					"YES": 5112.44585112361,
+					"NO": 7.566704911807619
+				},
+				"probability": 0.0014778684288357978
+			},
+			{
+				"id": "IhhztPOZEy",
+				"index": 1,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "April 4-6, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.01999484309922067,
+					"week": -0.05235993199236821,
+					"month": -0.09342582214356394
+				},
+				"midpoint": 1775347200000,
+				"volume": 56.166288780984154,
+				"pool": {
+					"YES": 6152.953984588823,
+					"NO": 3.991172483034518
+				},
+				"probability": 0.0006482390830540798
+			},
+			{
+				"id": "ld9SuqhR6I",
+				"index": 2,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "April 7-9, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.6464946909728058,
+					"week": 0.7919531356950943,
+					"month": 0.8000565241229408
+				},
+				"midpoint": 1775606400000,
+				"volume": 7270.623590101171,
+				"pool": {
+					"YES": 27.98469900811447,
+					"NO": 2786.3932261878595
+				},
+				"probability": 0.9900565241229407
+			},
+			{
+				"id": "tpPdyCCEUp",
+				"index": 3,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 10-12, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.2513185125594864,
+					"week": -0.11840388019415546,
+					"month": -0.08072413720949191
+				},
+				"midpoint": 1775865600000,
+				"volume": 477.53419267289775,
+				"pool": {
+					"YES": 5399.255079388831,
+					"NO": 8.631635092748184
+				},
+				"probability": 0.0015961198058446469
+			},
+			{
+				"id": "CSE9t6ztlS",
+				"index": 4,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 13-15, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.053150750508764485,
+					"week": -0.14844886101025218,
+					"month": -0.08791099665458736
+				},
+				"midpoint": 1776124800000,
+				"volume": 27.6647104075417,
+				"pool": {
+					"YES": 6003.438631242929,
+					"NO": 9.326634640115572
+				},
+				"probability": 0.001551138989748313
+			},
+			{
+				"id": "S0CgtsNIl9",
+				"index": 5,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 16-18, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.11351694395344394,
+					"week": -0.19583119775234212,
+					"month": -0.08080416716787649
+				},
+				"midpoint": 1776384000000,
+				"volume": 302.8049757722628,
+				"pool": {
+					"YES": 5851.472589167419,
+					"NO": 13.325940532895856
+				},
+				"probability": 0.00227219067550421
+			},
+			{
+				"id": "5nSNtpunE0",
+				"index": 6,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 19-21, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.01935283637425014,
+					"week": -0.05224492621630663,
+					"month": -0.09529983579471596
+				},
+				"midpoint": 1776643200000,
+				"volume": 62.624782211701955,
+				"pool": {
+					"YES": 6153.008731743901,
+					"NO": 3.9845821167157283
+				},
+				"probability": 0.0006471636257498675
+			},
+			{
+				"id": "PntcQ6Qn9c",
+				"index": 7,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 22-24, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.029204661614169035,
+					"week": -0.09255548239006808,
+					"month": -0.0898404266892418
+				},
+				"midpoint": 1776902400000,
+				"volume": 10,
+				"pool": {
+					"YES": 5809.267027441786,
+					"NO": 6.659079183365293
+				},
+				"probability": 0.0011449731412130001
+			},
+			{
+				"id": "lugnNsRUqA",
+				"index": 8,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 25-27, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.004223564413055369,
+					"week": -0.01859649591187103,
+					"month": -0.09801647578580339
+				},
+				"midpoint": 1777161600000,
+				"volume": 185.19336662025336,
+				"pool": {
+					"YES": 6362.516151904991,
+					"NO": 1.927733177286882
+				},
+				"probability": 0.00030289106355471635
+			},
+			{
+				"id": "lLPc5Zn6Nc",
+				"index": 9,
+				"contractId": "SSnNp9REpO",
+				"userId": "PcmJqrSd5HN56RpdSmy0UjNSSMl2",
+				"text": "Apr 28-30, 2026",
+				"createdTime": 1773605295000,
+				"totalLiquidity": 45.833333333333336,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0042235644130553885,
+					"week": -0.018596495911871094,
+					"month": -0.09801647578580333
+				},
+				"midpoint": 1777334400000,
+				"volume": 182.51484870559938,
+				"pool": {
+					"YES": 6362.516151904991,
+					"NO": 1.927733177286882
+				},
+				"probability": 0.00030289106355471635
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Resolves to the date that Pokémon Champions is first made available on the Nintendo eShop. Datetime will be decided by UTC time when downloads first begin anywhere in the world for official release (i.e. no pre-launch beta or VIP early access). All options resolve NO if the game does not officially launch in April 2026.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"entertainment",
+			"gaming",
+			"pokemon-5cd093da5e32",
+			"pokemon",
+			"nintendo"
+		],
+		"textDescription": "Resolves to the date that Pokémon Champions is first made available on the Nintendo eShop. Datetime will be decided by UTC time when downloads first begin anywhere in the world for official release (i.e. no pre-launch beta or VIP early access). All options resolve NO if the game does not officially launch in April 2026."
+	},
+	{
+		"id": "zL6InOddlE",
+		"creatorId": "l60bCPuGaxdYh2hjjD6lZZVwiIQ2",
+		"creatorUsername": "apol",
+		"creatorName": "Manson",
+		"createdTime": 1773626382285,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fapol%2Fz0qht8tlQ2.png?alt=media&token=dd740f68-b43d-4e2b-b535-2c8c9c2b4555",
+		"closeTime": 1775001540000,
+		"question": "Will Zelenskyy be alive by the end of March?",
+		"slug": "will-zelenskyy-be-alive-by-the-end",
+		"url": "https://manifold.markets/apol/will-zelenskyy-be-alive-by-the-end",
+		"pool": {
+			"NO": 926.9761424509159,
+			"YES": 10.78776415276458
+		},
+		"probability": 0.988496289869126,
+		"p": 0.4999999999999955,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 2297.06716685541,
+		"volume24Hours": 1553.3940814348052,
+		"isResolved": false,
+		"uniqueBettorCount": 19,
+		"lastUpdatedTime": 1774364958589,
+		"lastBetTime": 1774364958589,
+		"lastCommentTime": 1773653887643,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves YES if Zelenskyy is alive and publicly confirmed to be alive by March 31, 2026. Resolution will be based on official statements from the Office of the President of Ukraine (",
+							"type": "text"
+						},
+						{
+							"text": "https://www.president.gov.ua/en",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.president.gov.ua/en",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": ") or major international news sources confirming his status. The market resolves NO if credible reports confirm his death before the end of March 2026.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Volodymyr Zelenskyy is the sixth president of Ukraine, serving since 2019. He has continued to serve during the full-scale Russian invasion of Ukraine, which has been ongoing since February 2022. As of mid-March 2026, Zelenskyy has been actively conducting diplomatic meetings, including recent visits to Paris and Romania.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Zelenskyy has warned of risks related to air defense stockpiles being drained due to ongoing conflicts in the region. Ukraine remains an active war zone, which presents inherent security risks to all government officials.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This description was generated by AI.",
+							"type": "text",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"death-markets",
+			"ukraine",
+			"russia",
+			"ukrainerussia-war",
+			"death"
+		],
+		"textDescription": "Resolution criteria\n\nThis market resolves YES if Zelenskyy is alive and publicly confirmed to be alive by March 31, 2026. Resolution will be based on official statements from the Office of the President of Ukraine (https://www.president.gov.ua/en) or major international news sources confirming his status. The market resolves NO if credible reports confirm his death before the end of March 2026.\n\nBackground\n\nVolodymyr Zelenskyy is the sixth president of Ukraine, serving since 2019. He has continued to serve during the full-scale Russian invasion of Ukraine, which has been ongoing since February 2022. As of mid-March 2026, Zelenskyy has been actively conducting diplomatic meetings, including recent visits to Paris and Romania.\n\nConsiderations\n\nZelenskyy has warned of risks related to air defense stockpiles being drained due to ongoing conflicts in the region. Ukraine remains an active war zone, which presents inherent security risks to all government officials.\n\nThis description was generated by AI."
+	},
+	{
+		"id": "2FaEx68adRO2PwdifBLa",
+		"creatorId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+		"creatorUsername": "Mh",
+		"creatorName": "Mh",
+		"createdTime": 1712857400322,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJmQ6DxoAPU2_q79ozGPerdsooLSqBLBoPo2IiVSR3wKCM=s96-c",
+		"closeTime": 1778194740000,
+		"question": "How many MSPs will the Scottish Greens get at the next   Scottish Parliament election?",
+		"slug": "how-many-msps-will-the-scottish-gre",
+		"url": "https://manifold.markets/Mh/how-many-msps-will-the-scottish-gre",
+		"totalLiquidity": 120,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 78.90424161071917,
+		"volume24Hours": 5.000000000000134,
+		"isResolved": false,
+		"uniqueBettorCount": 3,
+		"lastUpdatedTime": 1774359657951,
+		"lastBetTime": 1774359657951,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "c0c0af9aa041",
+				"index": 0,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "0-1",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0025197611211080356,
+					"week": -0.0025197611211080356,
+					"month": 0.01434426688858901
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 59.21004783623374,
+					"NO": 0.861684967801083
+				},
+				"probability": 0.01434426688858901
+			},
+			{
+				"id": "3571ac03d76d",
+				"index": 1,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "1-2",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0025197611211080356,
+					"week": -0.0025197611211080356,
+					"month": 0.01434426688858901
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 59.21004783623374,
+					"NO": 0.861684967801083
+				},
+				"probability": 0.01434426688858901
+			},
+			{
+				"id": "143089c303e1",
+				"index": 2,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "2-3",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0025197611211080356,
+					"week": -0.0025197611211080356,
+					"month": 0.01434426688858901
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 59.21004783623374,
+					"NO": 0.861684967801083
+				},
+				"probability": 0.01434426688858901
+			},
+			{
+				"id": "ae543b1e2a1c",
+				"index": 3,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "3-4",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0025197611211080356,
+					"week": -0.0025197611211080356,
+					"month": 0.01434426688858901
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 59.21004783623374,
+					"NO": 0.861684967801083
+				},
+				"probability": 0.01434426688858901
+			},
+			{
+				"id": "0affe7613611",
+				"index": 4,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "4-5",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 27.142857142857142,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.01419149761237791,
+					"week": -0.01419149761237791,
+					"month": 0.08499979435949459
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 52.88272668762387,
+					"NO": 4.912590036491681
+				},
+				"probability": 0.08499979435949459
+			},
+			{
+				"id": "a55c3e03ef60",
+				"index": 5,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "5-6",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.02712222978432534,
+					"week": -0.02712222978432534,
+					"month": 0.06865973148773286
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 26.307228953084252,
+					"NO": 1.9394063986843337
+				},
+				"probability": 0.06865973148773286
+			},
+			{
+				"id": "0ca4d7460eb3",
+				"index": 6,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "6-7",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.02712222978432534,
+					"week": -0.02712222978432534,
+					"month": 0.06865973148773286
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 26.307228953084252,
+					"NO": 1.9394063986843337
+				},
+				"probability": 0.06865973148773286
+			},
+			{
+				"id": "a9f22000153b",
+				"index": 7,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "7-8",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.02712222978432534,
+					"week": -0.02712222978432534,
+					"month": 0.06865973148773286
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 26.307228953084252,
+					"NO": 1.9394063986843337
+				},
+				"probability": 0.06865973148773286
+			},
+			{
+				"id": "9313146c8b63",
+				"index": 8,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "8-9",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.04081284985652393,
+					"week": -0.04081284985652393,
+					"month": 0.09136251264277716
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 22.525958103418485,
+					"NO": 2.2649606258267267
+				},
+				"probability": 0.09136251264277716
+			},
+			{
+				"id": "f1106997e281",
+				"index": 9,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "9-10",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.04081284985652393,
+					"week": -0.04081284985652393,
+					"month": 0.09136251264277716
+				},
+				"volume": 0,
+				"pool": {
+					"YES": 22.525958103418485,
+					"NO": 2.2649606258267267
+				},
+				"probability": 0.09136251264277716
+			},
+			{
+				"id": "cb02c152031b",
+				"index": 10,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "10-11",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.15442769715966445,
+					"week": 0.15442769715966445,
+					"month": 0.28660305965896554
+				},
+				"volume": 2.8961994574103747,
+				"pool": {
+					"YES": 11.269306069246202,
+					"NO": 4.527377981373624
+				},
+				"probability": 0.28660305965896554
+			},
+			{
+				"id": "82a7df716ad5",
+				"index": 11,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "11-12",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.008088992390687555,
+					"week": 0.008088992390687555,
+					"month": 0.026989509082707582
+				},
+				"volume": 0.2989671081376102,
+				"pool": {
+					"YES": 42.88774708697812,
+					"NO": 1.189626679615372
+				},
+				"probability": 0.026989509082707582
+			},
+			{
+				"id": "707bd273bdd1",
+				"index": 12,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "12-13",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.008088992390687555,
+					"week": 0.008088992390687555,
+					"month": 0.026989509082707582
+				},
+				"volume": 0.2989671081376102,
+				"pool": {
+					"YES": 42.88774708697812,
+					"NO": 1.189626679615372
+				},
+				"probability": 0.026989509082707582
+			},
+			{
+				"id": "e51f902f87c8",
+				"index": 13,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "13-14",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "6dd803f17816",
+				"index": 14,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "14-15",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "141a1139bb8d",
+				"index": 15,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "15-16",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "3a9daa86bf09",
+				"index": 16,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "16-17",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "abbe270a7317",
+				"index": 17,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "17-18",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "2b700374a78c",
+				"index": 18,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "18-19",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "04fb2d086a92",
+				"index": 19,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "19-20",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "82c07d5a9689",
+				"index": 20,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "20-21",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "e0120acc5233",
+				"index": 21,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "21-22",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "f13aab27d1db",
+				"index": 22,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "22-23",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "50779882be63",
+				"index": 23,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "23-24",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "4a7749d67455",
+				"index": 24,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "24-25",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "e30bbff216c7",
+				"index": 25,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "25-26",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "e3ccb495602c",
+				"index": 26,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "26-27",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "9645272d0458",
+				"index": 27,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "27-28",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "9cb1a1d27011",
+				"index": 28,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "28-29",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "c8cbbb847e70",
+				"index": 29,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "29-30",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "b2a0e1cdb5a3",
+				"index": 30,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "30-31",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "0dab06ef80c3",
+				"index": 31,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "31-32",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "062cc1724ef3",
+				"index": 32,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "32-33",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "f33a15f17baf",
+				"index": 33,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "33-34",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "19c64fd9a1c3",
+				"index": 34,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "34-35",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "895b84c74f57",
+				"index": 35,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "35-36",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "1793250e1d4c",
+				"index": 36,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "36-37",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "77b2edd2f406",
+				"index": 37,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "37-38",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "69e9f4139019",
+				"index": 38,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "38-39",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "2aa59a69fd19",
+				"index": 39,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "39-40",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "fc53097e3e8d",
+				"index": 40,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "40-41",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "0675c7a1067f",
+				"index": 41,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "41-42",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "747c411cb5e5",
+				"index": 42,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "42-43",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "ae6213b8d758",
+				"index": 43,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "43-44",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "5ba843036cf9",
+				"index": 44,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "44-45",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "a6daa0a62115",
+				"index": 45,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "45-46",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "ed87f221eade",
+				"index": 46,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "46-47",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "5f61a82879be",
+				"index": 47,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "47-48",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "3888dd14ddbc",
+				"index": 48,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "48-49",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			},
+			{
+				"id": "b0e36dae1456",
+				"index": 49,
+				"contractId": "2FaEx68adRO2PwdifBLa",
+				"userId": "QFFbPgs5JEcJJJoNU7zg9pWWOk12",
+				"text": "49-50",
+				"createdTime": 1712857400000,
+				"totalLiquidity": 7.142857142857143,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.000450195924913395,
+					"week": 0.000450195924913395,
+					"month": 0.003468563257108584
+				},
+				"volume": 0.04069908990039295,
+				"pool": {
+					"YES": 121.07170445632242,
+					"NO": 0.42140654079642126
+				},
+				"probability": 0.003468563257108584
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The next Scottish Parliament elections are scheduled for May 2026.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The greens have previously won:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "8 seats in 2021",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "6 seats in 2016",
+											"type": "text"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "2 seats in 2011",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "An MSP who is elected but takes up the role of Presiding Officer still counts. ",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": null,
+		"groupSlugs": [
+			"scottish-politics"
+		],
+		"textDescription": "The next Scottish Parliament elections are scheduled for May 2026.\n\nThe greens have previously won:\n\n8 seats in 2021\n\n6 seats in 2016\n\n2 seats in 2011\n\nAn MSP who is elected but takes up the role of Presiding Officer still counts. "
+	}
+]
