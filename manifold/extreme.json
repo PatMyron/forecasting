@@ -1,0 +1,1043 @@
+[
+	{
+		"id": "Is6AhAyUyn",
+		"creatorId": "edtZHUmcqBh3z0pvBSf8Yvps3103",
+		"creatorUsername": "marvingardens",
+		"creatorName": "marvingardens",
+		"createdTime": 1770776915569,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJexe-lpaJNTE4r6NYg9s5xatmqx0FLJJJlvHAqO4_jQRKJKWMm=s96-c",
+		"closeTime": 1775352360000,
+		"question": "Will Eliza solve MrBeast's million-dollar puzzle?",
+		"slug": "will-eliza-solve-mrbeasts-milliondo",
+		"url": "https://manifold.markets/marvingardens/will-eliza-solve-mrbeasts-milliondo",
+		"pool": {
+			"NO": 88.95473919992514,
+			"YES": 924.2453535893128
+		},
+		"probability": 0.0050400380889095275,
+		"p": 0.04999999999999973,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 12855.533108983247,
+		"volume24Hours": 13.66249059360473,
+		"isResolved": false,
+		"uniqueBettorCount": 42,
+		"lastUpdatedTime": 1775348368536,
+		"lastBetTime": 1775348368536,
+		"lastCommentTime": 1774454202188,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Long version (canonical): Will ",
+							"type": "text"
+						},
+						{
+							"type": "mention",
+							"attrs": {
+								"id": "hqdXgp0jK2YMMhPs067eFK4afEH3",
+								"label": "Eliza"
+							}
+						},
+						{
+							"text": " provably know the answer to the million dollar MrBeast Salesforce whatever puzzle before it is publicly announced by MrBeast/Salesforce or their team?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I will not trade on this market.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Close date will be extended if necessary ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "edit",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " 7.3.26:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "If you as a trader or watcher believe that ",
+							"type": "text"
+						},
+						{
+							"text": "@Eliza",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://manifold.markets/Eliza",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " did know the answer before its presumably forthcoming reveal, and that Eliza is declining to disclose this, you should expect to have until market close to adversarially prove it.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The close date will likely continue to be pushed out until the reveal occurs. Once the reveal occurs, you should not expect the close date to be pushed out again. Resolution may not be immediate, but it should be prompt.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"mr-beast",
+			"puzzles",
+			"salesforce",
+			"manifold-users",
+			"puzzlehunts"
+		],
+		"textDescription": "Long version (canonical): Will @Eliza provably know the answer to the million dollar MrBeast Salesforce whatever puzzle before it is publicly announced by MrBeast/Salesforce or their team?\n\nI will not trade on this market.\n\nClose date will be extended if necessary \n\nedit 7.3.26:\n\nIf you as a trader or watcher believe that @Eliza did know the answer before its presumably forthcoming reveal, and that Eliza is declining to disclose this, you should expect to have until market close to adversarially prove it.\n\nThe close date will likely continue to be pushed out until the reveal occurs. Once the reveal occurs, you should not expect the close date to be pushed out again. Resolution may not be immediate, but it should be prompt."
+	},
+	{
+		"id": "AU5Lzc8zhz",
+		"creatorId": "h8mrjj5GRDb363eGYxhaKR8hzAF2",
+		"creatorUsername": "benjaminIkuta",
+		"creatorName": "Benjamin Ikuta",
+		"createdTime": 1775095195789,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FBenjaminIkuta%2Flove-images%2FsN4Zl-_vbR.jpg?alt=media&token=cdbce9db-206b-405f-942c-4fd343f08410",
+		"closeTime": 1798761540000,
+		"question": "Will the US military control at least ten percent of Iran by area at any point during 2026?",
+		"slug": "will-the-us-military-control-at-lea",
+		"url": "https://manifold.markets/benjaminIkuta/will-the-us-military-control-at-lea",
+		"pool": {
+			"NO": 33.33333333333342,
+			"YES": 300.0000000000018
+		},
+		"probability": 0.09999999999999996,
+		"p": 0.5000000000000008,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 15507.41182657908,
+		"volume24Hours": 12612.1664750575,
+		"isResolved": false,
+		"uniqueBettorCount": 40,
+		"lastUpdatedTime": 1775355568114,
+		"lastBetTime": 1775344785285,
+		"lastCommentTime": 1775355568093,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph"
+				}
+			]
+		},
+		"groupSlugs": [
+			"iranian-politics",
+			"wars",
+			"iran",
+			"israeliran-conflict",
+			"middle-east"
+		],
+		"textDescription": ""
+	},
+	{
+		"id": "gR0nE0S95R",
+		"creatorId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+		"creatorUsername": "dreev",
+		"creatorName": "Daniel Reeves",
+		"createdTime": 1742593976654,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fdreev%2FNzbsZtO_Hg.png?alt=media&token=3552ede2-8d7b-4ad9-b1f9-1de8e9591170",
+		"closeTime": 1924991940000,
+		"question": "When will I first be able to read a book while driving a private car?",
+		"slug": "when-will-i-be-able-to-read-a-book",
+		"url": "https://manifold.markets/dreev/when-will-i-be-able-to-read-a-book",
+		"totalLiquidity": 1000,
+		"outcomeType": "DATE",
+		"mechanism": "cpmm-multi-1",
+		"volume": 4009.3400361697,
+		"volume24Hours": 0,
+		"isResolved": false,
+		"uniqueBettorCount": 25,
+		"lastUpdatedTime": 1775102879933,
+		"lastBetTime": 1775102879933,
+		"lastCommentTime": 1775083478900,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "tt9q5gnR0O",
+				"index": 0,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2025",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.00007248891892868217,
+					"month": 0.010629230720287814
+				},
+				"midpoint": 1751414400000,
+				"volume": 1395.9521377175768,
+				"pool": {
+					"YES": 2039.1232150136982,
+					"NO": 20.433618900457965
+				},
+				"probability": 0.009921366851345485
+			},
+			{
+				"id": "PhZlP2pqA9",
+				"index": 1,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2026",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.002528708376506636,
+					"month": 0.14793144403095548
+				},
+				"midpoint": 1782950400000,
+				"volume": 292.0006498554858,
+				"pool": {
+					"YES": 557.3146518687886,
+					"NO": 74.76327156831417
+				},
+				"probability": 0.11828173203988473
+			},
+			{
+				"id": "dNyypPQcyL",
+				"index": 2,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2027",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": 0.01683912496029502,
+					"month": 0.22539550423482538
+				},
+				"midpoint": 1814486400000,
+				"volume": 27.120987838883778,
+				"pool": {
+					"YES": 353.55339059327406,
+					"NO": 117.85113019775804
+				},
+				"probability": 0.25000000000000006
+			},
+			{
+				"id": "sI5s6S2Lgs",
+				"index": 3,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2028",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.005384312732886365,
+					"month": 0.21982461501604536
+				},
+				"midpoint": 1846108800000,
+				"volume": 5,
+				"pool": {
+					"YES": 382.124770241181,
+					"NO": 109.03942877183438
+				},
+				"probability": 0.222001988318666
+			},
+			{
+				"id": "CCQNhOuqll",
+				"index": 4,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2029",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.0038671766842716115,
+					"month": 0.16441175695016524
+				},
+				"midpoint": 1877644800000,
+				"volume": 0,
+				"pool": {
+					"YES": 457.5779170183759,
+					"NO": 91.05917291238823
+				},
+				"probability": 0.16597341773571953
+			},
+			{
+				"id": "29qN0RZg5Q",
+				"index": 5,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2030",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.0028580353507519363,
+					"month": 0.12891437755586632
+				},
+				"midpoint": 1909180800000,
+				"volume": 0,
+				"pool": {
+					"YES": 527.8990588829603,
+					"NO": 78.92923081703118
+				},
+				"probability": 0.13006847597044763
+			},
+			{
+				"id": "9ZQyZhd0gg",
+				"index": 6,
+				"contractId": "gR0nE0S95R",
+				"userId": "5XMvQhA3YgcTzyoJRiNqGWyuB9k2",
+				"text": "2031+",
+				"createdTime": 1742593976000,
+				"totalLiquidity": 204.12414523193152,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0,
+					"week": -0.0021284028969495855,
+					"month": 0.10289307149185453
+				},
+				"midpoint": 1940716800000,
+				"volume": 30,
+				"pool": {
+					"YES": 599.9400576625744,
+					"NO": 69.4513829081593
+				},
+				"probability": 0.10375301908393683
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Disclosure: I intend to bet in this market myself. Ask clarifying questions before trading.",
+							"type": "text",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "FAQ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "1. If you're reading a book you're obviously not driving?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "True fact. What I mean is, when can I (safely, see next FAQ item) read a book while sitting in the driver's seat of a private car, being the sole human in charge of the car.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "2. Technically you can do this in a Yugo?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "It has to be safe to do! Hacking the self-driving tech to bypass the \"is the driver watching the road\" mechanism also doesn't count. So also legal, though if the law were to fall blatantly behind what's clearly safe, we can talk about that.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "3. What about Waymo?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Yes, Waymo is (33 million) miles ahead here but won't count until they offer their tech for private cars.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "4. Isn't Tesla basically there?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Tesla has been making progress but as of early 2025, if you're consistently absorbed in a book while in the driver's seat of a Tesla it's pretty much a matter of time before it kills you.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "5. What about Mercedes's offering?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of early 2025, Mercedes offers SAE level 3 on certain highways in California and Nevada when there's a traffic jam keeping the speeds below 40mph, with another car it can follow, in daylight in good weather with clear lane markings etc. That's a great start but for this market we need to be closer to SAE level 4 (like Waymo). Plus much fewer restrictions. (I'll add FAQ items for each candidate restriction after discussing them in the comments.)",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "6. If this happens in, say, 2027, does 2028 also resolve YES?",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "No, we're predicting the exact year. This is a probability density function (pdf), not a cumulative distribution function (cdf).",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "horizontalRule"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note that I'm betting in this market myself while committing to make the resolution fair. I'll be transparent about my reasoning and if there are good-faith objections, I'll hear them out, we'll discuss, and I'll outsource the final decision if needed. Note the evolving FAQ. The expectation is that bettors ask clarifying questions before betting, to minimize the chances of it coming down to a judgment call.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 2
+					},
+					"content": [
+						{
+							"text": "Related Markets",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://manifold.markets/dreev/will-commaai-let-me-read-a-book-whi",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://manifold.markets/dreev/will-commaai-let-me-read-a-book-whi#",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://manifold.markets/dreev/which-company-will-let-me-read-a-bo",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://manifold.markets/dreev/which-company-will-let-me-read-a-bo",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://manifold.markets/dreev/will-portland-have-fully-selfdrivin",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://manifold.markets/dreev/will-portland-have-fully-selfdrivin",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "https://manifold.markets/dreev/in-what-year-will-we-have-agi",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "https://manifold.markets/dreev/in-what-year-will-we-have-agi",
+														"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+														"target": "_blank"
+													}
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "horizontalRule"
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 3
+					},
+					"content": [
+						{
+							"text": "Scratch area for auto-generated AI updates",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Don't believe what magically appears down here; I'll add clarifications to the FAQ.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"ai",
+			"selfdriving-vehicles",
+			"technology-default"
+		],
+		"textDescription": "Disclosure: I intend to bet in this market myself. Ask clarifying questions before trading.\n\nFAQ\n\n1. If you're reading a book you're obviously not driving?\n\nTrue fact. What I mean is, when can I (safely, see next FAQ item) read a book while sitting in the driver's seat of a private car, being the sole human in charge of the car.\n\n2. Technically you can do this in a Yugo?\n\nIt has to be safe to do! Hacking the self-driving tech to bypass the \"is the driver watching the road\" mechanism also doesn't count. So also legal, though if the law were to fall blatantly behind what's clearly safe, we can talk about that.\n\n3. What about Waymo?\n\nYes, Waymo is (33 million) miles ahead here but won't count until they offer their tech for private cars.\n\n4. Isn't Tesla basically there?\n\nTesla has been making progress but as of early 2025, if you're consistently absorbed in a book while in the driver's seat of a Tesla it's pretty much a matter of time before it kills you.\n\n5. What about Mercedes's offering?\n\nAs of early 2025, Mercedes offers SAE level 3 on certain highways in California and Nevada when there's a traffic jam keeping the speeds below 40mph, with another car it can follow, in daylight in good weather with clear lane markings etc. That's a great start but for this market we need to be closer to SAE level 4 (like Waymo). Plus much fewer restrictions. (I'll add FAQ items for each candidate restriction after discussing them in the comments.)\n\n6. If this happens in, say, 2027, does 2028 also resolve YES?\n\nNo, we're predicting the exact year. This is a probability density function (pdf), not a cumulative distribution function (cdf).\n\nNote that I'm betting in this market myself while committing to make the resolution fair. I'll be transparent about my reasoning and if there are good-faith objections, I'll hear them out, we'll discuss, and I'll outsource the final decision if needed. Note the evolving FAQ. The expectation is that bettors ask clarifying questions before betting, to minimize the chances of it coming down to a judgment call.\n\nRelated Markets\n\nhttps://manifold.markets/dreev/will-commaai-let-me-read-a-book-whi\n\nhttps://manifold.markets/dreev/which-company-will-let-me-read-a-bo\n\nhttps://manifold.markets/dreev/will-portland-have-fully-selfdrivin\n\nhttps://manifold.markets/dreev/in-what-year-will-we-have-agi\n\nScratch area for auto-generated AI updates\n\nDon't believe what magically appears down here; I'll add clarifications to the FAQ."
+	},
+	{
+		"id": "zZNhdQgPCR",
+		"creatorId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+		"creatorUsername": "HenriConfucius",
+		"creatorName": "Henri Confucius",
+		"createdTime": 1768135989490,
+		"creatorAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKUKXvbKgmm6yYGCaM9qy6H9VsxoWnQCLU4epBOjheR=s96-c",
+		"closeTime": 1799722740000,
+		"question": "How many Iranians will be killed by it's regime in 2026?",
+		"slug": "how-many-iranians-will-be-killed-by-OIt69uyy0t",
+		"url": "https://manifold.markets/HenriConfucius/how-many-iranians-will-be-killed-by-OIt69uyy0t",
+		"totalLiquidity": 200,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 7425.955022375195,
+		"volume24Hours": 1164.9101701884738,
+		"isResolved": false,
+		"uniqueBettorCount": 46,
+		"lastUpdatedTime": 1775342324424,
+		"lastBetTime": 1775342324424,
+		"lastCommentTime": 1773696674693,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "ZEsp8tl5AQ",
+				"index": 0,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "0 - 1999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.005338702548589184,
+					"week": 0.005339425406548469,
+					"month": 0.006277747013339382
+				},
+				"midpoint": 1000,
+				"volume": 1364.0441829882704,
+				"pool": {
+					"YES": 514.6059078336071,
+					"NO": 3.2424807289300865
+				},
+				"probability": 0.006261447946049778
+			},
+			{
+				"id": "h0NRdULlOc",
+				"index": 1,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "2000- 2999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.010950992533312946,
+					"week": -0.010916699281114346,
+					"month": 0.0020934678587120276
+				},
+				"midpoint": 2500,
+				"volume": 1243.7728863441644,
+				"pool": {
+					"YES": 1135.552486910344,
+					"NO": 1.4694166569825657
+				},
+				"probability": 0.00129233803884725
+			},
+			{
+				"id": "z9L0pNn6nE",
+				"index": 2,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "3000 - 5999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.04007975579049585,
+					"week": -0.009999999999999995,
+					"month": -0.002118802921204435
+				},
+				"midpoint": 4500,
+				"volume": 1418.4924929986198,
+				"pool": {
+					"YES": 285.9394817405573,
+					"NO": 5.835499627358314
+				},
+				"probability": 0.020000000000000004
+			},
+			{
+				"id": "csOO02NC6l",
+				"index": 3,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "6000-9999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.04646017299163907,
+					"week": 0.07508676268183764,
+					"month": 0.10607720403399484
+				},
+				"midpoint": 8000,
+				"volume": 784.0362030167825,
+				"pool": {
+					"YES": 98.61164635549704,
+					"NO": 16.920919595325405
+				},
+				"probability": 0.14646017299163908
+			},
+			{
+				"id": "hzOnOzhEPs",
+				"index": 4,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "10000-19999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007824856602207969,
+					"week": 0.027501573889222253,
+					"month": 0.18071116929906128
+				},
+				"midpoint": 15000,
+				"volume": 424.9532815951903,
+				"pool": {
+					"YES": 89.84666336972847,
+					"NO": 18.57163835097091
+				},
+				"probability": 0.1712961562413515
+			},
+			{
+				"id": "6RcdCZq2cC",
+				"index": 5,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "20000-39999",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.013953129213431559,
+					"week": 0.016288766074168015,
+					"month": 0.35119246841040264
+				},
+				"midpoint": 30000,
+				"volume": 492.7767291110166,
+				"pool": {
+					"YES": 63.19511774496854,
+					"NO": 26.403934333627877
+				},
+				"probability": 0.2946898847821103
+			},
+			{
+				"id": "ttU9260OER",
+				"index": 6,
+				"contractId": "zZNhdQgPCR",
+				"userId": "MXxtyWxKu2af6UzQXuUvFGy2qqQ2",
+				"text": "40000+",
+				"createdTime": 1768135989000,
+				"totalLiquidity": 40.824829046386306,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.022546113032060833,
+					"week": -0.10329982877066352,
+					"month": 0.35576674630569227
+				},
+				"midpoint": 60000,
+				"volume": 1697.8792463211535,
+				"pool": {
+					"YES": 54.4646631886772,
+					"NO": 30.636373043630925
+				},
+				"probability": 0.36
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Resolution criteria",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves based on the total number of Iranians killed by the Iranian regime during 2026, as documented by credible international human rights organizations including Amnesty International, Human Rights Watch, the UN Human Rights Office, and the Human Rights Activists News Agency (HRANA), or at the very least the sum of hospital reports coming from Iran. The regime shut down internet and is trying to supress information, so I will consider semi-conservative estimates: hospital counts, hospital estimates reported by multiple of its workers or decently reliable sources, for example. Wild guesstimates/extrapolations won't count. Deaths include executions, extrajudicial killings, and killings during security force crackdowns on protests, but any death reported during this time may be considered in case of imprecise information. The resolution will use the most comprehensive count available from these organizations/sources by year-end 2026, prioritizing figures that have been independently verified and cross-referenced across multiple sources.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Background",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Iran carried out at least 1,922 executions in 2025, more than twice the number recorded the previous year, according to the Human Rights Activists News Agency (HRANA), with executions rising by 106% compared with 2024. The 376 executions in December 2025 were unprecedented in the last 37 years. Beyond judicial executions, at least 217 protesters were killed in Tehran alone on January 8, 2026, as protests erupted on December 28, 2025 following a sharp currency collapse, with demonstrations quickly spreading nationwide and calling for the downfall of the Islamic Republic system.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "heading",
+					"attrs": {
+						"level": 4
+					},
+					"content": [
+						{
+							"text": "Considerations",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "The Iranian regime's killing of civilians occurs through multiple mechanisms: formal executions (often after unfair trials), extrajudicial killings during security force operations, and deaths during protest crackdowns. Iran's Judiciary Chief called for a decisive response against protesters \"without leniency,\" with concerns that such statements significantly increase the risk of enforced disappearances, mass arbitrary detentions, and the issuance and execution of harsh sentences, including the death penalty. Additionally, internet shutdowns in Iran have limited reporting on casualties, meaning actual figures may be substantially higher than documented counts.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "I encourage traders to post sources on the comments and discuss their reliability, your input will be greatly appreciated and also possibly considered during the resolution. The purpose is aggregating people's beliefs, the numbers thrown around and arrive at a decently accurate picture on what's really happening (and expected to happen). Before any trades happen, I can tighten the resolution criteria on demand, just comment.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "bulletList",
+					"content": [
+						{
+							"type": "listItem",
+							"content": [
+								{
+									"type": "paragraph",
+									"content": [
+										{
+											"text": "Update 2026-01-18 (PST) (AI summary of ",
+											"type": "text"
+										},
+										{
+											"text": "creator comment",
+											"type": "text",
+											"marks": [
+												{
+													"type": "link",
+													"attrs": {
+														"href": "/HenriConfucius/how-many-iranians-will-be-killed-by-OIt69uyy0t#2upawrnnygt",
+														"class": null,
+														"target": "_blank"
+													}
+												}
+											]
+										},
+										{
+											"text": "): ",
+											"type": "text"
+										},
+										{
+											"text": "Resolution timing",
+											"type": "text",
+											"marks": [
+												{
+													"type": "bold"
+												}
+											]
+										},
+										{
+											"text": ": Market will only resolve in 2027, unless undisputable figures are obtained before that which exclude lower ranges.",
+											"type": "text"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Current death toll estimate",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						},
+						{
+							"text": " (as of creator's comment): Between 5,000 and 20,000 according to government officials and activists respectively.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"news",
+			"politics-default",
+			"geopolitics",
+			"iran",
+			"middle-east"
+		],
+		"textDescription": "Resolution criteria\n\nThis market resolves based on the total number of Iranians killed by the Iranian regime during 2026, as documented by credible international human rights organizations including Amnesty International, Human Rights Watch, the UN Human Rights Office, and the Human Rights Activists News Agency (HRANA), or at the very least the sum of hospital reports coming from Iran. The regime shut down internet and is trying to supress information, so I will consider semi-conservative estimates: hospital counts, hospital estimates reported by multiple of its workers or decently reliable sources, for example. Wild guesstimates/extrapolations won't count. Deaths include executions, extrajudicial killings, and killings during security force crackdowns on protests, but any death reported during this time may be considered in case of imprecise information. The resolution will use the most comprehensive count available from these organizations/sources by year-end 2026, prioritizing figures that have been independently verified and cross-referenced across multiple sources.\n\nBackground\n\nIran carried out at least 1,922 executions in 2025, more than twice the number recorded the previous year, according to the Human Rights Activists News Agency (HRANA), with executions rising by 106% compared with 2024. The 376 executions in December 2025 were unprecedented in the last 37 years. Beyond judicial executions, at least 217 protesters were killed in Tehran alone on January 8, 2026, as protests erupted on December 28, 2025 following a sharp currency collapse, with demonstrations quickly spreading nationwide and calling for the downfall of the Islamic Republic system.\n\nConsiderations\n\nThe Iranian regime's killing of civilians occurs through multiple mechanisms: formal executions (often after unfair trials), extrajudicial killings during security force operations, and deaths during protest crackdowns. Iran's Judiciary Chief called for a decisive response against protesters \"without leniency,\" with concerns that such statements significantly increase the risk of enforced disappearances, mass arbitrary detentions, and the issuance and execution of harsh sentences, including the death penalty. Additionally, internet shutdowns in Iran have limited reporting on casualties, meaning actual figures may be substantially higher than documented counts.\n\nI encourage traders to post sources on the comments and discuss their reliability, your input will be greatly appreciated and also possibly considered during the resolution. The purpose is aggregating people's beliefs, the numbers thrown around and arrive at a decently accurate picture on what's really happening (and expected to happen). Before any trades happen, I can tighten the resolution criteria on demand, just comment.\n\nUpdate 2026-01-18 (PST) (AI summary of creator comment): Resolution timing: Market will only resolve in 2027, unless undisputable figures are obtained before that which exclude lower ranges.\n\nCurrent death toll estimate (as of creator's comment): Between 5,000 and 20,000 according to government officials and activists respectively."
+	}
+]
