@@ -1,0 +1,1781 @@
+[
+	{
+		"id": "Gtv5mhjKaiLD6Bkvfhcv",
+		"creatorId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+		"creatorUsername": "ManifoldAI",
+		"creatorName": "Manifold AI",
+		"createdTime": 1711499852781,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FManifoldAI%2FGqNC86gk-r.png?alt=media&token=28bb6171-ecc5-4a4b-9924-001fe00f6330",
+		"closeTime": 2531545140000,
+		"question": "AGI When? [High Quality Turing Test]",
+		"slug": "agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"url": "https://manifold.markets/ManifoldAI/agi-when-resolves-to-the-year-in-wh-d5c5ad8e4708",
+		"totalLiquidity": 29910,
+		"outcomeType": "NUMBER",
+		"mechanism": "cpmm-multi-1",
+		"volume": 1135945.9967916165,
+		"volume24Hours": 2701.881872349967,
+		"isResolved": false,
+		"uniqueBettorCount": 1076,
+		"lastUpdatedTime": 1788057923599,
+		"lastBetTime": 1788057923599,
+		"lastCommentTime": 1787517334534,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "2cdb91507b0d",
+				"index": 0,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2024-2025",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 15.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0000024816267254004504,
+					"week": -0.000004331704962453874,
+					"month": 0.00011079176773022712
+				},
+				"volume": 149.7428036301284,
+				"pool": {
+					"YES": 267118.9162929628,
+					"NO": 27.168678629973755
+				},
+				"probability": 0.00010169970723270289
+			},
+			{
+				"id": "ed73a628dbcc",
+				"index": 1,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2025-2026",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.000007219484537472956,
+					"week": -0.00001827505431106538,
+					"month": 0.0002560971064013286
+				},
+				"volume": 445.6102412253478,
+				"pool": {
+					"YES": 202558.21385543607,
+					"NO": 45.20247762619879
+				},
+				"probability": 0.00022310817085083044
+			},
+			{
+				"id": "e8aae6520563",
+				"index": 2,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2026-2027",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0023543022230800067,
+					"week": -0.0070209762282165515,
+					"month": 0.018088292612046468
+				},
+				"volume": 7131.313254160077,
+				"pool": {
+					"YES": 39354.39841426372,
+					"NO": 524.136004395044
+				},
+				"probability": 0.013143311609511057
+			},
+			{
+				"id": "67ea62c46640",
+				"index": 3,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2027-2028",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 15.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.011095181421982965,
+					"week": -0.01808391855732777,
+					"month": 0.044424357909277006
+				},
+				"volume": 13353.173968525203,
+				"pool": {
+					"YES": 25919.46201845571,
+					"NO": 1110.8383812060085
+				},
+				"probability": 0.04109604276613628
+			},
+			{
+				"id": "1d0fd5249e2c",
+				"index": 4,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2028-2029",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 210,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.02213439282766702,
+					"week": -0.03770243572635219,
+					"month": 0.09931625654609091
+				},
+				"volume": 19184.679893272623,
+				"pool": {
+					"YES": 20147.706687584763,
+					"NO": 1627.7556294932474
+				},
+				"probability": 0.07475182872313277
+			},
+			{
+				"id": "fc63e30d0cd3",
+				"index": 5,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2029-2030",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 55,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.04474391004080619,
+					"week": -0.04622867176173831,
+					"month": 0.12252274685689973
+				},
+				"volume": 41509.287047065125,
+				"pool": {
+					"YES": 14459.024767282584,
+					"NO": 2104.313933734104
+				},
+				"probability": 0.12704648330381224
+			},
+			{
+				"id": "5d48ed784957",
+				"index": 6,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2030-2031",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.041097789245527636,
+					"week": -0.0269103744527808,
+					"month": 0.09073593876089335
+				},
+				"volume": 32346.317795966057,
+				"pool": {
+					"YES": 14459.14001284439,
+					"NO": 1401.221720641241
+				},
+				"probability": 0.08834739990090344
+			},
+			{
+				"id": "da223cf612c4",
+				"index": 7,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2031-2032",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 40,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.018424247043345304,
+					"week": -0.010727927811789356,
+					"month": 0.08572609494835874
+				},
+				"volume": 24174.668640158096,
+				"pool": {
+					"YES": 12038.193074202132,
+					"NO": 1022.6648925894044
+				},
+				"probability": 0.07829997808640339
+			},
+			{
+				"id": "1120df2c949a",
+				"index": 8,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2032-2033",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 65,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.0005393695700553341,
+					"week": 0.008081259927840603,
+					"month": 0.08104158131523682
+				},
+				"volume": 21360.038619145314,
+				"pool": {
+					"YES": 10897.82537572406,
+					"NO": 827.9633102177987
+				},
+				"probability": 0.07061045805903449
+			},
+			{
+				"id": "77f7e579eac6",
+				"index": 9,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2033-2034",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.005937468021747799,
+					"week": 0.00833256542143105,
+					"month": 0.07289644680953598
+				},
+				"volume": 21665.12970698269,
+				"pool": {
+					"YES": 9762.348592281254,
+					"NO": 668.4841301617537
+				},
+				"probability": 0.06408732149672397
+			},
+			{
+				"id": "c398134a9e34",
+				"index": 10,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2034-2035",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.005329180074674443,
+					"week": 0.0061914441634040585,
+					"month": 0.05796201658968374
+				},
+				"volume": 17251.974566295787,
+				"pool": {
+					"YES": 10149.77404938227,
+					"NO": 609.4493588420045
+				},
+				"probability": 0.05664436323314429
+			},
+			{
+				"id": "b586da03d2ec",
+				"index": 11,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2035-2036",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.004940987691938535,
+					"week": 0.006650916411758065,
+					"month": 0.04412393373234263
+				},
+				"volume": 14611.351384148711,
+				"pool": {
+					"YES": 9937.676643621811,
+					"NO": 533.4362071852972
+				},
+				"probability": 0.050943602154395674
+			},
+			{
+				"id": "a6051fa037db",
+				"index": 12,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2036-2037",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.008189109064952883,
+					"week": 0.010038344660894802,
+					"month": 0.0345265843127353
+				},
+				"volume": 11941.465069536433,
+				"pool": {
+					"YES": 8767.446041822313,
+					"NO": 410.33773156206723
+				},
+				"probability": 0.04470989311733937
+			},
+			{
+				"id": "4271e6a3e455",
+				"index": 13,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2037-2038",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.012049579608661754,
+					"week": 0.010787517395467072,
+					"month": 0.03123976106503544
+				},
+				"volume": 11472.13784555669,
+				"pool": {
+					"YES": 8605.719813384108,
+					"NO": 337.62419513975635
+				},
+				"probability": 0.03775144899021754
+			},
+			{
+				"id": "aa017a9cebe3",
+				"index": 14,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2038-2039",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.010818193958175307,
+					"week": 0.0096974208009016,
+					"month": 0.0269917782350682
+				},
+				"volume": 10710.621678530413,
+				"pool": {
+					"YES": 8333.775146459808,
+					"NO": 283.2774423399083
+				},
+				"probability": 0.03287405286444544
+			},
+			{
+				"id": "46ff975d1efe",
+				"index": 15,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2039-2040",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.011451727989716096,
+					"week": 0.01039534345191951,
+					"month": 0.024499149731397923
+				},
+				"volume": 9813.540655200126,
+				"pool": {
+					"YES": 6442.930808790538,
+					"NO": 203.31878005075066
+				},
+				"probability": 0.030591505379532005
+			},
+			{
+				"id": "cccb4c406baf",
+				"index": 16,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2040-2041",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.009657181231648375,
+					"week": 0.008912365668458641,
+					"month": 0.02211639795055125
+				},
+				"volume": 8516.675984183606,
+				"pool": {
+					"YES": 7385.178447105048,
+					"NO": 190.81521619179173
+				},
+				"probability": 0.02518682362634855
+			},
+			{
+				"id": "9ae19221aa18",
+				"index": 17,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2041-2042",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.009777728926036901,
+					"week": 0.009085460999510684,
+					"month": 0.01830010613508089
+				},
+				"volume": 7377.884810590749,
+				"pool": {
+					"YES": 5793.097456119155,
+					"NO": 127.9716164028282
+				},
+				"probability": 0.021612924091142342
+			},
+			{
+				"id": "6039886c26fa",
+				"index": 18,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2042-2043",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.008916334118268712,
+					"week": 0.008296800585327708,
+					"month": 0.016073040649397255
+				},
+				"volume": 6756.850375070711,
+				"pool": {
+					"YES": 5549.212390246263,
+					"NO": 108.2606048784838
+				},
+				"probability": 0.019135858884660337
+			},
+			{
+				"id": "4322a973f59c",
+				"index": 19,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2043-2044",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.008274842180809035,
+					"week": 0.007708626817082747,
+					"month": 0.014482249046379687
+				},
+				"volume": 5914.5300335369975,
+				"pool": {
+					"YES": 5361.703030126516,
+					"NO": 94.70435101941034
+				},
+				"probability": 0.017356539643035417
+			},
+			{
+				"id": "1f24b6787f0d",
+				"index": 20,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2044-2045",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007959678794565446,
+					"week": 0.007432026932316104,
+					"month": 0.013130241289894281
+				},
+				"volume": 5172.4335596657775,
+				"pool": {
+					"YES": 4984.229589933942,
+					"NO": 80.83000796715446
+				},
+				"probability": 0.01595835279029086
+			},
+			{
+				"id": "0f172ca6223b",
+				"index": 21,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2045-2046",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 30,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007643017375951267,
+					"week": 0.0071362569983713705,
+					"month": 0.012616345674456467
+				},
+				"volume": 4629.503067457231,
+				"pool": {
+					"YES": 4993.721049977874,
+					"NO": 77.7543946562983
+				},
+				"probability": 0.015331710762509089
+			},
+			{
+				"id": "9b885d17779f",
+				"index": 22,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2046-2047",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007395265530932112,
+					"week": 0.0061541823673916494,
+					"month": 0.01127566275938714
+				},
+				"volume": 4186.4658150576,
+				"pool": {
+					"YES": 4776.863993108224,
+					"NO": 70.00563630646468
+				},
+				"probability": 0.014443474171785924
+			},
+			{
+				"id": "9199140a0c5f",
+				"index": 23,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2047-2048",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007225082598028346,
+					"week": 0.007469552271116998,
+					"month": 0.009835874908445483
+				},
+				"volume": 3656.7288115823562,
+				"pool": {
+					"YES": 4643.878385339216,
+					"NO": 65.35256965207506
+				},
+				"probability": 0.013877546095463463
+			},
+			{
+				"id": "659fc2df1d1d",
+				"index": 24,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2048-2049",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 10.000000000000002,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.007238915964803084,
+					"week": 0.007476395698148279,
+					"month": 0.00934394330204304
+				},
+				"volume": 3514.291034758345,
+				"pool": {
+					"YES": 4380.058078870015,
+					"NO": 59.717355897736006
+				},
+				"probability": 0.013450535229798144
+			},
+			{
+				"id": "c43dc66076d5",
+				"index": 25,
+				"contractId": "Gtv5mhjKaiLD6Bkvfhcv",
+				"userId": "8lZo8X5lewh4hnCoreI7iSc0GxK2",
+				"text": "2049-2050",
+				"createdTime": 1711499852781,
+				"totalLiquidity": 40,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.006515861212706569,
+					"week": 0.006850430726137717,
+					"month": 0.038364309985631284
+				},
+				"volume": 14755.467384950174,
+				"pool": {
+					"YES": 16715.517712465866,
+					"NO": 560.1414310259674
+				},
+				"probability": 0.032423737142150466
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the ",
+							"type": "text"
+						},
+						{
+							"text": "manifold.markets/ai",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "http://manifold.markets/ai",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_self"
+									}
+								}
+							]
+						},
+						{
+							"text": " page.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "The ",
+									"type": "text"
+								},
+								{
+									"text": "Turing test",
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://en.wikipedia.org/wiki/Turing_test",
+												"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+												"target": "_blank"
+											}
+										}
+									]
+								},
+								{
+									"text": ", originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "For proposed testing criteria, refer to ",
+							"type": "text"
+						},
+						{
+							"text": "this Metaculus Question by Matthew Barnett, ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/11861/when-will-ai-pass-a-difficult-turing-test/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": "or the ",
+							"type": "text"
+						},
+						{
+							"text": "Longbets wager between Ray Kurzweil and Mitch Kapor. ",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://longbets.org/1/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "As of market creation, Metaculus predicts there is an ~",
+							"type": "text"
+						},
+						{
+							"text": "88% chance",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://www.metaculus.com/questions/3648/longbets-turing-test-2029/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Manifold's current prediction of the specific Longbets Turing test can be found here:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "contract-mention",
+							"attrs": {
+								"id": "nKyHon3IPOqJYzaWTHJB",
+								"label": "/dreev/will-ai-pass-the-turing-test-by-202"
+							}
+						},
+						{
+							"text": " ",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "This question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "Additional Context From Longbets:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "One or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "The computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Additional Context From Metaculus:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "blockquote",
+					"content": [
+						{
+							"type": "paragraph",
+							"content": [
+								{
+									"text": "This question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. ",
+									"type": "text"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"type": "hardBreak"
+								},
+								{
+									"text": "A Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, ",
+									"type": "text"
+								},
+								{
+									"text": "and",
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									]
+								},
+								{
+									"text": " the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.",
+									"type": "text"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Note: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/contract-images/ManifoldAI/6fdd83122a90.jpg",
+		"groupSlugs": [
+			"agi",
+			"ai"
+		],
+		"textDescription": "This market resolves to the year in which an AI system exists which is capable of passing a high quality, adversarial Turing test. It is used for the Big Clock on the manifold.markets/ai page.\n\nThe Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.\n\nFor proposed testing criteria, refer to this Metaculus Question by Matthew Barnett, or the Longbets wager between Ray Kurzweil and Mitch Kapor. \n\n\nAs of market creation, Metaculus predicts there is an ~88% chance that an AI will pass the Longbets Turing test before 2030, with a median community prediction of July 2028.\n\nManifold's current prediction of the specific Longbets Turing test can be found here:\n\n@/dreev/will-ai-pass-the-turing-test-by-202 \n\nThis question is intended to determine the Manifold community's median prediction, not just of the Longbets wager specifically but of any similiarly high-quality test.\n\n\nAdditional Context From Longbets:\n\nOne or more human judges interview computers and human foils using terminals (so that the judges won't be prejudiced against the computers for lacking a human appearance). The nature of the dialogue between the human judges and the candidates (i.e., the computers and the human foils) is similar to an online chat using instant messaging. \n\nThe computers as well as the human foils try to convince the human judges of their humanness. If the human judges are unable to reliably unmask the computers (as imposter humans) then the computer is considered to have demonstrated human-level intelligence.\n\nAdditional Context From Metaculus:\n\nThis question refers to a high quality subset of possible Turing tests that will, in theory, be extremely difficult for any AI to pass if the AI does not possess extensive knowledge of the world, mastery of natural language, common sense, a high level of skill at deception, and the ability to reason at least as well as humans do. \n\nA Turing test is said to be \"adversarial\" if the human judges make a good-faith attempt, in the best of their abilities, to successfully unmask the AI as an impostor among the participants, and the human confederates make a good-faith attempt, in the best of their abilities, to demonstrate that they are humans. In other words, all of the human participants should be trying to ensure that the AI does not pass the test.\n\nNote: These criteria are still in draft form, and may be updated to better match the spirit of the question. Your feedback is welcome in the comments."
+	},
+	{
+		"id": "iEnFGnizd88nHowZvtqM",
+		"creatorId": "y1hb6k7txdZPV5mgyxPFApZ7nQl2",
+		"creatorUsername": "IsaacKing",
+		"creatorName": "Isaac King",
+		"createdTime": 1678227394129,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FIsaacKing%2FfP-MqjWonh.jpg?alt=media&token=e21d446d-75e0-4ab8-8e7c-a7b2af67e4cc",
+		"closeTime": 1798790400000,
+		"question": "Will the Against Malaria Foundation reach $1 billion raised by the end of 2026?",
+		"slug": "will-the-against-malaria-foundation-f2309dbb40be",
+		"url": "https://manifold.markets/IsaacKing/will-the-against-malaria-foundation-f2309dbb40be",
+		"pool": {
+			"NO": 2916.8303736953476,
+			"YES": 33.761433536763334
+		},
+		"probability": 0.9936165763473355,
+		"p": 0.6430698240294456,
+		"totalLiquidity": 170,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 5001.21187656692,
+		"volume24Hours": 1.426523707518939,
+		"isResolved": false,
+		"uniqueBettorCount": 14,
+		"lastUpdatedTime": 1788036267810,
+		"lastBetTime": 1788036267810,
+		"lastCommentTime": 1787695229685,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "https://twitter.com/AgainstMalaria/status/1631307793000026114",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://twitter.com/AgainstMalaria/status/1631307793000026114",
+										"class": null,
+										"target": "_blank"
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"coverImageUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/dream%2FFvFL9ho-0R.png?alt=media&token=5a5bb77d-95bd-43a6-92ac-c7c42d030e4a",
+		"groupSlugs": [
+			"effective-altruism",
+			"public-health"
+		],
+		"textDescription": "https://twitter.com/AgainstMalaria/status/1631307793000026114"
+	},
+	{
+		"id": "ZUE0syUqcU",
+		"creatorId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+		"creatorUsername": "EliTyre",
+		"creatorName": "Eli Tyre",
+		"createdTime": 1785275329005,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2FEliTyre%2FSvybMw9q8U.jpg?alt=media&token=6e6ffb03-210e-4603-b611-3602c52d07b0",
+		"closeTime": 1788332340000,
+		"question": "When will OpenAI release a technical report on the Hugging Face hack?",
+		"slug": "when-will-openai-release-a-technica",
+		"url": "https://manifold.markets/EliTyre/when-will-openai-release-a-technica",
+		"totalLiquidity": 5975,
+		"outcomeType": "DATE",
+		"mechanism": "cpmm-multi-1",
+		"volume": 109102.29971785971,
+		"volume24Hours": 1515.98836580773,
+		"isResolved": false,
+		"uniqueBettorCount": 70,
+		"lastUpdatedTime": 1788053146652,
+		"lastBetTime": 1788053146652,
+		"lastCommentTime": 1787970662558,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "zccuq8IsUA",
+				"index": 0,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "Before August 2",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0002635306582303361,
+					"week": -0.009046307907466355,
+					"month": -0.10844942832669323
+				},
+				"midpoint": 1785369600000,
+				"volume": 13246.301773903057,
+				"pool": {
+					"YES": 43160.25170446835,
+					"NO": 31.5947598554485
+				},
+				"probability": 0.0007314982442703759
+			},
+			{
+				"id": "8ZCsINOcqA",
+				"index": 1,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "August 2 - August 8",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.000295489227352533,
+					"week": -0.00874095790836098,
+					"month": -0.2827103553018376
+				},
+				"midpoint": 1785888000000,
+				"volume": 16951.516440882744,
+				"pool": {
+					"YES": 48933.64321135123,
+					"NO": 53.74481390250912
+				},
+				"probability": 0.001097115320269839
+			},
+			{
+				"id": "h2A2Ppcghs",
+				"index": 2,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "August 9 - August 15",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0011279458898161867,
+					"week": -0.008109294974140232,
+					"month": -0.15954799746778464
+				},
+				"midpoint": 1786492800000,
+				"volume": 12753.950227135865,
+				"pool": {
+					"YES": 29381.79086367441,
+					"NO": 55.55555158231073
+				},
+				"probability": 0.001887247267420732
+			},
+			{
+				"id": "6IpQq6ORzl",
+				"index": 3,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "August 16 - August 22",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0003143476021169461,
+					"week": -0.049009502025472905,
+					"month": -0.19892767885994314
+				},
+				"midpoint": 1787097600000,
+				"volume": 17187.573958610545,
+				"pool": {
+					"YES": 46519.77923486716,
+					"NO": 46.12343227382917
+				},
+				"probability": 0.0009904979745270987
+			},
+			{
+				"id": "IyCEtypEEq",
+				"index": 4,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "August 23 - August 29",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.0023329665647050524,
+					"week": 0.6809741500888016,
+					"month": 0.8851704350132434
+				},
+				"midpoint": 1787702400000,
+				"volume": 40828.54411972664,
+				"pool": {
+					"YES": 78.1276506110944,
+					"NO": 14311.80205963877
+				},
+				"probability": 0.9945706718389706
+			},
+			{
+				"id": "NPNR9lZcIl",
+				"index": 5,
+				"contractId": "ZUE0syUqcU",
+				"userId": "BM7WDql3V0fOWBtlc2s4ITzUPZ32",
+				"text": "Later",
+				"createdTime": 1785275329005,
+				"totalLiquidity": 39.13118960624632,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.00033165318718906677,
+					"week": -0.6060680872733611,
+					"month": -0.1355349750569847
+				},
+				"midpoint": 1788307200000,
+				"volume": 8134.413197600895,
+				"pool": {
+					"YES": 35771.80092661583,
+					"NO": 25.88062672669912
+				},
+				"probability": 0.0007229693545414137
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In their ",
+							"type": "text"
+						},
+						{
+							"text": "blogpost",
+							"type": "text",
+							"marks": [
+								{
+									"type": "link",
+									"attrs": {
+										"href": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+										"class": "break-anywhere hover:underline hover:decoration-primary-400 hover:decoration-2 active:underline active:decoration-primary-400",
+										"target": "_blank"
+									}
+								}
+							]
+						},
+						{
+							"text": " disclosing that one of their unreleased models hacked Huggingface, OpenAI said, ",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "> ",
+							"type": "text"
+						},
+						{
+							"text": "We are conducting a thorough review along with external advisors and with oversight from the Safety and Security Committee. Once the review is complete, we will publish a technical report of our learnings in the coming weeks.",
+							"type": "text",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "When will this technical report be released?",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"textDescription": "In their blogpost disclosing that one of their unreleased models hacked Huggingface, OpenAI said, \n\n> We are conducting a thorough review along with external advisors and with oversight from the Safety and Security Committee. Once the review is complete, we will publish a technical report of our learnings in the coming weeks.\n\nWhen will this technical report be released?"
+	},
+	{
+		"id": "QOn2nOgyL0",
+		"creatorId": "d6La9emHJsTwmxPOZ2UdSYrlr6I3",
+		"creatorUsername": "jcb",
+		"creatorName": "jcb",
+		"createdTime": 1767730379796,
+		"creatorAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/mantic-markets.appspot.com/o/user-images%2Fjcb%2FpaY69J4Um-.jpg?alt=media&token=ba981184-6d55-4dd8-a7a5-4c665c2b9ec8",
+		"closeTime": 1798790399000,
+		"question": "Will the USA become a province of Argentina?",
+		"slug": "will-the-usa-become-a-province-of-a",
+		"url": "https://manifold.markets/jcb/will-the-usa-become-a-province-of-a",
+		"pool": {
+			"NO": 10.050378152592174,
+			"YES": 994.9874371066248
+		},
+		"probability": 0.009999999999999986,
+		"p": 0.49999999999999956,
+		"totalLiquidity": 100,
+		"outcomeType": "BINARY",
+		"mechanism": "cpmm-1",
+		"volume": 3623.8214803431074,
+		"volume24Hours": 869.9017924510099,
+		"isResolved": false,
+		"uniqueBettorCount": 12,
+		"lastUpdatedTime": 1788032626692,
+		"lastBetTime": 1788032626692,
+		"lastCommentTime": 1767743512753,
+		"token": "MANA",
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "In 2026.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"groupSlugs": [
+			"argentina",
+			"us-politics",
+			"politics-default",
+			"imperalism"
+		],
+		"textDescription": "In 2026."
+	},
+	{
+		"id": "sEguUCCRNC",
+		"creatorId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+		"creatorUsername": "bigyahu",
+		"creatorName": "big yahu",
+		"createdTime": 1785594894989,
+		"creatorAvatarUrl": "https://storage.googleapis.com/mantic-markets.appspot.com/user-images/gFWDIIcDgOcwEUMfGtQALH34b4m1.png",
+		"closeTime": 1788191940000,
+		"question": "How many hours will I study in August? (high liquidity, regular data updates)",
+		"slug": "how-many-hours-will-i-study-in-augu-tSRdZSLqpC",
+		"url": "https://manifold.markets/bigyahu/how-many-hours-will-i-study-in-augu-tSRdZSLqpC",
+		"totalLiquidity": 1000,
+		"outcomeType": "MULTI_NUMERIC",
+		"mechanism": "cpmm-multi-1",
+		"volume": 34040.42667814301,
+		"volume24Hours": 2548.4952840801025,
+		"isResolved": false,
+		"uniqueBettorCount": 58,
+		"lastUpdatedTime": 1788058644774,
+		"lastBetTime": 1788058644774,
+		"lastCommentTime": 1788015056558,
+		"token": "MANA",
+		"shouldAnswersSumToOne": true,
+		"addAnswersMode": "DISABLED",
+		"answers": [
+			{
+				"id": "ydcOl9dncp",
+				"index": 0,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "Below 150",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.000088738557611193,
+					"week": -0.0019862110063537906,
+					"month": 0.12497001328819049
+				},
+				"midpoint": 140,
+				"volume": 3489.901807248594,
+				"pool": {
+					"YES": 11573.552727168953,
+					"NO": 3.085853286039466
+				},
+				"probability": 0.0002665586616178341
+			},
+			{
+				"id": "pA0A9uPNNE",
+				"index": 1,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "150 - 174",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.00007882807833624523,
+					"week": -0.001746223158345253,
+					"month": 0.12497324767990957
+				},
+				"midpoint": 162,
+				"volume": 3394.2173429377654,
+				"pool": {
+					"YES": 12005.72622029902,
+					"NO": 2.9747709600357766
+				},
+				"probability": 0.00024771796401634657
+			},
+			{
+				"id": "npsItIgnLl",
+				"index": 2,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "175 - 199",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0000666100758595707,
+					"week": -0.002031439488860927,
+					"month": 0.124977262762464
+				},
+				"midpoint": 187,
+				"volume": 635.3971153159762,
+				"pool": {
+					"YES": 12650.632635380523,
+					"NO": 2.8231225064903995
+				},
+				"probability": 0.0002231107896932205
+			},
+			{
+				"id": "6pEhCncq9h",
+				"index": 3,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "200 - 224",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.0003195874399795612,
+					"week": -0.05549426340086252,
+					"month": 0.12490446495531371
+				},
+				"midpoint": 212,
+				"volume": 5930.669620637057,
+				"pool": {
+					"YES": 8132.730962231202,
+					"NO": 4.3914259404551785
+				},
+				"probability": 0.0005396780005224789
+			},
+			{
+				"id": "lN9qss8lQL",
+				"index": 4,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "225 - 249",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.1407464709287944,
+					"week": -0.20312825373104829,
+					"month": 0.08729806875648083
+				},
+				"midpoint": 237,
+				"volume": 4570.321799932636,
+				"pool": {
+					"YES": 877.0231972076272,
+					"NO": 40.72216770091939
+				},
+				"probability": 0.04437196771348157
+			},
+			{
+				"id": "dN65uLA6uC",
+				"index": 5,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "250 - 274",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": 0.14219399154374623,
+					"week": 0.268124763046829,
+					"month": 0.1631458512974595
+				},
+				"midpoint": 262,
+				"volume": 12416.216336000005,
+				"pool": {
+					"YES": 41.9139121788303,
+					"NO": 852.0866666396264
+				},
+				"probability": 0.953116459684819
+			},
+			{
+				"id": "unnOIZPOP6",
+				"index": 6,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "275 - 300",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.000822239501100036,
+					"week": -0.001382897318905033,
+					"month": 0.12475544485265129
+				},
+				"midpoint": 287.5,
+				"volume": 2185.0848256208124,
+				"pool": {
+					"YES": 5969.236594542213,
+					"NO": 5.983057489619327
+				},
+				"probability": 0.0010013117237597832
+			},
+			{
+				"id": "ZS8gyCt50N",
+				"index": 7,
+				"contractId": "sEguUCCRNC",
+				"userId": "gFWDIIcDgOcwEUMfGtQALH34b4m1",
+				"text": "Above 300",
+				"createdTime": 1785594894989,
+				"totalLiquidity": 188.98223650461364,
+				"subsidyPool": 0,
+				"isOther": false,
+				"probChanges": {
+					"day": -0.00007151696206532677,
+					"week": -0.0023554749424532996,
+					"month": 0.12497564640753007
+				},
+				"midpoint": 315,
+				"volume": 1418.6178304501523,
+				"pool": {
+					"YES": 12374.005171926652,
+					"NO": 2.886234910852636
+				},
+				"probability": 0.00023319546208979105
+			}
+		],
+		"description": {
+			"type": "doc",
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "i have big exams coming up, will try to update study time every few days if not daily. feel free to comment for more data (2025?) or updates. data source: mobile app that i use as a study timer, which i do not pause when taking very short breaks (<5 min) for functional purposes.",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "2026 data:",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Monthly",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "January — 99:20:32",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "February — 143:39:50",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "March — 170:55:54",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "April — 173:07:21",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "May — 197:19:00",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "June — 246:21:46",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "July — 202:21:41",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "August (as of 1 August) — 11:17:45",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Weekly",
+							"type": "text",
+							"marks": [
+								{
+									"type": "bold"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "5 Jan – 11 Jan — 6:16:14",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "12 Jan – 18 Jan — 26:47:48",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "19 Jan – 25 Jan — 35:30:30",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "26 Jan – 1 Feb — 35:47:14",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "2 Feb – 8 Feb — 35:00:01",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "9 Feb – 15 Feb — 36:56:52",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "16 Feb – 22 Feb — 36:34:08",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "23 Feb – 1 Mar — 35:30:44",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "2 Mar – 8 Mar — 37:46:22",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "9 Mar – 15 Mar — 35:26:11",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "16 Mar – 22 Mar — 46:00:56",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "23 Mar – 29 Mar — 38:19:48",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "30 Mar – 5 Apr — 40:53:52",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "6 Apr – 12 Apr — 38:06:49",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "13 Apr – 19 Apr — 41:48:11",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "20 Apr – 26 Apr — 39:48:30",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "27 Apr – 3 May — 37:53:29",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "4 May – 10 May — 39:22:58",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "11 May – 17 May — 47:30:02",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "18 May – 24 May — 37:04:21",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "25 May – 31 May — 55:57:31",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "1 Jun – 7 Jun — 35:01:32",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "8 Jun – 14 Jun — 56:21:25",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "15 Jun – 21 Jun — 70:03:56",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "22 Jun – 28 Jun — 72:59:30",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "29 Jun – 5 Jul — 50:59:07",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "6 Jul – 12 Jul — 48:26:36",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "13 Jul – 19 Jul — 36:53:35",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "20 Jul – 26 Jul — 49:00:13",
+							"type": "text"
+						},
+						{
+							"type": "hardBreak"
+						},
+						{
+							"text": "27 Jul – 2 Aug ",
+							"type": "text"
+						},
+						{
+							"text": "(incomplete; as of 1 August)",
+							"type": "text",
+							"marks": [
+								{
+									"type": "italic"
+								}
+							]
+						},
+						{
+							"text": " — 40:15:15",
+							"type": "text"
+						}
+					]
+				},
+				{
+					"type": "paragraph"
+				},
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "i reserve the right to bet on this market.",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"textDescription": "i have big exams coming up, will try to update study time every few days if not daily. feel free to comment for more data (2025?) or updates. data source: mobile app that i use as a study timer, which i do not pause when taking very short breaks (<5 min) for functional purposes.\n\n2026 data:\n\nMonthly\n\nJanuary — 99:20:32\nFebruary — 143:39:50\nMarch — 170:55:54\nApril — 173:07:21\nMay — 197:19:00\nJune — 246:21:46\nJuly — 202:21:41\nAugust (as of 1 August) — 11:17:45\n\nWeekly\n\n5 Jan – 11 Jan — 6:16:14\n12 Jan – 18 Jan — 26:47:48\n19 Jan – 25 Jan — 35:30:30\n26 Jan – 1 Feb — 35:47:14\n2 Feb – 8 Feb — 35:00:01\n9 Feb – 15 Feb — 36:56:52\n16 Feb – 22 Feb — 36:34:08\n23 Feb – 1 Mar — 35:30:44\n2 Mar – 8 Mar — 37:46:22\n9 Mar – 15 Mar — 35:26:11\n16 Mar – 22 Mar — 46:00:56\n23 Mar – 29 Mar — 38:19:48\n30 Mar – 5 Apr — 40:53:52\n6 Apr – 12 Apr — 38:06:49\n13 Apr – 19 Apr — 41:48:11\n20 Apr – 26 Apr — 39:48:30\n27 Apr – 3 May — 37:53:29\n4 May – 10 May — 39:22:58\n11 May – 17 May — 47:30:02\n18 May – 24 May — 37:04:21\n25 May – 31 May — 55:57:31\n1 Jun – 7 Jun — 35:01:32\n8 Jun – 14 Jun — 56:21:25\n15 Jun – 21 Jun — 70:03:56\n22 Jun – 28 Jun — 72:59:30\n29 Jun – 5 Jul — 50:59:07\n6 Jul – 12 Jul — 48:26:36\n13 Jul – 19 Jul — 36:53:35\n20 Jul – 26 Jul — 49:00:13\n27 Jul – 2 Aug (incomplete; as of 1 August) — 40:15:15\n\ni reserve the right to bet on this market."
+	}
+]
